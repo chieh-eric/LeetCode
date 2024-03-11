@@ -11,7 +11,8 @@ class Solution:
                 if target == nums[l] + nums[r]:
                     res.append([nums[i],nums[l],nums[r]])
                     l+=1
-                    
+                    while(nums[l] == nums[l-1]) and l < r:
+                        l+=1
                     r-=1
                     while(nums[r] == nums[r+1]) and l < r:
                         r-=1
