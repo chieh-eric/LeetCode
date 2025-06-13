@@ -1,3 +1,4 @@
+from itertools import permutations
 class Solution(object):
     def maxCompatibilitySum(self, students, mentors):
         """
@@ -5,27 +6,14 @@ class Solution(object):
         :type mentors: List[List[int]]
         :rtype: int
         """
-        # Use DP with bitmap
-        # Initial Case: dp[mask] -> mask means the selected mentor
-        n = len(students)
-        dp = [0]* (1<<n)
+        def score(s, m):
+            return sum(x == y for x, y in zip(s, m))
 
-        # Prepare the student-mentors score pairs
-        score = [[0]*n for _ in range(n)]
-        for i in range(n):
-            for j in range(n):
-                score[i][j] = sum(a==b for a,b in zip(students[i],mentors[j]))
-        
-        for mask in range(1<<n):
-            i = bin(mask).count('1')
-
-            if i >= n:
-                continue
-            
-            for j in range(n):
-                if not (mask >> j) & 1:
-                    new_mask = mask | 1<<j
-                    dp[new_mask] = max(dp[new_mask],dp[mask]+score[i][j])
-        return dp[(1<<n)-1]
+        m = len(students)
+        best = 0
+        for perm in permutations(range(m)):
+            total = sum(score(students[i], mentors[perm[i]]) for i in range(m))
+            best = max(best, total)
+        return best
 
 
