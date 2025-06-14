@@ -10,14 +10,11 @@ class Solution(object):
         n = len(nums)
       
         nums.sort()
-        print(nums)
         count = 0
         for i in range(n):
             l = lower - nums[i]
             u = upper - nums[i]
             low_index = bisect.bisect_left(nums,l,i+1,n)
             up_index = bisect.bisect_right(nums,u,i+1,n)
-            
-            
             count += (up_index-low_index)
         return count
