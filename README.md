@@ -91,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/chieh-eric/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1142-minimum-knight-moves](https://github.com/chieh-eric/LeetCode/tree/master/1142-minimum-knight-moves) |
 <!---LeetCode Topics End-->
