@@ -7,21 +7,19 @@ class Solution(object):
         :rtype: int
         """
         valid = set()
-        divisible = {}
-        for i in nums:
-            if i%p == 0:
-                divisible[i] = True
 
         n = len(nums)
         count = 0
         for i in range(n):
             cur = 0
-            for j in range(i+1,n+1):
-                cur = cur + 1 if nums[j-1] in divisible else cur
+            sub = []
+            for j in range(i,n):
+                if nums[j] % p == 0:
+                    cur += 1
                 if cur > k:
                     break
-                substr = ''.join(str(nums[i:j]))
-                if substr not in valid:
-                    valid.add(substr)
+                sub.append(nums[j])
+                if tuple(sub) not in valid:
+                    valid.add(tuple(sub))
                     count += 1
         return count
