@@ -12,13 +12,11 @@ class Solution(object):
         for i in range(n):
             if seq[i] == "(":
                 depth += 1
-                stack.append(depth)
+                stack.append(depth%2)
             elif seq[i] == ")":
-                stack.append(depth)
+                stack.append(depth%2)
                 depth -= 1
-        res = []
-        for i in range(n):
-            res.append(stack[i]%2)
-        return res
+       
+        return stack
         # (())(())
         # (()())
