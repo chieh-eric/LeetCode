@@ -7,12 +7,7 @@ class Solution(object):
         """
         m = len(colors)
         colors.extend(colors)
-        print(colors)
-
-        prev = -1
-        n = len(colors)
       
-
         prev = -1
         left = count = 0
         for i in range(m+k-1):
