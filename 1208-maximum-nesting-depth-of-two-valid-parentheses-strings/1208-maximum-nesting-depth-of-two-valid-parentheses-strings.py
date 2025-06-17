@@ -6,17 +6,15 @@ class Solution(object):
         """
         # ((()))
         stack = []
-        n = len(seq)
         depth = 0
 
-        for i in range(n):
-            if seq[i] == "(":
+        for num in seq:
+            if num == "(":
                 depth += 1
                 stack.append(depth%2)
-            elif seq[i] == ")":
+            else:
                 stack.append(depth%2)
                 depth -= 1
-       
         return stack
         # (())(())
         # (()())
