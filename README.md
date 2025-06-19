@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/chieh-eric/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/chieh-eric/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Trie
 |  |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Stack
 |  |
