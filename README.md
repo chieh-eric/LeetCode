@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3270-minimum-moves-to-capture-the-queen](https://github.com/chieh-eric/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 ## Union Find
 |  |
 | ------- |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-minimum-area-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/chieh-eric/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/chieh-eric/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
+| [3270-minimum-moves-to-capture-the-queen](https://github.com/chieh-eric/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 ## Geometry
 |  |
 | ------- |
