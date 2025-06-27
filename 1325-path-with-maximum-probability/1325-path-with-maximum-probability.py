@@ -1,4 +1,5 @@
 from collections import defaultdict
+import heapq
 class Solution(object):
     def maxProbability(self, n, edges, succProb, start_node, end_node):
         """
@@ -14,16 +15,25 @@ class Solution(object):
             graph[i].append((succProb[index], j))
             graph[j].append((succProb[index], i))
         
-        queue = deque()
-        queue.append((1,start_node))
-        count = defaultdict(int)
+        heap = []
+        heapq.heappush(heap,(-1,start_node))
+        visited = set()
 
-        while queue:
-            prob, node = queue.popleft()
+        while heap:
+            neg_prob, node = heapq.heappop(heap)
+            prob = -neg_prob
+
+            if node == end_node:
+                return prob
+
+            if node in visited:
+                continue
+
+            visited.add(node)
 
             for route_prob, neighbor in graph[node]:
-                if count[neighbor] < prob * route_prob:
-                    count[neighbor] = prob * route_prob
-                    queue.append((count[neighbor],neighbor))
-        return count[end_node]
+                if neighbor not in visited:
+                    new_prob = prob * route_prob
+                    heapq.heappush(heap,(-new_prob,neighbor))
+        return 0
         
