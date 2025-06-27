@@ -17,7 +17,7 @@ class Solution(object):
         
         heap = []
         heapq.heappush(heap,(-1,start_node))
-        visited = set()
+        visited = [False]*n
 
         while heap:
             neg_prob, node = heapq.heappop(heap)
@@ -26,13 +26,13 @@ class Solution(object):
             if node == end_node:
                 return prob
 
-            if node in visited:
+            if visited[node]:
                 continue
 
-            visited.add(node)
+            visited[node] = True
 
             for route_prob, neighbor in graph[node]:
-                if neighbor not in visited:
+                if not visited[neighbor]:
                     new_prob = prob * route_prob
                     heapq.heappush(heap,(-new_prob,neighbor))
         return 0
