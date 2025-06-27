@@ -11,31 +11,20 @@ class Solution(object):
         :type limit: int
         :rtype: Optional[TreeNode]
         """
-        nodes = {}
-        valid = set()
-        def dfs(node,path):
-            if node is None:
-                return
-            path.append(node)
-            if not node.right and not node.left:
-                total = sum(node.val for node in path)
-                if total >= limit:
-                    for node in path:
-                        valid.add(node)
-            dfs(node.left,path)
-            dfs(node.right,path)
-            path.pop()
-
-        dfs(root,[])
-
-        def remove(node):
-            if node is None:
+        
+        def dfs(node,pathSum):
+            if not node:
                 return None
-            if node not in valid:
+            pathSum += node.val
+
+            if not node.left and not node.right:
+                return node if pathSum >= limit else None
+            
+            node.left = dfs(node.left,pathSum)
+            node.right = dfs(node.right,pathSum)
+
+            if not node.left and not node.right:
                 return None
             
-            node.left = remove(node.left)
-            node.right = remove(node.right)
-
             return node
-        return remove(root)
+        return dfs(root,0)
