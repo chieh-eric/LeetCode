@@ -68,12 +68,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/chieh-eric/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1248-binary-tree-coloring-game](https://github.com/chieh-eric/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/chieh-eric/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1021-distribute-coins-in-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1248-binary-tree-coloring-game](https://github.com/chieh-eric/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/chieh-eric/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/chieh-eric/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1248-binary-tree-coloring-game](https://github.com/chieh-eric/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/chieh-eric/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Graph
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/chieh-eric/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chieh-eric/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/chieh-eric/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
