@@ -13,6 +13,9 @@ class Solution(object):
         dp = {}
       
         def dfs(val):
+            if val in dp:
+                return dp[val]
+
             if not (val % 2):
                 return []
             
@@ -21,7 +24,6 @@ class Solution(object):
 
             res = []
             for left in range(1,val,2):
-                
                 right = val - left - 1
                 for left_sub in dfs(left):
                     for right_sub in dfs(right):
@@ -29,6 +31,6 @@ class Solution(object):
                         root.left = left_sub
                         root.right = right_sub
                         res.append(root)
-                        #dp[val] = root
+            dp[val] = res
             return res
         return dfs(n)
