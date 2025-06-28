@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3405-count-the-number-of-special-characters-ii](https://github.com/chieh-eric/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/chieh-eric/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
 ## Trie
 |  |
 | ------- |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
+| [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
+| [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
 ## Monotonic Stack
 |  |
 | ------- |
