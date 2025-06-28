@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/chieh-eric/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/chieh-eric/LeetCode/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/chieh-eric/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1876-map-of-highest-peak](https://github.com/chieh-eric/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/chieh-eric/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1299-k-concatenation-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1348-maximum-score-of-spliced-array](https://github.com/chieh-eric/LeetCode/tree/master/1348-maximum-score-of-spliced-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/chieh-eric/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [1239-largest-1-bordered-square](https://github.com/chieh-eric/LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/chieh-eric/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/chieh-eric/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Hash Table
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chieh-eric/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Simulation
 |  |
@@ -318,4 +322,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
