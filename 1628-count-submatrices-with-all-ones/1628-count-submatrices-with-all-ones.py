@@ -11,7 +11,6 @@ class Solution(object):
             for j in range(n):
                 if i > 0 and mat[i][j] != 0:
                     mat[i][j] += mat[i-1][j]
-        print(mat)
         count = 0
         for i in range(m):
             for j in range(n):
