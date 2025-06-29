@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/chieh-eric/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1876-map-of-highest-peak](https://github.com/chieh-eric/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chieh-eric/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/chieh-eric/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chieh-eric/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/chieh-eric/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/chieh-eric/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2465-shifting-letters-ii](https://github.com/chieh-eric/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -218,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/chieh-eric/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
@@ -256,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/chieh-eric/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/chieh-eric/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3483-alternating-groups-ii](https://github.com/chieh-eric/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Counting
