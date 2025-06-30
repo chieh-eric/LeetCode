@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/chieh-eric/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/chieh-eric/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3244-minimize-length-of-array-using-operations](https://github.com/chieh-eric/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3265-maximum-good-subarray-sum](https://github.com/chieh-eric/LeetCode/tree/master/3265-maximum-good-subarray-sum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/chieh-eric/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/chieh-eric/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3244-minimize-length-of-array-using-operations](https://github.com/chieh-eric/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Tree
 |  |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/chieh-eric/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/chieh-eric/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/chieh-eric/LeetCode/tree/master/1375-find-palindrome-with-fixed-length) |
+| [3244-minimize-length-of-array-using-operations](https://github.com/chieh-eric/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/chieh-eric/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/chieh-eric/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Geometry
@@ -359,4 +362,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+## Number Theory
+|  |
+| ------- |
+| [3244-minimize-length-of-array-using-operations](https://github.com/chieh-eric/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 <!---LeetCode Topics End-->
