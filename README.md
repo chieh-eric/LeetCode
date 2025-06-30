@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3265-maximum-good-subarray-sum](https://github.com/chieh-eric/LeetCode/tree/master/3265-maximum-good-subarray-sum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/chieh-eric/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3483-alternating-groups-ii](https://github.com/chieh-eric/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/chieh-eric/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/chieh-eric/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/chieh-eric/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/chieh-eric/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/chieh-eric/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Greedy
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/chieh-eric/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/chieh-eric/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/chieh-eric/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/chieh-eric/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
 ## Trie
