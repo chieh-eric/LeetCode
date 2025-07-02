@@ -11,27 +11,33 @@ class Solution(object):
         max_candies = 0
         
         queue = deque()
-        seen = set()
+        available = set()
         visited = set()
 
         for box in initialBoxes:
+            available.add(box)
             if status[box]:
                 queue.append(box)
                 visited.add(box)
-            seen.add(box)
         
         while queue:
             i = queue.popleft()
             max_candies += candies[i]
 
+           
             for key in keys[i]:
                 status[key] = 1
-
+                if key in available and key not in visited:
+                    visited.add(key)
+                    queue.append(key)
+                        
             for box in containedBoxes[i]:
-                seen.add(box)
-
-            for box in seen:
+                available.add(box)
                 if status[box] and box not in visited:
                     queue.append(box)
                     visited.add(box)
+                
+            
+            
+
         return max_candies
