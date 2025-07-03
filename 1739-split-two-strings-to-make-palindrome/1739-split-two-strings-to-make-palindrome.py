@@ -5,35 +5,20 @@ class Solution(object):
         :type b: str
         :rtype: bool
         """
-        n = len(a)
-        mid = (n+1) // 2
-        if a == a[::-1] or b == b[::-1]:
+        def isPalindrome(s,l,r):
+            while l < r:
+                if s[l] != s[r]:
+                    return False
+                l += 1
+                r -= 1
             return True
 
-        def isPalindrome(s):
-            return s == s[::-1]
-        pivot = 0
-        for i in range(n):
-            if a[:i] == b[n-1:-i-1:-1]:
-                pivot = i
-            else:
-                break
-        
-        if pivot != 0 and isPalindrome(a[:pivot]+b[pivot:]):
-            return True
-        if pivot != 0 and isPalindrome(a[:-pivot]+b[-pivot:]):
-            return True
+        def check(x,y):
+            l = 0
+            r = len(y) - 1
+            while l < r and x[l] == y[r]:
+                l += 1
+                r -= 1
+            return isPalindrome(x,l,r) or isPalindrome(y,l,r)
 
-        pivot = 0
-        for i in range(n):
-            if b[:i] == a[n-1:-i-1:-1]:
-                pivot = i
-            else:
-                break
-        
-        if pivot != 0 and isPalindrome(b[:pivot]+a[pivot:]):
-            return True
-        if pivot != 0 and isPalindrome(b[:-pivot]+a[-pivot:]):
-            return True
-
-        return False
+        return check(a,b) or check(b,a)
