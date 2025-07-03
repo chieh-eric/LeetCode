@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/chieh-eric/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/chieh-eric/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1706-min-cost-to-connect-all-points](https://github.com/chieh-eric/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1876-map-of-highest-peak](https://github.com/chieh-eric/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/chieh-eric/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chieh-eric/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1493-frog-position-after-t-seconds](https://github.com/chieh-eric/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
+| [1706-min-cost-to-connect-all-points](https://github.com/chieh-eric/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/chieh-eric/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1191-synonymous-sentences](https://github.com/chieh-eric/LeetCode/tree/master/1191-synonymous-sentences) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/chieh-eric/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1706-min-cost-to-connect-all-points](https://github.com/chieh-eric/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Sliding Window
 |  |
 | ------- |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/chieh-eric/LeetCode/tree/master/1100-connecting-cities-with-minimum-cost) |
+| [1706-min-cost-to-connect-all-points](https://github.com/chieh-eric/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
 | ------- |
