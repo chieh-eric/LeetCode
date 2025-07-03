@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1880-largest-merge-of-two-strings](https://github.com/chieh-eric/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/chieh-eric/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/chieh-eric/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/chieh-eric/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2465-shifting-letters-ii](https://github.com/chieh-eric/LeetCode/tree/master/2465-shifting-letters-ii) |
