@@ -21,6 +21,8 @@ class Solution(object):
                     backtrack(i+1)
 
                 children[j] -= cookies[i]
+                if children[j] == 0:
+                    break
         backtrack(0)
         return self.min_unfair          
                 
