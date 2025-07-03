@@ -8,7 +8,7 @@ class Solution(object):
         worker = [0]*k
         self.min_time = float('inf')
         n = len(jobs)
-
+        jobs.sort(reverse=True)
         def backtrack(i):
             if i == n:
                 self.min_time = min(self.min_time, max(worker))
