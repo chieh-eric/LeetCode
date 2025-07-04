@@ -10,43 +10,28 @@ class Solution(object):
         :type cost: List[int]
         :rtype: int
         """
-        graph = defaultdict(list)
-        n = len(original)
-        for i in range(n):
-            graph[original[i]].append((cost[i],changed[i]))
+        dist = [[float('inf')]*26 for _ in range(26)]
 
-        transform ={}
-        m = len(source)
-        def calculate(s1,s2):
-            queue = []
-            queue = [(0,s1)]
-            visited = set()
-            visited.add(s1)
-
-            while queue:
-                cur_cost, ch = heapq.heappop(queue)
-                
-                if ch == s2:
-                    
-                    return cur_cost
-                visited.add(ch)
-
-               
-                for nei in graph[ch]:
-                    if nei[1] not in visited:
-                        heapq.heappush(queue,(cur_cost+nei[0],nei[1]))
-            return -1
-
-        cost = 0
-        for i in range(m):
-            if source[i] != target[i]:
-                if (source[i],target[i]) in transform:
-                    cost += transform[(source[i],target[i])]
-                else:
-                    res = calculate(source[i],target[i])
-                    if res == -1:
-                        return -1
-                    cost += res
-                    transform[(source[i],target[i])] = res
-        return cost
+        for i in range(26):
+            dist[i][i] = 0
         
+        for i in range(len(original)):
+            u = ord(original[i]) - ord('a')
+            v = ord(changed[i]) - ord('a')
+            dist[u][v] = min(dist[u][v], cost[i])
+        
+        for k in range(26):
+            for i in range(26):
+                for j in range(26):
+                    if dist[i][k] + dist[k][j] < dist[i][j]:
+                        dist[i][j] = dist[i][k] + dist[k][j]
+        
+        cost = 0
+        for i in range(len(source)):
+            if source[i] != target[i]:
+                u = ord(source[i]) - ord('a')
+                v = ord(target[i]) - ord('a')
+                if dist[u][v] == float('inf'):
+                    return -1
+                cost += dist[u][v]
+        return cost
