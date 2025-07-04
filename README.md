@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-max-dot-product-of-two-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chieh-eric/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/chieh-eric/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/chieh-eric/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1706-min-cost-to-connect-all-points](https://github.com/chieh-eric/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-max-dot-product-of-two-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chieh-eric/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/chieh-eric/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/chieh-eric/LeetCode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chieh-eric/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/chieh-eric/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/chieh-eric/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
@@ -393,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chieh-eric/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chieh-eric/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Simulation
@@ -469,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chieh-eric/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Number Theory
 |  |
 | ------- |
