@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1244-distinct-echo-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1244-distinct-echo-substrings) |
 | [1281-can-make-palindrome-from-substring](https://github.com/chieh-eric/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/chieh-eric/LeetCode/tree/master/1308-smallest-string-with-swaps) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/chieh-eric/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/chieh-eric/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/chieh-eric/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/chieh-eric/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
