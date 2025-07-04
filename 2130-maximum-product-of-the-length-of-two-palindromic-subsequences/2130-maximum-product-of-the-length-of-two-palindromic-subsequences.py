@@ -21,6 +21,7 @@ class Solution(object):
         n = len(s)
 
         def backtrack(i):
+           
             if i == n:
                 if isPalindrome("".join(self.s1)) and isPalindrome("".join(self.s2)):
                     self.max_product = max(self.max_product, len(self.s1)*len(self.s2))
