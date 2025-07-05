@@ -17,15 +17,18 @@ class Solution(object):
                 if start_node == stepMap[node][1]:
                     self.max_length = max(self.max_length, step - stepMap[node][0])
                 return
-            
+            if node in visited:
+                return
+            visited.add(node)
             stepMap[node] = (step, start_node) 
             if node in graph:
                 dfs(graph[node],step+1)
 
-        
+        visited = set()
         for i in range(n):
-            start_node = i
-            dfs(i,0)
+            if i not in visited:
+                start_node = i
+                dfs(i,0)
         return self.max_length
 
         #0 -> 1 -> 2 -> 0
