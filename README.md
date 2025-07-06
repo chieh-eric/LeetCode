@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0910-nth-magical-number](https://github.com/chieh-eric/LeetCode/tree/master/0910-nth-magical-number) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chieh-eric/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/chieh-eric/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0910-nth-magical-number](https://github.com/chieh-eric/LeetCode/tree/master/0910-nth-magical-number) |
 | [0976-minimum-area-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/chieh-eric/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/chieh-eric/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
