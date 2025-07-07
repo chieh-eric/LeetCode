@@ -13,12 +13,15 @@ class Solution(object):
         for i in range(n):
             num = arr[i]
             dp[num] = 1
-            for j in range(2,int(num**0.5)+1):
-                if num % j == 0 and j in arr_set and (num//j) in arr_set:
-                    if j == num // j:
-                        dp[num] += dp[j]*dp[j]
+            for left in arr:
+                if left > int(num**0.5):
+                    break
+                if num % left == 0 and (num//left) in arr_set:
+                    if left == num // left:
+                        dp[num] += dp[left]*dp[left]
                     else:
-                        dp[num] += (dp[j]*dp[num//j]*2)
-        #print(dp)
+                        dp[num] += (dp[left]*dp[num//left]*2)
+                
+        print(dp)
         return sum(dp.values()) % mod
 
