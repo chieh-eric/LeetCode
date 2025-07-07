@@ -22,6 +22,5 @@ class Solution(object):
                     else:
                         dp[num] += (dp[left]*dp[num//left]*2)
                 
-        print(dp)
         return sum(dp.values()) % mod
 
