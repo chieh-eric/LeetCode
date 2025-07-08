@@ -7,7 +7,7 @@ class Solution(object):
         right = sum(task[1] for task in tasks)
         left = 0
 
-        tasks.sort(key = lambda x:(x[1]-x[0],x[1]),reverse = True)
+        tasks.sort(key = lambda x:(x[1]-x[0]),reverse = True)
         
         def finish(val):
             #print(tasks)
