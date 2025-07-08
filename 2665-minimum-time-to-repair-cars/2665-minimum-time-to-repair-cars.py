@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: int
         """
         left = 1
-        right = max(ranks)*cars*cars
+        right = min(ranks)*cars*cars
 
         def finish(time):
             car = 0
