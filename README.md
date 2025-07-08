@@ -488,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0796-reaching-points](https://github.com/chieh-eric/LeetCode/tree/master/0796-reaching-points) |
+| [0897-prime-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/0897-prime-palindrome) |
 | [0910-nth-magical-number](https://github.com/chieh-eric/LeetCode/tree/master/0910-nth-magical-number) |
 | [0976-minimum-area-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/chieh-eric/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0897-prime-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/0897-prime-palindrome) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/chieh-eric/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/chieh-eric/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Combinatorics
