@@ -17,7 +17,7 @@ class Solution(object):
         while left < right:
             mid = (left+right) // 2
             val = find(mid)
-           
+          
             if val > maxOperations:
                 left = mid + 1
             else:
