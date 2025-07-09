@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/chieh-eric/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/chieh-eric/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/chieh-eric/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/chieh-eric/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/chieh-eric/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/chieh-eric/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/chieh-eric/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3483-alternating-groups-ii](https://github.com/chieh-eric/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -502,10 +505,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -565,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
+| [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
 ## Monotonic Stack
 |  |
