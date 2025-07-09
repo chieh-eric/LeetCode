@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/chieh-eric/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2465-shifting-letters-ii](https://github.com/chieh-eric/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2648-number-of-ways-to-earn-points](https://github.com/chieh-eric/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/chieh-eric/LeetCode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Bitmask
 |  |
 | ------- |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chieh-eric/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/chieh-eric/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2665-minimum-time-to-repair-cars](https://github.com/chieh-eric/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/chieh-eric/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/chieh-eric/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -471,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/chieh-eric/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/chieh-eric/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
