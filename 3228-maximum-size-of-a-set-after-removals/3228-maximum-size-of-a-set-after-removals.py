@@ -6,40 +6,13 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: int
         """
-        n = len(nums1)
-        threshold = n //2
-        dic1 = defaultdict(int)
-        dic2 = defaultdict(int)
-        valid = set()
-        for num in nums1:
-            dic1[num] += 1
-        for num in nums2:
-            dic2[num] += 1
-        
-        
+        length = len(nums1) // 2
+        n1 = set(nums1)
+        n2 = set(nums2)
+        inter_num = len(n1&n2)
 
-        item1 = item2 = 0
-        for key in dic1:
-            if key not in dic2 and item1 < threshold:
-                valid.add(key)
-                item1 += 1
-        
-        for key in dic2:
-            if key not in dic1 and item2 < threshold:
-                valid.add(key)
-                item2 += 1
-        #print(valid)
-        for key in dic1:
-            #print(item1)
-            if key in dic2 and item1 < threshold:
-                valid.add(key)
-                item1 += 1
-        
-        for key in dic2:
-            #print(item2)
-            if key in dic1 and item2 < threshold and key not in valid:
-                valid.add(key)
-                item2 += 1
-        #print(valid)      
-        return len(valid)
-        
+        diff = 0
+        diff += len(n1) - length if len(n1) >= length else 0
+        diff += len(n2) - length if len(n2) >= length else 0  
+
+        return len(n1) + len(n2) - max(diff,inter_num)   
