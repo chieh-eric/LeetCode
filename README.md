@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/chieh-eric/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
+| [2648-number-of-ways-to-earn-points](https://github.com/chieh-eric/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/chieh-eric/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/chieh-eric/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2648-number-of-ways-to-earn-points](https://github.com/chieh-eric/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/chieh-eric/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
