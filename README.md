@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/chieh-eric/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/chieh-eric/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/chieh-eric/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/chieh-eric/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/chieh-eric/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/chieh-eric/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/chieh-eric/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/chieh-eric/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/chieh-eric/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-frog-position-after-t-seconds](https://github.com/chieh-eric/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chieh-eric/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/chieh-eric/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/chieh-eric/LeetCode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Depth-First Search
 |  |
@@ -186,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/chieh-eric/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1248-binary-tree-coloring-game](https://github.com/chieh-eric/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/chieh-eric/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
