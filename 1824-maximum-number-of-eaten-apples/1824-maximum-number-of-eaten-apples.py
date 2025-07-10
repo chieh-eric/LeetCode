@@ -9,35 +9,22 @@ class Solution(object):
         n = len(apples)
         heap = []
         eat = 0
+        day = 0
 
-
-        for i in range(n):
-            heapq.heappush(heap,(i+days[i],apples[i]))
+        while day < n or heap:
+            if day < n and apples[day] > 0:
+                heapq.heappush(heap,(day+days[day],apples[day]))
             
-            while heap and heap[0][0] <= i:
+            while heap and heap[0][0] <= day:
                 heapq.heappop(heap)
-            if heap:
-                day, count = heapq.heappop(heap)
-                if day > i:
-                    eat += 1
-                    count -= 1
-                if count == 0 or day <= i:
-                    continue
-                heapq.heappush(heap,(day,count))
-    
-        cur_day = n 
-        while heap:
-            while heap and heap[0][0] <= cur_day:
-                heapq.heappop(heap)
-            if heap:
-                day, count = heapq.heappop(heap)
-                if day > cur_day:
-                    eat += 1
-                    count -= 1
-                if count != 0 and day > cur_day:
-                    heapq.heappush(heap,(day,count))
-            cur_day += 1
             
+            if heap:
+                expire, count = heapq.heappop(heap)
+                eat += 1
+                if count > 1:
+                    heapq.heappush(heap,(expire,count-1))
+            day += 1
         return eat
+        
 
         
