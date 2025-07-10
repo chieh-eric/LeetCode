@@ -6,19 +6,17 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        res = [[] for _ in range(k)]
-        lis = [[] for _ in range(k)]
-        n = len(arr)
-        for i in range(n):
-            res[i%k].append(arr[i])
-
+       
         op = 0
-        for i, sub in enumerate(res):
-            for num in sub:
-                idx = bisect.bisect_right(lis[i],num)
-                if idx == len(lis[i]):
-                    lis[i].append(num)
+        n = len(arr)
+        for j in range(k):
+            sub = []
+            for i in range(j,n,k):
+                num = arr[i]
+                idx = bisect.bisect_right(sub,num)
+                if idx == len(sub):
+                    sub.append(num)
                 else:
-                    lis[i][idx] = num
-            op += len(sub) - len(lis[i])
-        return op
+                    sub[idx] = num
+            op += len(sub)
+        return n - op
