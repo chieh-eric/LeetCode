@@ -4,26 +4,26 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        valid = set()
         n = len(s)
-        def expand(l,r):
-            while l >= 0 and r < n and s[l] == s[r]:
-                valid.add(s[l:r+1])
-                l -= 1
-                r += 1
-        for i in range(n):
-            expand(i,i)
-            expand(i,i+1)
-    
+        dp = [[False]*n for _ in range(n)]
 
-        #print(valid)
+        for length in range(1,n+1):
+            for i in range(n-length+1):
+                j = i + length - 1
+                if s[i] == s[j]:
+                    if length <= 2:
+                        dp[i][j] = True
+                    else:
+                        dp[i][j] = dp[i+1][j-1]
 
-        for i in range(1,n-1):
-            if s[:i] not in valid:
+
+
+        for i in range(n-2):
+            if not dp[0][i]:
                 continue
-            for j in range(i+1,n):
-                if s[i:j] not in valid:
+            for j in range(i+1,n-1):
+                if not dp[i+1][j]:
                     continue
-                if s[j:] in valid:
+                if dp[j+1][n-1]:
                     return True
         return False
