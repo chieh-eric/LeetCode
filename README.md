@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chieh-eric/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1418-fair-distribution-of-cookies](https://github.com/chieh-eric/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chieh-eric/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/chieh-eric/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chieh-eric/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-can-make-palindrome-from-substring](https://github.com/chieh-eric/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/chieh-eric/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chieh-eric/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -454,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1244-distinct-echo-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1244-distinct-echo-substrings) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 ## Rolling Hash
 |  |
@@ -585,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2178-walking-robot-simulation-ii](https://github.com/chieh-eric/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/chieh-eric/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
