@@ -14,6 +14,7 @@ class Solution(object):
             lake = rains[i]
             if lake == 0:
                 dry.add(i)
+                res[i] = 1
                 continue
             
             else:
@@ -26,9 +27,8 @@ class Solution(object):
                     res[dry_day] = lake
                     dry.remove(dry_day)
                 full[lake] = i
-        while dry:
-            idx = dry.pop()
-            res[idx] = 1
+                res[i] = -1
+        
         return res
 
 
