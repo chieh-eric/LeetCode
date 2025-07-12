@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-max-dot-product-of-two-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/chieh-eric/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chieh-eric/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/chieh-eric/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+| [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chieh-eric/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/chieh-eric/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chieh-eric/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/chieh-eric/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/chieh-eric/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chieh-eric/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/chieh-eric/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/chieh-eric/LeetCode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1325-path-with-maximum-probability](https://github.com/chieh-eric/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/chieh-eric/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -438,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chieh-eric/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
