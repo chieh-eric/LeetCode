@@ -17,7 +17,7 @@ class Solution(object):
                 count += stack.pop()[1]
             stack.append((arr[i],count))
             left[i] = count
-        print(left)
+        #print(left)
 
         stack = []
         for i in range(n-1,-1,-1):
@@ -26,7 +26,7 @@ class Solution(object):
                 count += stack.pop()[1]
             stack.append((arr[i],count))
             right[i] = count
-        print(right)
+        #print(right)
 
         for i in range(n):
             op += arr[i]*left[i]*right[i]
