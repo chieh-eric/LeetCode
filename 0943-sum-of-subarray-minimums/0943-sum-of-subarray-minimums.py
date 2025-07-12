@@ -5,28 +5,29 @@ class Solution(object):
         :rtype: int
         """
         n = len(arr)
-        count = [1]*n
+        left = [0]*n
+        right = [0]*n
         stack = []
         op = 0
         mod = 10**9 + 7
-        prev = 0
+
         for i in range(n):
-            modify = False
+            count = 1
+            while stack and stack[-1][0] >= arr[i]:
+                count += stack.pop()[1]
+            stack.append((arr[i],count))
+            left[i] = count
+        print(left)
+
+        stack = []
+        for i in range(n-1,-1,-1):
+            count = 1
             while stack and stack[-1][0] > arr[i]:
-                count[i] += count[stack[-1][1]]
-                stack.pop()
-                modify = True
-                
-            stack.append((arr[i],i))
-            if modify:
-                total = 0
-                for item in stack:
-                    val, index = item
-                    total += val*count[index]
-                op += total
-                prev = total
-            else:
-                op += prev + arr[i]
-                prev = prev + arr[i]
-        #print(count)
+                count += stack.pop()[1]
+            stack.append((arr[i],count))
+            right[i] = count
+        print(right)
+
+        for i in range(n):
+            op += arr[i]*left[i]*right[i]
         return op % mod
