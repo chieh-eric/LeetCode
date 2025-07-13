@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/chieh-eric/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chieh-eric/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
+| [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [1191-synonymous-sentences](https://github.com/chieh-eric/LeetCode/tree/master/1191-synonymous-sentences) |
 | [1239-largest-1-bordered-square](https://github.com/chieh-eric/LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1281-can-make-palindrome-from-substring](https://github.com/chieh-eric/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/chieh-eric/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [1191-synonymous-sentences](https://github.com/chieh-eric/LeetCode/tree/master/1191-synonymous-sentences) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chieh-eric/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1244-distinct-echo-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1244-distinct-echo-substrings) |
@@ -475,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [1244-distinct-echo-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1244-distinct-echo-substrings) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
@@ -611,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2178-walking-robot-simulation-ii](https://github.com/chieh-eric/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
@@ -619,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 ## Ordered Set
 |  |
