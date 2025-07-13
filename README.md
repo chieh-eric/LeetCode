@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/chieh-eric/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2012-process-tasks-using-servers](https://github.com/chieh-eric/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/chieh-eric/LeetCode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1824-maximum-number-of-eaten-apples](https://github.com/chieh-eric/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2012-process-tasks-using-servers](https://github.com/chieh-eric/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
