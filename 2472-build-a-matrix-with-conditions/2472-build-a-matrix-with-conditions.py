@@ -33,9 +33,7 @@ class Solution(object):
                     return True
             state[node] = 2
             return False
-       # print("this is row")
-        #print(row)
-        #print(col)
+       
         # Cycle detection
         state_row = [0] * (k + 1)
         state_col = [0] * (k + 1)
@@ -67,7 +65,6 @@ class Solution(object):
                     row_indegree[nei] -= 1
                     if row_indegree[nei] == 0:
                         row_queue.append(nei)
-        #print(insert_row_seq)
         
         insert_col_seq = []
         while col_queue:
