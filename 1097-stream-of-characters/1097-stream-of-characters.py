@@ -11,8 +11,9 @@ class StreamChecker(object):
         """
         self.root = TrieNode()
         self.stream = []
-
+        self.max_len = 0 
         for word in words:
+            self.max_len = max(self.max_len,len(word))
             node = self.root
             for ch in reversed(word):
                 if ch not in node.children:
@@ -28,12 +29,16 @@ class StreamChecker(object):
         """
         self.stream.append(letter)
         node = self.root
+        count = 0
         for ch in reversed(self.stream):
+            if count > self.max_len:
+                break
             if ch not in node.children:
                 return False
             node = node.children[ch]
             if node.is_end:
                 return True
+            count += 1
         return False
       
         
