@@ -4,31 +4,24 @@ class Solution(object):
         :type graph: List[List[int]]
         :rtype: List[int]
         """
-        terminal = set()
-        for i, nei in enumerate(graph):
-            if len(nei) == 0:
-                terminal.add(i)
         n = len(graph)
-        states = [0]*n
+        states = [0]*n # 0 -> unvisited, 1 -> visiting, 2-> Safe
         def trace(node,states):
-            if not graph[node] or node in terminal:
+            if not graph[node] or states[node] == 2:
                 return True
 
-            if states[node] == 1 and node not in terminal:
+            if states[node] == 1:
                 return False
             
             states[node] = 1
-            res = True
             for nei in graph[node]:
-                res = res and trace(nei,states)
-                if res:
-                    terminal.add(nei)
-            if res:
-                terminal.add(node)
-            return res
+                if not trace(nei,states):
+                    return False
+            states[node] = 2
+            return True
 
+        res = []
         for i in range(n):
-            states = [0]*n
-            if i not in terminal:
-                trace(i,states)
-        return sorted(list(terminal))
+            if trace(i,states):
+                res.append(i)
+        return res
