@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1299-k-concatenation-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1348-maximum-score-of-spliced-array](https://github.com/chieh-eric/LeetCode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chieh-eric/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1403-palindrome-partitioning-iii](https://github.com/chieh-eric/LeetCode/tree/master/1403-palindrome-partitioning-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/chieh-eric/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1559-cherry-pickup-ii](https://github.com/chieh-eric/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-replace-the-substring-for-balanced-string](https://github.com/chieh-eric/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/chieh-eric/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chieh-eric/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1403-palindrome-partitioning-iii](https://github.com/chieh-eric/LeetCode/tree/master/1403-palindrome-partitioning-iii) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
