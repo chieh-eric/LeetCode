@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/chieh-eric/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/chieh-eric/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/chieh-eric/LeetCode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/chieh-eric/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/chieh-eric/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1876-map-of-highest-peak](https://github.com/chieh-eric/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/chieh-eric/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/chieh-eric/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/chieh-eric/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/chieh-eric/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1880-largest-merge-of-two-strings](https://github.com/chieh-eric/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/chieh-eric/LeetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chieh-eric/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/chieh-eric/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/chieh-eric/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
