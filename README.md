@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/chieh-eric/LeetCode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/chieh-eric/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/chieh-eric/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3317-maximum-palindromes-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/chieh-eric/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/chieh-eric/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
 |  |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/chieh-eric/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/chieh-eric/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/chieh-eric/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Union Find
 |  |
 | ------- |
