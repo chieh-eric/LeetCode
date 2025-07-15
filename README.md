@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0053-maximum-subarray) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0843-binary-trees-with-factors](https://github.com/chieh-eric/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0053-maximum-subarray) |
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0843-binary-trees-with-factors](https://github.com/chieh-eric/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0930-all-possible-full-binary-trees](https://github.com/chieh-eric/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0943-sum-of-subarray-minimums](https://github.com/chieh-eric/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0757-pyramid-transition-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0757-pyramid-transition-matrix) |
+| [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/chieh-eric/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 |  |
 | ------- |
+| [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chieh-eric/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1418-fair-distribution-of-cookies](https://github.com/chieh-eric/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
@@ -606,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0796-reaching-points](https://github.com/chieh-eric/LeetCode/tree/master/0796-reaching-points) |
+| [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0897-prime-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/0897-prime-palindrome) |
 | [0910-nth-magical-number](https://github.com/chieh-eric/LeetCode/tree/master/0910-nth-magical-number) |
 | [0976-minimum-area-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0976-minimum-area-rectangle) |
