@@ -20,7 +20,7 @@ class Solution(object):
         while i < n:
             if nums[i] not in valid:
                 valid.add(nums[i])
-                group += 1
+                group += 1 % mod
                 right_most_pos = pos[nums[i]][-1]
 
                 while i < right_most_pos:
