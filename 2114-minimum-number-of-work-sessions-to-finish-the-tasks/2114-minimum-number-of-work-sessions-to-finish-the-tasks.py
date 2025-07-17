@@ -1,3 +1,4 @@
+from collections import defaultdict
 class Solution(object):
     def minSessions(self, tasks, sessionTime):
         """
@@ -6,13 +7,12 @@ class Solution(object):
         :rtype: int
         """
         n = len(tasks)
-        dp = [[float('inf')]*(sessionTime+1) for _ in range(2**n)]
+        dp = defaultdict(dict)
         dp[0][0] = 1
 
         for mask in range(2**n):
-            for time in range(sessionTime+1):
-                if dp[mask][time] == float('inf'):
-                    continue
+            for time in dp[mask]:
+                session = dp[mask][time]
                 
                 for i in range(n):
                     if (mask>>i) & 1:
@@ -22,8 +22,10 @@ class Solution(object):
                     task_time = tasks[i]
 
                     if time + task_time > sessionTime:
-                        dp[new_mask][task_time] = min(dp[new_mask][task_time], dp[mask][time] + 1)
+                        if task_time not in dp[new_mask] or dp[new_mask][task_time] > session + 1:
+                            dp[new_mask][task_time] = session + 1
                     else:
-                        dp[new_mask][task_time+time] = min(dp[new_mask][task_time+time],dp[mask][time])
+                        if task_time+time not in dp[new_mask]:
+                            dp[new_mask][task_time+time] = session
         final_statue = (1 << n) -1
-        return min(dp[final_statue])
+        return min(dp[final_statue].values())
