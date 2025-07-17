@@ -6,28 +6,14 @@ class Solution(object):
         :rtype: int
         """
         mod = 10**9 + 7
-        def calculate(count):
-            return 2**(count-1)
-
-        pos = defaultdict(list)
-        for i, num in enumerate(nums):
-            pos[num].append(i)
-
+        last_pos = {}
         n = len(nums)
-        valid = set()
-        group = 0
-        i = 0
-        while i < n:
-            if nums[i] not in valid:
-                valid.add(nums[i])
-                group += 1 % mod
-                right_most_pos = pos[nums[i]][-1]
-
-                while i < right_most_pos:
-                    if nums[i] not in valid:
-                        valid.add(nums[i])
-                        right_most_pos = max(right_most_pos,pos[nums[i]][-1])
-                    i += 1
-            i += 1
-        #print(group)
-        return calculate(group) % mod
+        for i in range(n):
+            last_pos[nums[i]] = i
+        res = 0
+        end = 0
+        for i in range(n):
+            end = max(end,last_pos[nums[i]])
+            if i == end:
+                res += 1 % mod
+        return 2**(res-1) % mod
