@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2012-process-tasks-using-servers](https://github.com/chieh-eric/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/chieh-eric/LeetCode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chieh-eric/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2183-minimum-operations-to-convert-number](https://github.com/chieh-eric/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/chieh-eric/LeetCode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1871-palindrome-partitioning-iv](https://github.com/chieh-eric/LeetCode/tree/master/1871-palindrome-partitioning-iv) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/chieh-eric/LeetCode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/chieh-eric/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Bit Manipulation
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1418-fair-distribution-of-cookies](https://github.com/chieh-eric/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/chieh-eric/LeetCode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Bitmask
@@ -314,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1418-fair-distribution-of-cookies](https://github.com/chieh-eric/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/chieh-eric/LeetCode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Two Pointers
 |  |
