@@ -10,19 +10,23 @@ class Solution(object):
         heap = []
         attend = 0
         n = len(events)
-        max_day = max(e[1] for e in events)
+        
         index = 0
-        for cur_day in range(1,max_day+1):
-            while  index < n and cur_day >= events[index][0]:
+        day = 0
+        while heap or index < n:
+            if not heap:
+                day = events[index][0]
+
+            while index < n and events[index][0] == day:
                 heapq.heappush(heap,events[index][1])
                 index += 1
-
-            while heap and cur_day > heap[0]:
-                heapq.heappop(heap)
             
+            while heap and day > heap[0]:
+                heapq.heappop(heap)
+
             if heap:
                 heapq.heappop(heap)
                 attend += 1
-            elif not heap and index == n:
-                break
+            day += 1
         return attend
+
