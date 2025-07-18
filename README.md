@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/chieh-eric/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/chieh-eric/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0943-sum-of-subarray-minimums](https://github.com/chieh-eric/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/chieh-eric/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0963-three-equal-parts](https://github.com/chieh-eric/LeetCode/tree/master/0963-three-equal-parts) |
 | [0964-minimize-malware-spread-ii](https://github.com/chieh-eric/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/chieh-eric/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/chieh-eric/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0964-minimize-malware-spread-ii](https://github.com/chieh-eric/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1142-minimum-knight-moves](https://github.com/chieh-eric/LeetCode/tree/master/1142-minimum-knight-moves) |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+| [0945-snakes-and-ladders](https://github.com/chieh-eric/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1239-largest-1-bordered-square](https://github.com/chieh-eric/LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/chieh-eric/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
