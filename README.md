@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chieh-eric/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
 | [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
+| [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1191-synonymous-sentences](https://github.com/chieh-eric/LeetCode/tree/master/1191-synonymous-sentences) |
 | [1196-filling-bookcase-shelves](https://github.com/chieh-eric/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1233-number-of-ships-in-a-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/1233-number-of-ships-in-a-rectangle) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0964-minimize-malware-spread-ii](https://github.com/chieh-eric/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/chieh-eric/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1248-binary-tree-coloring-game](https://github.com/chieh-eric/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 | [1308-smallest-string-with-swaps](https://github.com/chieh-eric/LeetCode/tree/master/1308-smallest-string-with-swaps) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0910-nth-magical-number](https://github.com/chieh-eric/LeetCode/tree/master/0910-nth-magical-number) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/chieh-eric/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chieh-eric/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/chieh-eric/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chieh-eric/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/chieh-eric/LeetCode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1325-path-with-maximum-probability](https://github.com/chieh-eric/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -470,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/chieh-eric/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
 | [0964-minimize-malware-spread-ii](https://github.com/chieh-eric/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
+| [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1142-minimum-knight-moves](https://github.com/chieh-eric/LeetCode/tree/master/1142-minimum-knight-moves) |
 | [1308-smallest-string-with-swaps](https://github.com/chieh-eric/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/chieh-eric/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -491,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+| [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1239-largest-1-bordered-square](https://github.com/chieh-eric/LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/chieh-eric/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -581,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
 | [0964-minimize-malware-spread-ii](https://github.com/chieh-eric/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
+| [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/chieh-eric/LeetCode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1191-synonymous-sentences](https://github.com/chieh-eric/LeetCode/tree/master/1191-synonymous-sentences) |
 | [1308-smallest-string-with-swaps](https://github.com/chieh-eric/LeetCode/tree/master/1308-smallest-string-with-swaps) |
