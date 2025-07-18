@@ -18,5 +18,5 @@ class Solution(object):
                     break
                 height = max(height,books[j-1][1])
                 dp[i] = min(dp[i],dp[j-1]+height)
-        print(dp)
+        #print(dp)
         return dp[n]
