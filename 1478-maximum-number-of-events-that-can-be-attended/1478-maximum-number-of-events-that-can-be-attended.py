@@ -10,9 +10,9 @@ class Solution(object):
         heap = []
         attend = 0
         n = len(events)
-
+        max_day = max(e[1] for e in events)
         index = 0
-        for cur_day in range(1,10**5+1):
+        for cur_day in range(1,max_day+1):
             while  index < n and cur_day >= events[index][0]:
                 heapq.heappush(heap,events[index][1])
                 index += 1
@@ -26,4 +26,3 @@ class Solution(object):
             elif not heap and index == n:
                 break
         return attend
-                
