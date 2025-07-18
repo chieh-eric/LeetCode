@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1418-fair-distribution-of-cookies](https://github.com/chieh-eric/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chieh-eric/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chieh-eric/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/chieh-eric/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chieh-eric/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chieh-eric/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/chieh-eric/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-minimum-area-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1308-smallest-string-with-swaps](https://github.com/chieh-eric/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chieh-eric/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chieh-eric/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/chieh-eric/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/chieh-eric/LeetCode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1325-path-with-maximum-probability](https://github.com/chieh-eric/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chieh-eric/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1762-furthest-building-you-can-reach](https://github.com/chieh-eric/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/chieh-eric/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
