@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/chieh-eric/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2832-find-the-longest-equal-subarray](https://github.com/chieh-eric/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
+| [2848-special-permutations](https://github.com/chieh-eric/LeetCode/tree/master/2848-special-permutations) |
 | [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/chieh-eric/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2648-number-of-ways-to-earn-points](https://github.com/chieh-eric/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
+| [2848-special-permutations](https://github.com/chieh-eric/LeetCode/tree/master/2848-special-permutations) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/chieh-eric/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/chieh-eric/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2848-special-permutations](https://github.com/chieh-eric/LeetCode/tree/master/2848-special-permutations) |
 ## Bitmask
 |  |
 | ------- |
@@ -333,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2848-special-permutations](https://github.com/chieh-eric/LeetCode/tree/master/2848-special-permutations) |
 ## Two Pointers
 |  |
 | ------- |
