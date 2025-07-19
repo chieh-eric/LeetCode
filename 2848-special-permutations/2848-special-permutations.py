@@ -18,12 +18,12 @@ class Solution(object):
             for i in range(n):
                 if ((mask & (1 << i)) == 0) and (nums[last_index] % nums[i] == 0 or nums[i] % nums[last_index] == 0):
                     new_mask = mask | (1 << i)
-                    ans += dfs(i,new_mask)
-            memo[(last_index,mask)] = ans
+                    ans += dfs(i,new_mask) % mod
+            memo[(last_index,mask)] = ans % mod
 
             return ans
         
         cumu = 0
         for i in range(n):
-            cumu += dfs(i, 1 << i)
+            cumu += dfs(i, 1 << i) % mod
         return cumu % mod
