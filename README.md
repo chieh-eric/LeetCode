@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1191-synonymous-sentences](https://github.com/chieh-eric/LeetCode/tree/master/1191-synonymous-sentences) |
+| [1192-divide-chocolate](https://github.com/chieh-eric/LeetCode/tree/master/1192-divide-chocolate) |
 | [1196-filling-bookcase-shelves](https://github.com/chieh-eric/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1233-number-of-ships-in-a-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/1233-number-of-ships-in-a-rectangle) |
 | [1239-largest-1-bordered-square](https://github.com/chieh-eric/LeetCode/tree/master/1239-largest-1-bordered-square) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/chieh-eric/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chieh-eric/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
+| [1192-divide-chocolate](https://github.com/chieh-eric/LeetCode/tree/master/1192-divide-chocolate) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/chieh-eric/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chieh-eric/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
