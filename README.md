@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/chieh-eric/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2574-count-subarrays-with-median-k](https://github.com/chieh-eric/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2648-number-of-ways-to-earn-points](https://github.com/chieh-eric/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/chieh-eric/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/chieh-eric/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2665-minimum-time-to-repair-cars](https://github.com/chieh-eric/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/chieh-eric/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/chieh-eric/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -674,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1233-number-of-ships-in-a-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/1233-number-of-ships-in-a-rectangle) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Queue
 |  |
 | ------- |
@@ -759,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/chieh-eric/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
 ## Monotonic Stack
@@ -785,8 +789,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/chieh-eric/LeetCode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/chieh-eric/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Interactive
 |  |
 | ------- |
 | [1233-number-of-ships-in-a-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/1233-number-of-ships-in-a-rectangle) |
+## Segment Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Merge Sort
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
