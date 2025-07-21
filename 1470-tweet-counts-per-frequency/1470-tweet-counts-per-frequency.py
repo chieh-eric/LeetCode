@@ -36,13 +36,10 @@ class TweetCounts(object):
 
         n = (endTime - startTime + chunk_size) // chunk_size
         res = [0]*n
-        left = bisect.bisect_left(self.dic[tweetName],startTime)
-        for i in range(n):
-            chunk_start = i*chunk_size + startTime
-            chunk_end = min(chunk_start + chunk_size - 1, endTime)
-            right = bisect.bisect_right(self.dic[tweetName],chunk_end)
-            res[i] = right-left
-            left = right
+        times = self.dic[tweetName]
+        for t in times.irange(startTime,endTime):
+            idx = (t-startTime) // chunk_size
+            res[idx] += 1
         return res
 
 
