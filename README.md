@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1880-largest-merge-of-two-strings](https://github.com/chieh-eric/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/chieh-eric/LeetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chieh-eric/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/chieh-eric/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-palindrome-partitioning-iv](https://github.com/chieh-eric/LeetCode/tree/master/1871-palindrome-partitioning-iv) |
 | [1880-largest-merge-of-two-strings](https://github.com/chieh-eric/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chieh-eric/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2465-shifting-letters-ii](https://github.com/chieh-eric/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/chieh-eric/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
@@ -664,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chieh-eric/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chieh-eric/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/chieh-eric/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
