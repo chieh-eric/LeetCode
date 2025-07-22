@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1308-smallest-string-with-swaps](https://github.com/chieh-eric/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chieh-eric/LeetCode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1325-path-with-maximum-probability](https://github.com/chieh-eric/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1343-dice-roll-simulation](https://github.com/chieh-eric/LeetCode/tree/master/1343-dice-roll-simulation) |
 | [1348-maximum-score-of-spliced-array](https://github.com/chieh-eric/LeetCode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chieh-eric/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/chieh-eric/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-largest-1-bordered-square](https://github.com/chieh-eric/LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/chieh-eric/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1299-k-concatenation-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
+| [1343-dice-roll-simulation](https://github.com/chieh-eric/LeetCode/tree/master/1343-dice-roll-simulation) |
 | [1348-maximum-score-of-spliced-array](https://github.com/chieh-eric/LeetCode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chieh-eric/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chieh-eric/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
