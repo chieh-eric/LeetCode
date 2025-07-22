@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/chieh-eric/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/chieh-eric/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2810-collecting-chocolates](https://github.com/chieh-eric/LeetCode/tree/master/2810-collecting-chocolates) |
 | [2832-find-the-longest-equal-subarray](https://github.com/chieh-eric/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2848-special-permutations](https://github.com/chieh-eric/LeetCode/tree/master/2848-special-permutations) |
 | [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -636,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/chieh-eric/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2810-collecting-chocolates](https://github.com/chieh-eric/LeetCode/tree/master/2810-collecting-chocolates) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/chieh-eric/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/chieh-eric/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chieh-eric/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
