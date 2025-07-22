@@ -13,7 +13,7 @@ class Solution(object):
                 return 1
             if (index, prev, count) in memo:
                 return memo[(index, prev, count)]
-                
+
             cur = 0
             for i in range(6):
                 if i == prev:
@@ -21,6 +21,6 @@ class Solution(object):
                         cur += dp(index+1,i,count+1)
                 else:
                     cur += dp(index+1,i,1) % mod
-            memo[(index, prev, count)] = cur
+            memo[(index, prev, count)] = cur % mod
             return cur % mod
         return dp(0,-1,0) % mod
