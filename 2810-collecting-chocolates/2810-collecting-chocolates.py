@@ -15,9 +15,7 @@ class Solution(object):
             for i in range(n-1,-1,-1):
                
                 cur[i] = min(cur[i],nums[(i-rotate)%n])
-                #print(cur)
             if prev < sum(cur)+x*rotate:
                 return prev
             prev = sum(cur)+x*rotate
-            #print(prev)
-        #print(cur)
+    
