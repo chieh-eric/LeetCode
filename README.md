@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/chieh-eric/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3212-count-the-number-of-good-partitions](https://github.com/chieh-eric/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chieh-eric/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/chieh-eric/LeetCode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/chieh-eric/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/chieh-eric/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/chieh-eric/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/chieh-eric/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/chieh-eric/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chieh-eric/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chieh-eric/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3317-maximum-palindromes-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/3317-maximum-palindromes-after-operations) |
 ## Heap (Priority Queue)
@@ -651,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1663-detect-cycles-in-2d-grid](https://github.com/chieh-eric/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/chieh-eric/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/chieh-eric/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chieh-eric/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sliding Window
 |  |
 | ------- |
