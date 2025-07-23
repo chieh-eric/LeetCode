@@ -14,9 +14,7 @@ class Solution(object):
         stack = []
         for num in nums:
             while stack and num > stack[-1]:
-                print(stack[-1])
                 res += calculate(dic[stack[-1]])
-                print(res)
                 dic[stack[-1]] = 0
                 stack.pop()
             stack.append(num)
