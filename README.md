@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chieh-eric/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/chieh-eric/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/chieh-eric/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/chieh-eric/LeetCode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2012-process-tasks-using-servers](https://github.com/chieh-eric/LeetCode/tree/master/2012-process-tasks-using-servers) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/chieh-eric/LeetCode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chieh-eric/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/chieh-eric/LeetCode/tree/master/1871-palindrome-partitioning-iv) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/chieh-eric/LeetCode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/chieh-eric/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
