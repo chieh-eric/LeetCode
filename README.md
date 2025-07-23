@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/chieh-eric/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/chieh-eric/LeetCode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3654-minimum-array-sum](https://github.com/chieh-eric/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/chieh-eric/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/chieh-eric/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/chieh-eric/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chieh-eric/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/chieh-eric/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3654-minimum-array-sum](https://github.com/chieh-eric/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/chieh-eric/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Greedy
 |  |
