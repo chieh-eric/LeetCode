@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chieh-eric/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3317-maximum-palindromes-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/chieh-eric/LeetCode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/chieh-eric/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/chieh-eric/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2832-find-the-longest-equal-subarray](https://github.com/chieh-eric/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/chieh-eric/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/chieh-eric/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Sorting
 |  |
 | ------- |
@@ -694,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chieh-eric/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/chieh-eric/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/chieh-eric/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
@@ -807,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/chieh-eric/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chieh-eric/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/chieh-eric/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
