@@ -50,7 +50,6 @@ class Solution(object):
                 count //= 2
 
             if len(graph[node]) == 1 and node != 0:
-                ##print(node)
                 self.max_profit = max(self.max_profit, profit + count)
 
             for nei in graph[node]:
