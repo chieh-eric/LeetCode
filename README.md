@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2574-count-subarrays-with-median-k](https://github.com/chieh-eric/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2648-number-of-ways-to-earn-points](https://github.com/chieh-eric/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-frog-position-after-t-seconds](https://github.com/chieh-eric/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chieh-eric/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/chieh-eric/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/chieh-eric/LeetCode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/chieh-eric/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2206-detonate-the-maximum-bombs](https://github.com/chieh-eric/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2439-longest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/chieh-eric/LeetCode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/chieh-eric/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-detonate-the-maximum-bombs](https://github.com/chieh-eric/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2439-longest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/chieh-eric/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/chieh-eric/LeetCode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/chieh-eric/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -548,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2183-minimum-operations-to-convert-number](https://github.com/chieh-eric/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/chieh-eric/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2439-longest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3837-grid-teleportation-traversal](https://github.com/chieh-eric/LeetCode/tree/master/3837-grid-teleportation-traversal) |
