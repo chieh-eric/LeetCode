@@ -23,7 +23,6 @@ class Solution(object):
             for nei in graph[node]:
                 if nei == parent:
                     continue
-
                 if disc[nei] == -1:
                     dfs(nei,node)
                     low[node] = min(low[node],low[nei])
