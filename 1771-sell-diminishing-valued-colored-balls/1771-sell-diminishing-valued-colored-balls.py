@@ -33,7 +33,7 @@ class Solution(object):
             
             if orders >= difference*batch:
                 ans = calculate(largest,second_value+1)
-                count += ans*batch
+                count += ans*batch % mod
                 orders -= difference*batch
                 del res[second_large:]
                 res.update([second_value]*batch)
@@ -46,8 +46,8 @@ class Solution(object):
                 #print(remain)
                 ans = calculate(largest, largest-avg+1)
                 #print(ans)
-                count += ans*batch
-                count += (largest-avg)*remain
+                count += ans*batch % mod
+                count += (largest-avg)*remain % mod
                 orders = 0
             #print(count)
         return count % mod
