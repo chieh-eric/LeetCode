@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
 | [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
+| [1130-last-stone-weight-ii](https://github.com/chieh-eric/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1191-synonymous-sentences](https://github.com/chieh-eric/LeetCode/tree/master/1191-synonymous-sentences) |
 | [1192-divide-chocolate](https://github.com/chieh-eric/LeetCode/tree/master/1192-divide-chocolate) |
 | [1196-filling-bookcase-shelves](https://github.com/chieh-eric/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1017-odd-even-jump](https://github.com/chieh-eric/LeetCode/tree/master/1017-odd-even-jump) |
 | [1025-minimum-cost-for-tickets](https://github.com/chieh-eric/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
+| [1130-last-stone-weight-ii](https://github.com/chieh-eric/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/chieh-eric/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1239-largest-1-bordered-square](https://github.com/chieh-eric/LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/chieh-eric/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
