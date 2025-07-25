@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chieh-eric/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/chieh-eric/LeetCode/tree/master/1871-palindrome-partitioning-iv) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/chieh-eric/LeetCode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chieh-eric/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/chieh-eric/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1493-frog-position-after-t-seconds](https://github.com/chieh-eric/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1706-min-cost-to-connect-all-points](https://github.com/chieh-eric/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chieh-eric/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2206-detonate-the-maximum-bombs](https://github.com/chieh-eric/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2439-longest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/chieh-eric/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/chieh-eric/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1101-parallel-courses](https://github.com/chieh-eric/LeetCode/tree/master/1101-parallel-courses) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chieh-eric/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2439-longest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/chieh-eric/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Backtracking
@@ -472,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1762-furthest-building-you-can-reach](https://github.com/chieh-eric/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/chieh-eric/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/chieh-eric/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chieh-eric/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2012-process-tasks-using-servers](https://github.com/chieh-eric/LeetCode/tree/master/2012-process-tasks-using-servers) |
@@ -806,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/chieh-eric/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chieh-eric/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/chieh-eric/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/chieh-eric/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
