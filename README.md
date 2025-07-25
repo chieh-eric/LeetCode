@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chieh-eric/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1499-maximum-performance-of-a-team](https://github.com/chieh-eric/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/chieh-eric/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chieh-eric/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1499-maximum-performance-of-a-team](https://github.com/chieh-eric/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chieh-eric/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/chieh-eric/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
@@ -438,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chieh-eric/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1470-tweet-counts-per-frequency](https://github.com/chieh-eric/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chieh-eric/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1499-maximum-performance-of-a-team](https://github.com/chieh-eric/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/chieh-eric/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/chieh-eric/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chieh-eric/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -464,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/chieh-eric/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chieh-eric/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1499-maximum-performance-of-a-team](https://github.com/chieh-eric/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1762-furthest-building-you-can-reach](https://github.com/chieh-eric/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/chieh-eric/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
