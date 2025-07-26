@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/chieh-eric/LeetCode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/chieh-eric/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/chieh-eric/LeetCode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/chieh-eric/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2848-special-permutations](https://github.com/chieh-eric/LeetCode/tree/master/2848-special-permutations) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/chieh-eric/LeetCode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 ## Bitmask
 |  |
 | ------- |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/chieh-eric/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2681-put-marbles-in-bags](https://github.com/chieh-eric/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/chieh-eric/LeetCode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
@@ -691,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2810-collecting-chocolates](https://github.com/chieh-eric/LeetCode/tree/master/2810-collecting-chocolates) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/chieh-eric/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/chieh-eric/LeetCode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/chieh-eric/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chieh-eric/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/chieh-eric/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -820,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chieh-eric/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/chieh-eric/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/chieh-eric/LeetCode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/chieh-eric/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Recursion
