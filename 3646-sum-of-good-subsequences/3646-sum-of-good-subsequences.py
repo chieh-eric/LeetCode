@@ -15,5 +15,5 @@ class Solution(object):
 
             sum_dp[num] += sum_dp[num-1] + sum_dp[num+1] + num*(dp[num-1] + dp[num+1] + 1)
             sum_dp[num] %= mod
-        
+       
         return sum(sum_dp.values()) % mod
