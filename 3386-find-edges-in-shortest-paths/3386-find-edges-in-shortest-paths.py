@@ -44,11 +44,6 @@ class Solution(object):
                     res[idx] = True
                     valid = True
             return valid
-        #print(shortest)     
         dfs(0,None,0)
         return res
 
-        # 2 0 1
-        #   4
-        #   5
-        #   3
