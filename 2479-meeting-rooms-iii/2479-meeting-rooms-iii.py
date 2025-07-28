@@ -31,7 +31,6 @@ class Solution(object):
             room_id = heapq.heappop(free)
             count[room_id] += 1
             heapq.heappush(events,(curTime + duration,room_id))
-        print(count)
         max_key = max(count,key=count.get)
         #print(max_key)
         return max_key
