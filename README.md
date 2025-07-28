@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/chieh-eric/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2465-shifting-letters-ii](https://github.com/chieh-eric/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/chieh-eric/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/chieh-eric/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/chieh-eric/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2636-maximum-subsequence-score](https://github.com/chieh-eric/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/chieh-eric/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -499,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2012-process-tasks-using-servers](https://github.com/chieh-eric/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2636-maximum-subsequence-score](https://github.com/chieh-eric/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/chieh-eric/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -656,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/chieh-eric/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/chieh-eric/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2574-count-subarrays-with-median-k](https://github.com/chieh-eric/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
@@ -774,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/chieh-eric/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2178-walking-robot-simulation-ii](https://github.com/chieh-eric/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
+| [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2846-robot-collisions](https://github.com/chieh-eric/LeetCode/tree/master/2846-robot-collisions) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/chieh-eric/LeetCode/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 ## Divide and Conquer
