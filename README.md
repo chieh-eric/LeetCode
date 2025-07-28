@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2404-number-of-distinct-roll-sequences](https://github.com/chieh-eric/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2648-number-of-ways-to-earn-points](https://github.com/chieh-eric/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
@@ -846,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0930-all-possible-full-binary-trees](https://github.com/chieh-eric/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/chieh-eric/LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+| [2404-number-of-distinct-roll-sequences](https://github.com/chieh-eric/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
 ## Design
 |  |
 | ------- |
