@@ -4,37 +4,10 @@ class Solution(object):
         :type transactions: List[List[int]]
         :rtype: int
         """
-        normal = []
-        earn = []
-        n = len(transactions)
-
+        loss = 0
+        max_val = 0
         for t in transactions:
-            if t[1] > t[0]:
-                earn.append(t)
-            else:
-                normal.append(t)
-        normal.sort(key=lambda x:x[1])
-        earn.sort(key = lambda x:-x[0])
-      
-        transactions = normal + earn
-        val = [v[0] for v in transactions]
-        
-        left = 0
-        right = sum(val)
-       # print(transactions)
-        while left < right:
-            good = True
-            mid = (left+right) // 2
-            cur = mid
-            for i in range(n):
-                if cur >= transactions[i][0]:
-                    cur = cur - transactions[i][0] +transactions[i][1]
-                else:
-                    good = False
-                    break
-            if not good:
-               
-                left = mid + 1
-            else:
-                right = mid
-        return left
+            loss += max(0,t[0]-t[1])
+            max_val = max(max_val,min(t[0],t[1]))
+        return loss + max_val
+        # x - 8 - 9 + 3 - 3 + 3 - 7 + 4 - 7
