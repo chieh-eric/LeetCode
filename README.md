@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-distribute-coins-in-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/chieh-eric/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chieh-eric/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1248-binary-tree-coloring-game](https://github.com/chieh-eric/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 | [1493-frog-position-after-t-seconds](https://github.com/chieh-eric/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chieh-eric/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/chieh-eric/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chieh-eric/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1248-binary-tree-coloring-game](https://github.com/chieh-eric/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 | [1300-critical-connections-in-a-network](https://github.com/chieh-eric/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1308-smallest-string-with-swaps](https://github.com/chieh-eric/LeetCode/tree/master/1308-smallest-string-with-swaps) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-distribute-coins-in-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/chieh-eric/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chieh-eric/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1248-binary-tree-coloring-game](https://github.com/chieh-eric/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/chieh-eric/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -612,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/chieh-eric/LeetCode/tree/master/1036-rotting-oranges) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1142-minimum-knight-moves](https://github.com/chieh-eric/LeetCode/tree/master/1142-minimum-knight-moves) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chieh-eric/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1308-smallest-string-with-swaps](https://github.com/chieh-eric/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chieh-eric/LeetCode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/chieh-eric/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
