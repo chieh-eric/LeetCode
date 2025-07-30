@@ -478,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chieh-eric/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/chieh-eric/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/chieh-eric/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/chieh-eric/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -512,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2012-process-tasks-using-servers](https://github.com/chieh-eric/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/chieh-eric/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2636-maximum-subsequence-score](https://github.com/chieh-eric/LeetCode/tree/master/2636-maximum-subsequence-score) |
