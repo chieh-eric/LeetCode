@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/chieh-eric/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1051-shortest-way-to-form-string](https://github.com/chieh-eric/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chieh-eric/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/chieh-eric/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0793-swap-adjacent-in-lr-string](https://github.com/chieh-eric/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1051-shortest-way-to-form-string](https://github.com/chieh-eric/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1129-longest-string-chain](https://github.com/chieh-eric/LeetCode/tree/master/1129-longest-string-chain) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/1739-split-two-strings-to-make-palindrome) |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0910-nth-magical-number](https://github.com/chieh-eric/LeetCode/tree/master/0910-nth-magical-number) |
 | [0912-random-pick-with-weight](https://github.com/chieh-eric/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/chieh-eric/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [1051-shortest-way-to-form-string](https://github.com/chieh-eric/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chieh-eric/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1192-divide-chocolate](https://github.com/chieh-eric/LeetCode/tree/master/1192-divide-chocolate) |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0935-orderly-queue](https://github.com/chieh-eric/LeetCode/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/chieh-eric/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0977-distinct-subsequences-ii](https://github.com/chieh-eric/LeetCode/tree/master/0977-distinct-subsequences-ii) |
+| [1051-shortest-way-to-form-string](https://github.com/chieh-eric/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/chieh-eric/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
