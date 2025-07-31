@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chieh-eric/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/chieh-eric/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0757-pyramid-transition-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/chieh-eric/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chieh-eric/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0964-minimize-malware-spread-ii](https://github.com/chieh-eric/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chieh-eric/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/chieh-eric/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -616,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/chieh-eric/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chieh-eric/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/chieh-eric/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0964-minimize-malware-spread-ii](https://github.com/chieh-eric/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1036-rotting-oranges](https://github.com/chieh-eric/LeetCode/tree/master/1036-rotting-oranges) |
@@ -672,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0843-binary-trees-with-factors](https://github.com/chieh-eric/LeetCode/tree/master/0843-binary-trees-with-factors) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chieh-eric/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0906-walking-robot-simulation](https://github.com/chieh-eric/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0931-maximum-frequency-stack](https://github.com/chieh-eric/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0964-minimize-malware-spread-ii](https://github.com/chieh-eric/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
