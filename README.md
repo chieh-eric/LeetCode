@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/chieh-eric/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chieh-eric/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/chieh-eric/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/chieh-eric/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0757-pyramid-transition-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/chieh-eric/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/chieh-eric/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chieh-eric/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/chieh-eric/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
