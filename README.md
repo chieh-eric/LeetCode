@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-minimum-number-of-refueling-stops](https://github.com/chieh-eric/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0906-walking-robot-simulation](https://github.com/chieh-eric/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/chieh-eric/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/chieh-eric/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/chieh-eric/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0943-sum-of-subarray-minimums](https://github.com/chieh-eric/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/chieh-eric/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/chieh-eric/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/chieh-eric/LeetCode/tree/master/0910-nth-magical-number) |
+| [0912-random-pick-with-weight](https://github.com/chieh-eric/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/chieh-eric/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chieh-eric/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
@@ -543,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0912-random-pick-with-weight](https://github.com/chieh-eric/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1281-can-make-palindrome-from-substring](https://github.com/chieh-eric/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chieh-eric/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/chieh-eric/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -853,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0897-prime-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/0897-prime-palindrome) |
 | [0910-nth-magical-number](https://github.com/chieh-eric/LeetCode/tree/master/0910-nth-magical-number) |
+| [0912-random-pick-with-weight](https://github.com/chieh-eric/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0935-orderly-queue](https://github.com/chieh-eric/LeetCode/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/chieh-eric/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0963-three-equal-parts](https://github.com/chieh-eric/LeetCode/tree/master/0963-three-equal-parts) |
@@ -987,4 +991,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/chieh-eric/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/chieh-eric/LeetCode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
