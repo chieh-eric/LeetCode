@@ -29,10 +29,8 @@ class Solution(object):
                 for r in right:
                     if l + r <= distance:
                         res[0] += 1
-            t = left + right
-            for i, val in enumerate(t):
-                t[i] = val + 1
-            return t
+            
+            return [x + 1 for x in left + right if x + 1 <= distance]
 
 
         dfs(root)
