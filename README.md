@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-count-subarrays-with-median-k](https://github.com/chieh-eric/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2636-maximum-subsequence-score](https://github.com/chieh-eric/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2648-number-of-ways-to-earn-points](https://github.com/chieh-eric/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/chieh-eric/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/chieh-eric/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -443,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2848-special-permutations](https://github.com/chieh-eric/LeetCode/tree/master/2848-special-permutations) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/chieh-eric/LeetCode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 ## Bitmask
@@ -604,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2574-count-subarrays-with-median-k](https://github.com/chieh-eric/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/chieh-eric/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/chieh-eric/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/chieh-eric/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3265-maximum-good-subarray-sum](https://github.com/chieh-eric/LeetCode/tree/master/3265-maximum-good-subarray-sum) |
@@ -774,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2574-count-subarrays-with-median-k](https://github.com/chieh-eric/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/chieh-eric/LeetCode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2832-find-the-longest-equal-subarray](https://github.com/chieh-eric/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/chieh-eric/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
