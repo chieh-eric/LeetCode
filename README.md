@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/chieh-eric/LeetCode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3654-minimum-array-sum](https://github.com/chieh-eric/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/chieh-eric/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/chieh-eric/LeetCode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/chieh-eric/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/chieh-eric/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -561,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chieh-eric/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chieh-eric/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3317-maximum-palindromes-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/chieh-eric/LeetCode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -837,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/chieh-eric/LeetCode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/chieh-eric/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chieh-eric/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/chieh-eric/LeetCode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/chieh-eric/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/chieh-eric/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Union Find
@@ -959,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chieh-eric/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/chieh-eric/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/chieh-eric/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/chieh-eric/LeetCode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Geometry
 |  |
 | ------- |
@@ -966,6 +970,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1003-minimum-area-rectangle-ii](https://github.com/chieh-eric/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [2206-detonate-the-maximum-bombs](https://github.com/chieh-eric/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chieh-eric/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/chieh-eric/LeetCode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1053,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/chieh-eric/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/chieh-eric/LeetCode/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/chieh-eric/LeetCode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Interactive
 |  |
 | ------- |
@@ -1062,6 +1068,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/chieh-eric/LeetCode/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/chieh-eric/LeetCode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Merge Sort
 |  |
 | ------- |
