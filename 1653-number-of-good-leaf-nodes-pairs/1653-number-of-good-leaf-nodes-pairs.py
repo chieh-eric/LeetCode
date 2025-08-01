@@ -12,46 +12,29 @@ class Solution(object):
         :type distance: int
         :rtype: int
         """
-        graph = defaultdict(list)
-        leaf = set()
- 
-        def build(node, parent):
-            if not node:
-                return 
+        res = [0]
 
-            if parent:
-                graph[parent].append(node)
-                graph[node].append(parent)
+        def dfs(node):
+            if not node:
+                return []
             
             if not node.left and not node.right:
-                leaf.add(node)
-            
-            build(node.left,node)
-            build(node.right,node)
-            
-        build(root,None)
+                return [1]
 
-        def dfs(node,parent,step):
-            if not node or step > distance or node in visited:
-                return 0
-            visited.add(node)
-            if node in leaf and node != i:
-                return 1
-
-            valid = 0
+            left = dfs(node.left)
+            right = dfs(node.right)
            
-           
-            for nei in graph[node]:
-                if nei == parent:
-                    continue
 
-                if step + 1 <= distance:
-                    valid += dfs(nei,node,step+1)   
-            
-            return valid
+            for l in left:
+                for r in right:
+                    if l + r <= distance:
+                        res[0] += 1
+            t = left + right
+            for i, val in enumerate(t):
+                t[i] = val + 1
+            return t
 
-        res = 0
-        for i in leaf:
-            visited = set()
-            res += dfs(i,None,0)
-        return res / 2
+
+        dfs(root)
+        return res[0]
+
