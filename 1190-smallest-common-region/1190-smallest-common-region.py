@@ -29,23 +29,17 @@ class Solution(object):
        # print(root)
         def find(node):
              
-            count = 0
-            retNode = None
+            found = []
             if node in dic:
                 for child in dic[node].children:
-                    temp = find(child.name)
-                    if temp:
-                        retNode = temp
-                        count += 1
+                    res = find(child.name)
+                    if res:
+                        found.append(res)
 
-            
-            if node == region1 or node == region2 or count >= 2:
+            if node == region1 or node == region2 or len(found) >= 2:
                 return node
             
-            if count == 1:
-                return retNode
-            
-            return None
+            return found[0] if found else None
             #       0
             #      1     2 
             #    3,  4   9
