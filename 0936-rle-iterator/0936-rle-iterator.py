@@ -26,7 +26,7 @@ class RLEIterator(object):
                 self.index = i
                 return self.arr[i][1]
             elif count == n:
-                print("fuck")
+                #print("fuck")
                 self.index = i + 1
                 return self.arr[i][1]
             self.index = i  + 1
