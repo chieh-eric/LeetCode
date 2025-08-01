@@ -10,17 +10,16 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        
-        # Dfs will return the abs number which need to transmit to its parent
-        self.op = 0
+        move = [0]
         def dfs(node):
-            if node is None:
+            if not node:
                 return 0
+           
             
             left = dfs(node.left)
             right = dfs(node.right)
-            self.op  += abs(left) + abs(right)
-
-            return left + right + node.val - 1
+           
+            move[0] += abs(node.val + left + right - 1)
+            return node.val + left + right - 1
         dfs(root)
-        return self.op
+        return move[0]
