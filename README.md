@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2499-minimum-money-required-before-transactions](https://github.com/chieh-eric/LeetCode/tree/master/2499-minimum-money-required-before-transactions) |
+| [2504-find-all-good-indices](https://github.com/chieh-eric/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chieh-eric/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/chieh-eric/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
+| [2504-find-all-good-indices](https://github.com/chieh-eric/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2562-count-ways-to-build-good-strings](https://github.com/chieh-eric/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2648-number-of-ways-to-earn-points](https://github.com/chieh-eric/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -604,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/chieh-eric/LeetCode/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2465-shifting-letters-ii](https://github.com/chieh-eric/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2504-find-all-good-indices](https://github.com/chieh-eric/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2574-count-subarrays-with-median-k](https://github.com/chieh-eric/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/chieh-eric/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
