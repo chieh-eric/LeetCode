@@ -14,42 +14,44 @@ class Solution(object):
         """
         graph = defaultdict(list)
         leaf = set()
-
-        def buildGraph(node,parent):
+ 
+        def build(node, parent):
             if not node:
-                return
-            
+                return 
+
             if parent:
                 graph[parent].append(node)
                 graph[node].append(parent)
-
-            if node.left is None and node.right is None:
+            
+            if not node.left and not node.right:
                 leaf.add(node)
             
-            buildGraph(node.left,node)
-            buildGraph(node.right,node)
-        buildGraph(root,None)
+            build(node.left,node)
+            build(node.right,node)
+            
+        build(root,None)
 
-        def dfs(node,from_node,depth):
-            if not node or depth > distance:            
+        def dfs(node,parent,step):
+            if not node or step > distance or node in visited:
                 return 0
-
-            if node in visited:
-                return 0
-
-            count = 0
             visited.add(node)
-            if node in leaf and node != start:
-                count += 1
+            if node in leaf and node != i:
+                return 1
 
-            for child in graph[node]:
-                if child != from_node:
-                    count += dfs(child,node,depth+1)
+            valid = 0
+           
+           
+            for nei in graph[node]:
+                if nei == parent:
+                    continue
 
-            return count
-        
+                if step + 1 <= distance:
+                    valid += dfs(nei,node,step+1)   
+            
+            return valid
+
         res = 0
-        for start in leaf:
+        for i in leaf:
             visited = set()
-            res += dfs(start,None,0)
+            res += dfs(i,None,0)
         return res / 2
