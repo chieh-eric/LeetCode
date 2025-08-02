@@ -6,14 +6,14 @@ class Solution(object):
         :type mentors: List[List[int]]
         :rtype: int
         """
-        def score(s,m):
-            return sum(x==y for x, y in zip(s,m))
+
         max_score = 0
         n = len(students)
-        for perm in permutations((range(n))):
-            total = 0
+        m = len(students[0])
+        for perm in permutations(students):
+            s = 0
             for i in range(n):
-                total += score(students[i],mentors[perm[i]])
-            max_score = max(max_score,total)
+                s += sum(perm[i][j] == mentors[i][j] for j in range(m))
+            max_score = max(max_score,s)
         return max_score
-
+             
