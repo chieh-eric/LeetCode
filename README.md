@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
 | [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
+| [1121-partition-array-for-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/chieh-eric/LeetCode/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/chieh-eric/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1190-smallest-common-region](https://github.com/chieh-eric/LeetCode/tree/master/1190-smallest-common-region) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1017-odd-even-jump](https://github.com/chieh-eric/LeetCode/tree/master/1017-odd-even-jump) |
 | [1025-minimum-cost-for-tickets](https://github.com/chieh-eric/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
+| [1121-partition-array-for-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/chieh-eric/LeetCode/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/chieh-eric/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/chieh-eric/LeetCode/tree/master/1196-filling-bookcase-shelves) |
