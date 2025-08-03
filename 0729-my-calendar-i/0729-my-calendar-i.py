@@ -10,10 +10,13 @@ class MyCalendar(object):
         :rtype: bool
         """
         
-        for s, e in self.events:
-            if not (e <= startTime or s >= endTime):
+        idx = self.events.bisect_left((startTime,))
+        for i in range(max(0, idx - 1), min(len(self.events), idx + 1)):
+            s, e = self.events[i]
+            if not (s >= endTime or e <= startTime):
                 return False
-        self.events.add((startTime,endTime))
+        
+        self.events.add((startTime, endTime))
         return True
         
 
