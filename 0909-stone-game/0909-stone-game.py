@@ -5,14 +5,18 @@ class Solution(object):
         :rtype: bool
         """
         memo = {}
-        def dp(i,j):
+        def dfs(i,j):
             if (i,j) in memo:
                 return memo[(i,j)]
-            if i == j:
-                return piles[i]
             
-            val = max(piles[i]-dp(i+1,j), piles[j] - dp(i,j-1))
-            memo[(i,j)] = val
-            return val
-        return True if dp(0,len(piles)-1) > 0 else False
+            if i > j:
+                return 0
+            max_val = max(piles[i]-dfs(i+1,j), piles[j] - dfs(i,j-1))
+            memo[(i,j)] = max_val
+            return max_val
+        
+        if (dfs(0,len(piles)-1)) > 0:
+            return True
+            
+
             
