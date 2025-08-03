@@ -4,28 +4,53 @@ class Solution(object):
         :type grid: List[List[int]]
         :rtype: int
         """
-        n = len(grid)
-        m = len(grid[0])
-        row = [[0] *m for _ in range(n)]
-        col = [[0] *m for _ in range(n)]
+        m = len(grid)
+        n = len(grid[0])
+        left = [[0]*n for _ in range(m)]
+        for i in range(m):
+            left[i][0] = grid[i][0]
+
+        down =  [[0]*n for _ in range(m)]
         for i in range(n):
-            for j in range(m):
-                if grid[i][j] == 1:
-                    row[i][j] = (row[i][j-1] if j > 0 else 0) + 1
-                    col[i][j] = (col[i-1][j] if i > 0 else 0) + 1
+            down[0][i] = grid[0][i]
+
+        for j in range(n):
+            for i in range(1,m):
+                down[i][j] += down[i-1][j] + grid[i][j]
         
+
+        for i in range(m):
+            for j in range(1,n):
+                left[i][j] += left[i][j-1] + grid[i][j]
+
        
-        for length in range(min(n, m),0,-1):
-            for i in range(n-length+1):
-                for j in range(m-length+1):
-                    x = i + length - 1
-                    y = j + length - 1
-                    if (row[i][y] >= length and
-                        row[x][y] >= length and
-                        col[x][j] >= length and
-                        col[x][y] >= length):
-                        return length * length
+        for length in range(min(m,n), 0, -1):
+            for i in range(m-length+1):
+                for j in range(n-length+1):
+                    if grid[i][j] != 1 or grid[i+length-1][j] != 1 or grid[i+length-1][j+length-1] != 1 or grid[i][j+length-1] != 1:
+                        continue
+                   
+                    if left[i][j+length-1] - left[i][j] == length - 1:
+                        if left[i+length-1][j+length-1] - left[i+length-1][j] == length - 1:
+                            if down[i+length-1][j] - down[i][j] == length - 1:
+                                if down[i+length-1][j+length-1] - down[i][j+length-1] == length - 1:
+                                    return length**2
         return 0
+# 1 1 0
+# 1 1 1
+# 1 1 1
+# 0 1 0
+# 1 1 1
+# 0 1 1
+# 1 1 1
+        
+# 1 2 3
+# 1 1 2
+# 1 2 3
+
+# 1 1 1
+# 2 1 2
+# 3 2 3
 
 
 # 1 2 2
