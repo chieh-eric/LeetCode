@@ -4,19 +4,19 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        valid = set()
-        n = len(s)
+        has = set()
         self.max_len = 0
-        def backtrack(valid,index):
-            
-            if index == n:
-                self.max_len = max(self.max_len,len(valid))
+        n = len(s)
+        def backtrack(i):
+            if i == n:
+                self.max_len = max(self.max_len,len(has))
                 return
 
-            for i in range(index+1,n+1,1):
-                if s[index:i] not in valid:
-                    valid.add(s[index:i])
-                    backtrack(valid,i)
-                    valid.remove(s[index:i])
-        backtrack(set(),0)
+            for j in range(i+1,n+1):
+                if s[i:j] in has:
+                    continue
+                has.add(s[i:j])
+                backtrack(j)
+                has.remove(s[i:j])
+        backtrack(0)
         return self.max_len
