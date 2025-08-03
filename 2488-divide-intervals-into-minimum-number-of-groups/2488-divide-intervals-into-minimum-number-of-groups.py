@@ -4,15 +4,20 @@ class Solution(object):
         :type intervals: List[List[int]]
         :rtype: int
         """
-        events = []
-        for interval in intervals:
-            arrive = interval[0]
-            leave = interval[1]
-            events.append((arrive,1))
-            events.append((leave,-1))
-        events.sort(key=lambda x:(x[0],-x[1]))
-        group = cur = 0
-        for event in events:
-            cur += event[1]
-            group = max(group,cur)
-        return group
+        intervals.sort(key=lambda x:(x[0],-x[1]))
+        #print(intervals)
+        arr = SortedList()
+        for left, right in intervals:
+
+            if not arr:
+                arr.add(right)
+            else:
+                idx = arr.bisect_left(left)
+                
+                if idx == 0:
+                    arr.add(right)
+                else:
+                    arr.pop(idx-1)
+                    arr.add(right)
+            #print(arr)
+        return len(arr)
