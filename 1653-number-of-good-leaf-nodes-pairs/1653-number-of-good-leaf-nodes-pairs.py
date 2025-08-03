@@ -11,7 +11,7 @@ class Solution(object):
         :type distance: int
         :rtype: int
         """
-        res = [0]
+        self.count = 0
 
         def dfs(node):
             if not node:
@@ -19,19 +19,15 @@ class Solution(object):
             
             if not node.left and not node.right:
                 return [1]
-
+            
             left = dfs(node.left)
             right = dfs(node.right)
-           
 
             for l in left:
                 for r in right:
                     if l + r <= distance:
-                        res[0] += 1
-            
-            return [x + 1 for x in left + right if x + 1 <= distance]
-
-
+                        self.count += 1
+            return [val + 1 for val in left+right]
         dfs(root)
-        return res[0]
-
+        return self.count
+            
