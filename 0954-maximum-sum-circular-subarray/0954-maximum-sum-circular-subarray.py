@@ -4,16 +4,29 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        n = len(nums)
-        dp_max = [0]*n
-        dp_min = [0]*n
-        dp_max[0] = dp_min[0] = nums[0]
-        for i in range(1,n):
-            dp_max[i] = max(dp_max[i-1]+nums[i],nums[i])
-            dp_min[i] = min(dp_min[i-1]+nums[i],nums[i])
         
-        if max(dp_max) < 0:
-            return max(dp_max)
-        else:
-            return max(max(dp_max),sum(nums)-min(dp_min))
-        #　 5 2 7 12 9 14
+        max_window = len(nums)
+        max_sum = nums[0]
+        cur = nums[0]
+
+        
+        n = len(nums)
+        total = sum(nums)
+        for i in range(1,n):
+            cur = max(cur+nums[i],nums[i])
+            max_sum = max(max_sum,cur)
+        min_sum = nums[0]
+        if max(nums) < 0:
+            return max_sum
+        cur = nums[0]
+        for i in range(1,n):
+            cur = min(cur+nums[i],nums[i])
+            min_sum = min(min_sum,cur)
+        print(min_sum)
+        return max(max_sum, total-min_sum)
+        # nums = nums + nums
+        # print(nums)
+        # left = 0
+        # for right in range(len(nums)):
+
+        # 5 -3 5 5 -3 5
