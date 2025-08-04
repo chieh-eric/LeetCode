@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3646-sum-of-good-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/3646-sum-of-good-subsequences) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/chieh-eric/LeetCode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3654-minimum-array-sum](https://github.com/chieh-eric/LeetCode/tree/master/3654-minimum-array-sum) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/chieh-eric/LeetCode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/chieh-eric/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/chieh-eric/LeetCode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/chieh-eric/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/chieh-eric/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3646-sum-of-good-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/3646-sum-of-good-subsequences) |
 | [3654-minimum-array-sum](https://github.com/chieh-eric/LeetCode/tree/master/3654-minimum-array-sum) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/chieh-eric/LeetCode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/chieh-eric/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/chieh-eric/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Greedy
@@ -476,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2848-special-permutations](https://github.com/chieh-eric/LeetCode/tree/master/2848-special-permutations) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/chieh-eric/LeetCode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/chieh-eric/LeetCode/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Bitmask
 |  |
 | ------- |
@@ -781,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3272-find-the-grid-of-region-average](https://github.com/chieh-eric/LeetCode/tree/master/3272-find-the-grid-of-region-average) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/chieh-eric/LeetCode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/chieh-eric/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3837-grid-teleportation-traversal](https://github.com/chieh-eric/LeetCode/tree/master/3837-grid-teleportation-traversal) |
 ## Hash Table
