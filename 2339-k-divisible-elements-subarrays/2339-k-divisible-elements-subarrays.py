@@ -1,8 +1,3 @@
-class TrieNode():
-    def __init__(self):
-        self.children = {}
-        self.is_end = False
-
 class Solution(object):
     def countDistinct(self, nums, k, p):
         """
@@ -11,22 +6,20 @@ class Solution(object):
         :type p: int
         :rtype: int
         """
-        root = TrieNode()
+        valid = {}
         n = len(nums)
-        count = 0
-        for i in range(n):
-            cur = 0
-            sub = []
-            node = root
-            for j in range(i,n):
-                if nums[j] % p == 0:
-                    cur += 1
-                if cur > k:
-                    break
-                sub.append(nums[j])
-                if nums[j] not in node.children:
-                    node.children[nums[j]] = TrieNode()
-                    count += 1
+        counts = [0]*n
+        for i,num in enumerate(nums):
+            if num % p == 0:
+                counts[i] = 1
 
-                node = node.children[nums[j]]
-        return count
+        for right in range(1,n+1):
+            left = right - 1
+            count = 0
+            while left >= 0:
+                count += counts[left]
+                if count > k:
+                    break
+                valid[tuple(nums[left:right])] = True
+                left -= 1
+        return len(valid)
