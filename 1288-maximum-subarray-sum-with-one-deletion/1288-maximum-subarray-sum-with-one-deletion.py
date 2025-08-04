@@ -5,14 +5,12 @@ class Solution(object):
         :rtype: int
         """
         n = len(arr)
-        no_delete = [0]*n
-        one_delete = [0]*n
-
-        no_delete[0] = arr[0]
-        one_delete[0] = -float('inf')
-
+        dp = [[0]*2 for i in range(n)]
+        dp[0][0] = arr[0]
+        max_val = arr[0]
         for i in range(1,n):
-            no_delete[i] = max(no_delete[i-1] + arr[i],arr[i])
-            one_delete[i] = max(one_delete[i-1] + arr[i],no_delete[i-1])
-       
-        return max(max(one_delete),max(no_delete))
+            dp[i][0] = max(arr[i], arr[i] + dp[i-1][0])
+            dp[i][1] = max(dp[i-1][0], arr[i] + dp[i-1][1])
+            max_val = max(max_val, dp[i][0], dp[i][1])
+        #print(dp)
+        return max_val
