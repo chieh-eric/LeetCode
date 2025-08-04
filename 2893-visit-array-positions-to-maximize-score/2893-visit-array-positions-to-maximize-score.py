@@ -5,31 +5,22 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        # dp[i] means the maximum score untill position i
-        n = len(nums)
-        dp = [0]* n
-
-        dp[0] = nums[0]
-        prev_odd = prev_even = -1
-        if dp[0] % 2:
-            prev_odd = 0
+       # 2 2 8 (8,4) 
+       # 0 3 4 4 13
+        if nums[0] % 2 == 0:
+            max_even = nums[0]
+            max_odd = float('-inf')  
         else:
-            prev_even = 0
-
+            max_odd = nums[0]
+            max_even = float('-inf')
+            
+        n = len(nums)
         for i in range(1,n):
-            max_val = -float('inf')
-            if nums[i] % 2:
-                if prev_odd != -1:
-                    max_val = max(max_val,dp[prev_odd]+nums[i])
-                if prev_even != -1:
-                    max_val = max(max_val,dp[prev_even]+nums[i]-x)
-                prev_odd = i
+            if nums[i] % 2 == 0:
+                max_even = max(max_even + nums[i], max_odd + nums[i] - x)
             else:
-                if prev_odd != -1:
-                    max_val = max(max_val,dp[prev_odd]+nums[i]-x)
-                if prev_even != -1:
-                    max_val = max(max_val,dp[prev_even]+nums[i])
-                prev_even = i
+                max_odd = max(max_odd + nums[i], max_even + nums[i] - x)
 
-            dp[i] = max_val
-        return max(dp)
+
+
+        return max(max_odd,max_even)
