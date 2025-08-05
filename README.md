@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/chieh-eric/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2139-detect-squares](https://github.com/chieh-eric/LeetCode/tree/master/2139-detect-squares) |
+| [2146-check-if-word-can-be-placed-in-crossword](https://github.com/chieh-eric/LeetCode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chieh-eric/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2183-minimum-operations-to-convert-number](https://github.com/chieh-eric/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
@@ -797,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/chieh-eric/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/chieh-eric/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/chieh-eric/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2146-check-if-word-can-be-placed-in-crossword](https://github.com/chieh-eric/LeetCode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/chieh-eric/LeetCode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/chieh-eric/LeetCode/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2472-build-a-matrix-with-conditions](https://github.com/chieh-eric/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -901,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/chieh-eric/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2146-check-if-word-can-be-placed-in-crossword](https://github.com/chieh-eric/LeetCode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/chieh-eric/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
