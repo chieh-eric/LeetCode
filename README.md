@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/chieh-eric/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0366-find-leaves-of-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/chieh-eric/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chieh-eric/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/chieh-eric/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0366-find-leaves-of-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/chieh-eric/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/chieh-eric/LeetCode/tree/master/0687-longest-univalue-path) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/chieh-eric/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0366-find-leaves-of-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/chieh-eric/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chieh-eric/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
