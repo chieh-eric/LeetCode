@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/chieh-eric/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/chieh-eric/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2499-minimum-money-required-before-transactions](https://github.com/chieh-eric/LeetCode/tree/master/2499-minimum-money-required-before-transactions) |
 | [2504-find-all-good-indices](https://github.com/chieh-eric/LeetCode/tree/master/2504-find-all-good-indices) |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/chieh-eric/LeetCode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2275-find-substring-with-given-hash-value](https://github.com/chieh-eric/LeetCode/tree/master/2275-find-substring-with-given-hash-value) |
 | [2465-shifting-letters-ii](https://github.com/chieh-eric/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/chieh-eric/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/chieh-eric/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/chieh-eric/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
@@ -868,6 +870,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1244-distinct-echo-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1244-distinct-echo-substrings) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/chieh-eric/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -935,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0936-rle-iterator](https://github.com/chieh-eric/LeetCode/tree/master/0936-rle-iterator) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chieh-eric/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2139-detect-squares](https://github.com/chieh-eric/LeetCode/tree/master/2139-detect-squares) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/chieh-eric/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/chieh-eric/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
