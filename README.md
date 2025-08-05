@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2499-minimum-money-required-before-transactions](https://github.com/chieh-eric/LeetCode/tree/master/2499-minimum-money-required-before-transactions) |
 | [2504-find-all-good-indices](https://github.com/chieh-eric/LeetCode/tree/master/2504-find-all-good-indices) |
+| [2505-number-of-good-paths](https://github.com/chieh-eric/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chieh-eric/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/chieh-eric/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/chieh-eric/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chieh-eric/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2505-number-of-good-paths](https://github.com/chieh-eric/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chieh-eric/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2439-longest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/chieh-eric/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2505-number-of-good-paths](https://github.com/chieh-eric/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/chieh-eric/LeetCode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2671-shortest-cycle-in-a-graph) |
@@ -598,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2499-minimum-money-required-before-transactions](https://github.com/chieh-eric/LeetCode/tree/master/2499-minimum-money-required-before-transactions) |
+| [2505-number-of-good-paths](https://github.com/chieh-eric/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2636-maximum-subsequence-score](https://github.com/chieh-eric/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/chieh-eric/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/chieh-eric/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -842,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/chieh-eric/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2505-number-of-good-paths](https://github.com/chieh-eric/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/chieh-eric/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2574-count-subarrays-with-median-k](https://github.com/chieh-eric/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
@@ -921,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1663-detect-cycles-in-2d-grid](https://github.com/chieh-eric/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/chieh-eric/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/chieh-eric/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2505-number-of-good-paths](https://github.com/chieh-eric/LeetCode/tree/master/2505-number-of-good-paths) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chieh-eric/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sliding Window
 |  |
