@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0053-maximum-subarray) |
+| [0068-text-justification](https://github.com/chieh-eric/LeetCode/tree/master/0068-text-justification) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0418-sentence-screen-fitting](https://github.com/chieh-eric/LeetCode/tree/master/0418-sentence-screen-fitting) |
 | [0419-battleships-in-a-board](https://github.com/chieh-eric/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -676,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/chieh-eric/LeetCode/tree/master/0068-text-justification) |
 | [0418-sentence-screen-fitting](https://github.com/chieh-eric/LeetCode/tree/master/0418-sentence-screen-fitting) |
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
@@ -986,6 +988,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/chieh-eric/LeetCode/tree/master/0068-text-justification) |
 | [0906-walking-robot-simulation](https://github.com/chieh-eric/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2178-walking-robot-simulation-ii](https://github.com/chieh-eric/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
