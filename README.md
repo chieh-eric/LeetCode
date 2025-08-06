@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/chieh-eric/LeetCode/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/chieh-eric/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/chieh-eric/LeetCode/tree/master/1196-filling-bookcase-shelves) |
+| [1236-n-th-tribonacci-number](https://github.com/chieh-eric/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1239-largest-1-bordered-square](https://github.com/chieh-eric/LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/chieh-eric/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1299-k-concatenation-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
@@ -1045,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0963-three-equal-parts](https://github.com/chieh-eric/LeetCode/tree/master/0963-three-equal-parts) |
 | [0976-minimum-area-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/chieh-eric/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
+| [1236-n-th-tribonacci-number](https://github.com/chieh-eric/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/chieh-eric/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1307-ugly-number-iii](https://github.com/chieh-eric/LeetCode/tree/master/1307-ugly-number-iii) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/chieh-eric/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
@@ -1100,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0930-all-possible-full-binary-trees](https://github.com/chieh-eric/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [1236-n-th-tribonacci-number](https://github.com/chieh-eric/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/chieh-eric/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/chieh-eric/LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/chieh-eric/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
