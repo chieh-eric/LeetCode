@@ -22,4 +22,3 @@ class Solution(object):
                 i = find(i+1)
             res.append(painted)
         return res
-            
