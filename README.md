@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/chieh-eric/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/chieh-eric/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2353-maximum-score-of-a-node-sequence](https://github.com/chieh-eric/LeetCode/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/chieh-eric/LeetCode/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/chieh-eric/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2465-shifting-letters-ii](https://github.com/chieh-eric/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chieh-eric/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2206-detonate-the-maximum-bombs](https://github.com/chieh-eric/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chieh-eric/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2353-maximum-score-of-a-node-sequence](https://github.com/chieh-eric/LeetCode/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2439-longest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/chieh-eric/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2505-number-of-good-paths](https://github.com/chieh-eric/LeetCode/tree/master/2505-number-of-good-paths) |
@@ -602,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/chieh-eric/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/chieh-eric/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
+| [2353-maximum-score-of-a-node-sequence](https://github.com/chieh-eric/LeetCode/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/chieh-eric/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chieh-eric/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -913,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/chieh-eric/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2353-maximum-score-of-a-node-sequence](https://github.com/chieh-eric/LeetCode/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2810-collecting-chocolates](https://github.com/chieh-eric/LeetCode/tree/master/2810-collecting-chocolates) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/chieh-eric/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/chieh-eric/LeetCode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
