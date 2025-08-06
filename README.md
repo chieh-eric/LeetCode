@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/chieh-eric/LeetCode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2297-amount-of-new-area-painted-each-day](https://github.com/chieh-eric/LeetCode/tree/master/2297-amount-of-new-area-painted-each-day) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chieh-eric/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/chieh-eric/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
@@ -1122,6 +1123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-tweet-counts-per-frequency](https://github.com/chieh-eric/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/chieh-eric/LeetCode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
+| [2297-amount-of-new-area-painted-each-day](https://github.com/chieh-eric/LeetCode/tree/master/2297-amount-of-new-area-painted-each-day) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
@@ -1169,6 +1171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/chieh-eric/LeetCode/tree/master/0729-my-calendar-i) |
+| [2297-amount-of-new-area-painted-each-day](https://github.com/chieh-eric/LeetCode/tree/master/2297-amount-of-new-area-painted-each-day) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/chieh-eric/LeetCode/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/chieh-eric/LeetCode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
