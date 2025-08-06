@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/chieh-eric/LeetCode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2291-maximum-and-sum-of-array](https://github.com/chieh-eric/LeetCode/tree/master/2291-maximum-and-sum-of-array) |
 | [2297-amount-of-new-area-painted-each-day](https://github.com/chieh-eric/LeetCode/tree/master/2297-amount-of-new-area-painted-each-day) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chieh-eric/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/chieh-eric/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2291-maximum-and-sum-of-array](https://github.com/chieh-eric/LeetCode/tree/master/2291-maximum-and-sum-of-array) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/chieh-eric/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2504-find-all-good-indices](https://github.com/chieh-eric/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2562-count-ways-to-build-good-strings](https://github.com/chieh-eric/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -495,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/chieh-eric/LeetCode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/chieh-eric/LeetCode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
+| [2291-maximum-and-sum-of-array](https://github.com/chieh-eric/LeetCode/tree/master/2291-maximum-and-sum-of-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2848-special-permutations](https://github.com/chieh-eric/LeetCode/tree/master/2848-special-permutations) |
@@ -511,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2291-maximum-and-sum-of-array](https://github.com/chieh-eric/LeetCode/tree/master/2291-maximum-and-sum-of-array) |
 | [2848-special-permutations](https://github.com/chieh-eric/LeetCode/tree/master/2848-special-permutations) |
 ## Two Pointers
 |  |
