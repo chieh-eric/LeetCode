@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
 | [0862-find-and-replace-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0869-similar-string-groups](https://github.com/chieh-eric/LeetCode/tree/master/0869-similar-string-groups) |
+| [0873-guess-the-word](https://github.com/chieh-eric/LeetCode/tree/master/0873-guess-the-word) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/chieh-eric/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0906-walking-robot-simulation](https://github.com/chieh-eric/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -704,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0793-swap-adjacent-in-lr-string](https://github.com/chieh-eric/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0862-find-and-replace-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0869-similar-string-groups](https://github.com/chieh-eric/LeetCode/tree/master/0869-similar-string-groups) |
+| [0873-guess-the-word](https://github.com/chieh-eric/LeetCode/tree/master/0873-guess-the-word) |
 | [0916-decoded-string-at-index](https://github.com/chieh-eric/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [0935-orderly-queue](https://github.com/chieh-eric/LeetCode/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/chieh-eric/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -1050,6 +1052,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0796-reaching-points](https://github.com/chieh-eric/LeetCode/tree/master/0796-reaching-points) |
 | [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
+| [0873-guess-the-word](https://github.com/chieh-eric/LeetCode/tree/master/0873-guess-the-word) |
 | [0897-prime-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/0897-prime-palindrome) |
 | [0909-stone-game](https://github.com/chieh-eric/LeetCode/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/chieh-eric/LeetCode/tree/master/0910-nth-magical-number) |
@@ -1195,6 +1198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0865-robot-room-cleaner](https://github.com/chieh-eric/LeetCode/tree/master/0865-robot-room-cleaner) |
+| [0873-guess-the-word](https://github.com/chieh-eric/LeetCode/tree/master/0873-guess-the-word) |
 | [1233-number-of-ships-in-a-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/1233-number-of-ships-in-a-rectangle) |
 ## Segment Tree
 |  |
@@ -1220,6 +1224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0873-guess-the-word](https://github.com/chieh-eric/LeetCode/tree/master/0873-guess-the-word) |
 | [0909-stone-game](https://github.com/chieh-eric/LeetCode/tree/master/0909-stone-game) |
 ## Iterator
 |  |
