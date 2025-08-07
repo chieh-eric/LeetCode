@@ -5,24 +5,24 @@ class Solution(object):
         :type shifts: List[List[int]]
         :rtype: str
         """
+        start = []
+        for ch in s:
+            start.append(ord(ch)-ord('a'))
+     
+            
         n = len(s)
-        change = [0]*(n+1)
-        res = []
-        for start, end, d in shifts:
-            if d == 1:
-                change[start] +=1
-                change[end+1] -= 1
-            else:
-                change[start] -=1
-                change[end+1] += 1
-        final = []
-        cum = 0
+        variable = [0]*(len(s)+1)
+        for s, e, d in shifts:
+            var = 1
+            if d == 0:
+                var = -1
+            variable[s] += var
+            variable[e+1] -= var
+        
+        cur = 0
+        res = ""
         for i in range(n):
-            cum += change[i]
-            final.append(cum)
-
-        for i in range(n):
-            shift = (ord(s[i])-ord('a')+final[i])%26
-            new_char = chr(ord('a')+shift)
-            res.append(new_char)
-        return ''.join(res)
+            cur += variable[i]
+            start[i] = (start[i]+cur) % 26
+            res += chr(ord('a')+start[i])
+        return res
