@@ -6,35 +6,33 @@ class Solution(object):
         :rtype: int
         """
         mod = 10**9 + 7
-        n = len(arr)
-
-        def find(array):
-            l = len(array)
-            dp = [0]*l
-            dp[0] = array[0]
-            for i in range(1,l):
-                dp[i] = max(array[i],dp[i-1]+array[i])
-            return max(dp)
         total = sum(arr)
+        max_val = 0
+        min_val = float('inf')
+        n = len(arr)
+        cur_max = cur_min = 0
+        for i in range(len(arr)):
+            cur_max = max(arr[i],cur_max+arr[i])
+            cur_min = min(arr[i],cur_min+arr[i])
 
-        prefix_sum = cur = 0
+            max_val = max(max_val, cur_max)
+            min_val = min(min_val, cur_min)
+        prefix = suffix = 0
+        cur = 0
         for i in range(n):
             cur += arr[i]
-            prefix_sum = max(prefix_sum,cur)
-
-        suffix_sum = cur = 0
+            prefix = max(prefix,cur)
+        cur = 0
         for i in range(n-1,-1,-1):
             cur += arr[i]
-            suffix_sum = max(suffix_sum,cur)
-  
-        if k == 1:
-            res = max(0,find(arr))
-            return res % mod
-        elif k == 2:
-            return find(arr*2) % mod
-        else:
-            middle = max(0,(k-2)*total)
-            front_and_back = max(prefix_sum+suffix_sum, find(arr))
-            return (front_and_back + middle) % mod
-
+            suffix = max(suffix,cur)
         
+        if k == 1:
+            return max_val
+        if k == 2:
+            return max(max_val, total - min_val,  total*k) % mod
+        if min_val == total:
+            return max_val
+        
+        return max(max_val, total*(k-2) + prefix + suffix, total - min_val, total*k) % mod
+
