@@ -1,16 +1,14 @@
+from collections import defaultdict
 class Solution(object):
     def longestStrChain(self, words):
         """
         :type words: List[str]
         :rtype: int
         """
-        m = len(words)
-        words.sort(key=lambda x:len(x))
-        dic = {}
+        dic = defaultdict(int)
+        dic[""] = 0
+        words.sort(key = lambda x:(len(x),x))
         for word in words:
-            dic[word] = 1
             for i in range(len(word)):
-                cut_word = word[:i] + word[i+1:]
-                if cut_word in dic:
-                    dic[word] = max(dic[word], dic[cut_word] + 1)
-        return max(dic.values())
+                dic[word] = max(dic[word],dic[word[:i]+word[i+1:]]+1)
+        return max(dic.values()) 
