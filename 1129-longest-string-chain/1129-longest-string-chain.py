@@ -6,8 +6,7 @@ class Solution(object):
         :rtype: int
         """
         dic = defaultdict(int)
-        dic[""] = 0
-        words.sort(key = lambda x:(len(x),x))
+        words.sort(key = lambda x:len(x))
         for word in words:
             for i in range(len(word)):
                 dic[word] = max(dic[word],dic[word[:i]+word[i+1:]]+1)
