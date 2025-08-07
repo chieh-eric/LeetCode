@@ -1110,6 +1110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/chieh-eric/LeetCode/tree/master/0359-logger-rate-limiter) |
+| [0715-range-module](https://github.com/chieh-eric/LeetCode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/chieh-eric/LeetCode/tree/master/0729-my-calendar-i) |
 | [0931-maximum-frequency-stack](https://github.com/chieh-eric/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0936-rle-iterator](https://github.com/chieh-eric/LeetCode/tree/master/0936-rle-iterator) |
@@ -1131,6 +1132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [0715-range-module](https://github.com/chieh-eric/LeetCode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/chieh-eric/LeetCode/tree/master/0729-my-calendar-i) |
 | [0931-maximum-frequency-stack](https://github.com/chieh-eric/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1017-odd-even-jump](https://github.com/chieh-eric/LeetCode/tree/master/1017-odd-even-jump) |
@@ -1184,6 +1186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [0715-range-module](https://github.com/chieh-eric/LeetCode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/chieh-eric/LeetCode/tree/master/0729-my-calendar-i) |
 | [2297-amount-of-new-area-painted-each-day](https://github.com/chieh-eric/LeetCode/tree/master/2297-amount-of-new-area-painted-each-day) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
