@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/chieh-eric/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/chieh-eric/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/chieh-eric/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -556,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/chieh-eric/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/chieh-eric/LeetCode/tree/master/0162-find-peak-element) |
 | [0729-my-calendar-i](https://github.com/chieh-eric/LeetCode/tree/master/0729-my-calendar-i) |
 | [0788-minimize-max-distance-to-gas-station](https://github.com/chieh-eric/LeetCode/tree/master/0788-minimize-max-distance-to-gas-station) |
