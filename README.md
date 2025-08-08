@@ -541,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chieh-eric/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/chieh-eric/LeetCode/tree/master/0202-happy-number) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/chieh-eric/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/chieh-eric/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -857,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chieh-eric/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/chieh-eric/LeetCode/tree/master/0202-happy-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/chieh-eric/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0359-logger-rate-limiter](https://github.com/chieh-eric/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
@@ -1063,6 +1065,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/chieh-eric/LeetCode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/chieh-eric/LeetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/chieh-eric/LeetCode/tree/master/0343-integer-break) |
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
