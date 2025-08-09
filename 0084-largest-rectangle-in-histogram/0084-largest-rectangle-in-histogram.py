@@ -21,7 +21,7 @@ class Solution(object):
                     width = i - stack[-1] - 1
                 
                 max_val = max(max_val, width*heights[index])
-                print(max_val)
+                #print(max_val)
             #print(stack)
             stack.append(i)
             #print(stack)
