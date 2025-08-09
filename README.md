@@ -780,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/chieh-eric/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/chieh-eric/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3317-maximum-palindromes-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3396-valid-word](https://github.com/chieh-eric/LeetCode/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/chieh-eric/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/chieh-eric/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
