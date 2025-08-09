@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/chieh-eric/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chieh-eric/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/chieh-eric/LeetCode/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chieh-eric/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/chieh-eric/LeetCode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/chieh-eric/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/chieh-eric/LeetCode/tree/master/0189-rotate-array) |
@@ -1027,6 +1028,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chieh-eric/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chieh-eric/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chieh-eric/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0916-decoded-string-at-index](https://github.com/chieh-eric/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [0931-maximum-frequency-stack](https://github.com/chieh-eric/LeetCode/tree/master/0931-maximum-frequency-stack) |
@@ -1196,6 +1198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chieh-eric/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chieh-eric/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chieh-eric/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/chieh-eric/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1017-odd-even-jump](https://github.com/chieh-eric/LeetCode/tree/master/1017-odd-even-jump) |
