@@ -1079,6 +1079,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/chieh-eric/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/chieh-eric/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chieh-eric/LeetCode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/chieh-eric/LeetCode/tree/master/0279-perfect-squares) |
