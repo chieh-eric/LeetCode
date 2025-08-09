@@ -19,7 +19,6 @@ class Solution(object):
                 same = arr[t] + 1
                 change = best[t-1] + 1 if t > 0 else 0
                 new[t] = max(arr[t],same,change)
+                best[t] = max(best[t],new[t])
             dp[x] = new
-            for i in range(k+1):
-                best[i] = max(best[i],new[i])
         return max(best)
