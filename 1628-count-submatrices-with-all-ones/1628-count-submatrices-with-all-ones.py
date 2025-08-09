@@ -4,24 +4,47 @@ class Solution(object):
         :type mat: List[List[int]]
         :rtype: int
         """
-        m = len(mat)
-        n = len(mat[0])
-        
+        n = len(mat)
+        m = len(mat[0])
+        down = [[0]*m for _ in range(n)]
+        right = [[0]*m for _ in range(n)]
+
+        for i in range(n):
+            count = 0
+            for j in range(m-1,-1,-1):
+                if mat[i][j] == 1:
+                    count += 1
+                else:
+                    count = 0
+                right[i][j] = count
+        #print(right)
+
+
         for i in range(m):
-            for j in range(n):
-                if i > 0 and mat[i][j] != 0:
-                    mat[i][j] += mat[i-1][j]
-        count = 0
-        for i in range(m):
-            for j in range(n):
-                if mat[i][j] != 0:
-                    min_h = mat[i][j]
-                    for k in range(j, -1, -1):
-                        if mat[i][k] == 0:
+            count = 0
+            for j in range(n-1,-1,-1):
+                if mat[j][i] == 1:
+                    count += 1
+                else:
+                    count = 0
+                down[j][i] = count
+
+
+        total = 0
+        for i in range(n):
+            for j in range(m):
+                if mat[i][j] == 1:
+                    count = 0
+                    min_val = float('inf')
+                    for k in range(i,n):
+                        if mat[k][j] == 1:
+                            min_val = min(min_val,right[k][j])
+                            count += min_val
+                        else:
                             break
-                        min_h = min(min_h, mat[i][k])
-                        count += min_h
-        return count
-        # [[0, 1, 1, 0], 
-        # [0, 2, 2, 1], 
-        # [1, 3, 3, 0]]
+                    #print(count)
+                    total += count
+        return total
+        # [1,0,1],
+        # [0,1,0],
+        # [1,0,1]]
