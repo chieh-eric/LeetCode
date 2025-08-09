@@ -6,7 +6,6 @@ class Solution(object):
         """
         n = len(mat)
         m = len(mat[0])
-        down = [[0]*m for _ in range(n)]
         right = [[0]*m for _ in range(n)]
 
         for i in range(n):
@@ -17,18 +16,7 @@ class Solution(object):
                 else:
                     count = 0
                 right[i][j] = count
-        #print(right)
-
-
-        for i in range(m):
-            count = 0
-            for j in range(n-1,-1,-1):
-                if mat[j][i] == 1:
-                    count += 1
-                else:
-                    count = 0
-                down[j][i] = count
-
+     
 
         total = 0
         for i in range(n):
@@ -45,6 +33,4 @@ class Solution(object):
                     #print(count)
                     total += count
         return total
-        # [1,0,1],
-        # [0,1,0],
-        # [1,0,1]]
+    
