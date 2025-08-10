@@ -18,7 +18,8 @@ class Solution(object):
         def dfs(v):
             if v == 1:
                 return [TreeNode()]
-            
+            if v in dp:
+                return dp[v]
             res = []
             for i in range(1,v, 2):
                 right = v - i - 1
@@ -28,6 +29,7 @@ class Solution(object):
                         root.left = left_sub
                         root.right = right_sub
                         res.append(root)
+            dp[v] = res
             return res
 
        
