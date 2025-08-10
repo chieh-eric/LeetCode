@@ -1,3 +1,4 @@
+import bisect
 class Solution(object):
     def maxNumOfMarkedIndices(self, nums):
         """
@@ -5,14 +6,20 @@ class Solution(object):
         :rtype: int
         """
         nums.sort()
+        #print(nums)
         n = len(nums)
-        i = 0
-        j = n // 2
-        count = 0
+        start_pos = n // 2
+        iterate = nums[:start_pos]
+        pair = SortedList(nums[start_pos:])
 
-        while i < n//2 and j < n:
-            if 2*nums[i] <= nums[j]:
-                count += 1
-                i += 1
-            j += 1
-        return count*2
+        count = 0
+       # print(iterate)
+        #print(pair)
+        for i in range(len(iterate)):
+            idx = pair.bisect_left(iterate[i]*2)
+            #print(idx)
+            if idx == len(pair):
+                return count
+            del pair[idx]
+            count += 2
+        return count
