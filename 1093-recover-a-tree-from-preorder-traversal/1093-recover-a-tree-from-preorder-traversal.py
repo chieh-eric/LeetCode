@@ -1,4 +1,3 @@
-import re
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
@@ -11,22 +10,33 @@ class Solution(object):
         :type traversal: str
         :rtype: Optional[TreeNode]
         """
-        nodes = re.findall(r'(-*)(\d+)',traversal)
-        parsed = [(len(dash),int(val)) for dash,val in nodes]
-        print(parsed)
-        
-        stack = []
-        for depth, val in parsed:
-            node = TreeNode(val)
+        dic = {}
 
-            while depth < len(stack):
-                stack.pop()
+        depth = 0
+        i = 0
+        n = len(traversal)
+
+        while i < n:
+            depth = 0
+
+            if traversal[i] == "-":
+                while traversal[i] == "-":
+                    depth += 1
+                    i += 1
+            start = i
+            while i < n and traversal[i] != "-":
+                i += 1
+            val = int(traversal[start:i])
             
-            if stack:
-                parent = stack[-1]
-                if not parent.left:
-                    parent.left = node
+            node = TreeNode(val)
+            if depth in dic:
+                if dic[depth].left:
+                    dic[depth].right = node
                 else:
-                    parent.right = node
-            stack.append(node) 
-        return stack[0]
+                    dic[depth].left = node
+            dic[depth+1] = node
+
+        return dic[1]
+        
+
+
