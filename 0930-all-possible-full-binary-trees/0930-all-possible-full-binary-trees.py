@@ -11,26 +11,25 @@ class Solution(object):
         :rtype: List[Optional[TreeNode]]
         """
         dp = {}
-      
-        def dfs(val):
-            if val in dp:
-                return dp[val]
+        res = []
+        if (n+1) % 2:
+            return []
 
-            if not (val % 2):
-                return []
+        def dfs(v):
+            if v == 1:
+                return [TreeNode()]
             
-            if val == 1:
-                return [TreeNode(0)]
-
             res = []
-            for left in range(1,val,2):
-                right = val - left - 1
-                for left_sub in dfs(left):
+            for i in range(1,v, 2):
+                right = v - i - 1
+                for left_sub in dfs(i):
                     for right_sub in dfs(right):
-                        root = TreeNode(0)
+                        root = TreeNode()
                         root.left = left_sub
                         root.right = right_sub
                         res.append(root)
-            dp[val] = res
             return res
+
+       
         return dfs(n)
+                
