@@ -6,18 +6,19 @@ class Solution(object):
         :type value: int
         :rtype: int
         """
-        n = len(nums)
         dic = defaultdict(int)
-        valid = set()
-        for i in range(n):
-            nums[i] = nums[i]%value
-            dic[nums[i]] += 1
+        for num in nums:
+            dic[num%value] += 1
         
-        i = 0
-        while True:
-            mod = i%value
-            if dic[mod] == 0:
-                return i
-            dic[mod] -= 1
-            i += 1
-        return i
+        #print(dic)
+        min_val = max(dic, key = dic.get)
+        #print(min_val)
+        if len(dic) != value:
+            for i in range(value):
+                if i not in dic:
+                    return i
+        else:
+            min_val = min(dic.items(), key = lambda x:(x[1],x[0]))[0]
+            #print("hi")
+            return dic[min_val]*value + min_val
+        
