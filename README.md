@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1499-maximum-performance-of-a-team](https://github.com/chieh-eric/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1522-stone-game-iii](https://github.com/chieh-eric/LeetCode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/chieh-eric/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1418-fair-distribution-of-cookies](https://github.com/chieh-eric/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/chieh-eric/LeetCode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1488-sort-integers-by-the-power-value](https://github.com/chieh-eric/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1522-stone-game-iii](https://github.com/chieh-eric/LeetCode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/chieh-eric/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1135,6 +1137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1359-circular-permutation-in-binary-representation](https://github.com/chieh-eric/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1372-check-if-it-is-a-good-array](https://github.com/chieh-eric/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/chieh-eric/LeetCode/tree/master/1375-find-palindrome-with-fixed-length) |
+| [1522-stone-game-iii](https://github.com/chieh-eric/LeetCode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/chieh-eric/LeetCode/tree/master/1617-stone-game-iv) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/chieh-eric/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/chieh-eric/LeetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -1300,6 +1303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0873-guess-the-word](https://github.com/chieh-eric/LeetCode/tree/master/0873-guess-the-word) |
 | [0909-stone-game](https://github.com/chieh-eric/LeetCode/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/chieh-eric/LeetCode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/chieh-eric/LeetCode/tree/master/1617-stone-game-iv) |
 ## Iterator
 |  |
