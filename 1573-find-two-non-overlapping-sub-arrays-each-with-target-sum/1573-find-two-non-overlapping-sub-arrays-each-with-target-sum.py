@@ -1,4 +1,3 @@
-import heapq
 class Solution(object):
     def minSumOfLengths(self, arr, target):
         """
@@ -6,25 +5,25 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        n = len(arr)
-        min_len = [float('inf')]*n
         left = 0
-        cur = 0
-        best = float('inf')
+        n = len(arr)
+        best = [float('inf')]*n
+        min_val = float('inf')
+
         res = float('inf')
+        cur = 0
         for right in range(n):
             cur += arr[right]
-            
+
             while cur > target:
                 cur -= arr[left]
                 left += 1
             
             if cur == target:
-                cur_length = right - left + 1
-                if left > 0 and min_len[left-1] != float('inf'):
-                    res = min(res, cur_length+min_len[left-1])
-
-                best = min(best,cur_length)
-
-            min_len[right] = best
-        return res if res != float('inf') else -1
+                length = right - left + 1
+                if left > 0 and best[left-1] != float('inf'):
+                    res = min(res, best[left-1] + length)
+                
+                min_val = min(min_val, length)
+            best[right] = min_val
+        return res if res!=float('inf') else -1
