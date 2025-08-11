@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/chieh-eric/LeetCode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/chieh-eric/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/0392-is-subsequence) |
 | [0418-sentence-screen-fitting](https://github.com/chieh-eric/LeetCode/tree/master/0418-sentence-screen-fitting) |
 | [0552-student-attendance-record-ii](https://github.com/chieh-eric/LeetCode/tree/master/0552-student-attendance-record-ii) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/chieh-eric/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/chieh-eric/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chieh-eric/LeetCode/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/0392-is-subsequence) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/chieh-eric/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/chieh-eric/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -735,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chieh-eric/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/chieh-eric/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/chieh-eric/LeetCode/tree/master/0068-text-justification) |
+| [0392-is-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/chieh-eric/LeetCode/tree/master/0394-decode-string) |
 | [0418-sentence-screen-fitting](https://github.com/chieh-eric/LeetCode/tree/master/0418-sentence-screen-fitting) |
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
