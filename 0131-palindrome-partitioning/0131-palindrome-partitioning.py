@@ -22,7 +22,7 @@ class Solution(object):
             if i == n :
                 r = []
                 start = 0
-                print(path)
+                #print(path)
                 for p in path:
                     r.append(s[start:p])
                     start = p
