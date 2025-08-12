@@ -1,13 +1,23 @@
-from collections import defaultdict
 class Solution(object):
     def singleNumber(self, nums):
         """
         :type nums: List[int]
         :rtype: int
         """
-        dic = defaultdict(int)
-        for num in nums:
-            dic[num] += 1
-            if dic[num] == 3:
-                del dic[num]
-        return dic.items()[0][0]
+        res = 0
+
+        for i in range(32):
+
+            bit_sum = 0
+
+            for num in nums:
+                if (num >> i) & 1:
+                    bit_sum += 1
+            
+            if bit_sum % 3:
+                if i == 31:
+                    res -= (1<<31)
+                
+                else:
+                    res |= (1<<i)
+        return res
