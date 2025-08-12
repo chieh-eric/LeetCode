@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/chieh-eric/LeetCode/tree/master/0189-rotate-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/chieh-eric/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chieh-eric/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/chieh-eric/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0418-sentence-screen-fitting](https://github.com/chieh-eric/LeetCode/tree/master/0418-sentence-screen-fitting) |
 | [0419-battleships-in-a-board](https://github.com/chieh-eric/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -910,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/chieh-eric/LeetCode/tree/master/0202-happy-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/chieh-eric/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0359-logger-rate-limiter](https://github.com/chieh-eric/LeetCode/tree/master/0359-logger-rate-limiter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chieh-eric/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/chieh-eric/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0843-binary-trees-with-factors](https://github.com/chieh-eric/LeetCode/tree/master/0843-binary-trees-with-factors) |
@@ -1129,6 +1131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/chieh-eric/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/chieh-eric/LeetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/chieh-eric/LeetCode/tree/master/0343-integer-break) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chieh-eric/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0796-reaching-points](https://github.com/chieh-eric/LeetCode/tree/master/0796-reaching-points) |
 | [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
@@ -1211,6 +1214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/chieh-eric/LeetCode/tree/master/0359-logger-rate-limiter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chieh-eric/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0715-range-module](https://github.com/chieh-eric/LeetCode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/chieh-eric/LeetCode/tree/master/0729-my-calendar-i) |
 | [0931-maximum-frequency-stack](https://github.com/chieh-eric/LeetCode/tree/master/0931-maximum-frequency-stack) |
@@ -1309,6 +1313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/chieh-eric/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0912-random-pick-with-weight](https://github.com/chieh-eric/LeetCode/tree/master/0912-random-pick-with-weight) |
 ## Game Theory
 |  |
