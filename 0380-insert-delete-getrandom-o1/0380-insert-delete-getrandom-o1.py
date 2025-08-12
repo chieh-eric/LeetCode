@@ -1,16 +1,18 @@
 class RandomizedSet(object):
 
     def __init__(self):
-        self.s = set()
+        self.arr = []
+        self.pos = {}
 
     def insert(self, val):
         """
         :type val: int
         :rtype: bool
         """
-        if val in self.s:
+        if val in self.pos:
             return False
-        self.s.add(val)
+        self.pos[val] = len(self.arr)
+        self.arr.append(val)
         return True
         
 
@@ -19,16 +21,22 @@ class RandomizedSet(object):
         :type val: int
         :rtype: bool
         """
-        if val not in self.s:
+        if val not in self.pos:
             return False
-        self.s.remove(val)
+        idx = self.pos[val]
+        last = self.pos[self.arr[-1]]
+        self.pos[self.arr[-1]] = idx
+
+        self.arr[idx], self.arr[last] = self.arr[last], self.arr[idx]
+        self.arr.pop()
+        del self.pos[val]
         return True
 
     def getRandom(self):
         """
         :rtype: int
         """
-        return random.choice(list(self.s))
+        return random.choice(self.arr)
 
 
 # Your RandomizedSet object will be instantiated and called as such:
