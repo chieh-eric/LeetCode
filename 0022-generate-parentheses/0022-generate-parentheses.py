@@ -6,27 +6,17 @@ class Solution(object):
         """
         res = []
 
-        def build(option, path):
-            if not option:
-                res.append("".join(path))
+        def build(left,right, path):
+            if left == n and right == n:
+                res.append(path)
                 return
             
+            if left < n:
+                build(left+1, right, path+"(")
             
-            for key in option:
-                copy = option.copy()
-                copy[key] -= 1
-                if copy[key] == 0:
-                    del copy[key]
+            if right < left:
+                build(left,right+1, path+")")
+        
 
-                if key == "(":
-                    copy[")"] += 1
-                path.append(key)
-                build(copy,path)
-                path.pop()
-
-
-        count = Counter()
-        count["("] = n
-        build(count,[])
-        #print(res)
+        build(0,0,"")
         return res
