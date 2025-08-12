@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chieh-eric/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chieh-eric/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/chieh-eric/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chieh-eric/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/chieh-eric/LeetCode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/chieh-eric/LeetCode/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/chieh-eric/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -750,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0006-zigzag-conversion](https://github.com/chieh-eric/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chieh-eric/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/chieh-eric/LeetCode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/chieh-eric/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/chieh-eric/LeetCode/tree/master/0068-text-justification) |
 | [0131-palindrome-partitioning](https://github.com/chieh-eric/LeetCode/tree/master/0131-palindrome-partitioning) |
