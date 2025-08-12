@@ -7,23 +7,33 @@ class Solution(object):
         :type c: str
         :rtype: str
         """
-        min_s = None
-        
-        def merge(s1,s2):
-            if s1 in s2:
-                return s2
-            if s2 in s1:
-                return s1
-
+        def combine(x,y):
+            if y in x:
+                return x
+            if x in y:
+                return y
+            
             overlap = 0
-            for i in range(1,min(len(s1),len(s2))+1):
-                if s1[-i:] == s2[:i]:
+            for i in range(1,min(len(x),len(y))+1):
+                if x[-i:] == y[:i]:
                     overlap = i
-            return s1 + s2[overlap:]
-       
-        for perm in permutations([a,b,c]):
-            m = merge(merge(perm[0],perm[1]),perm[2])
-            if min_s is None or len(m) < len(min_s) or (len(m) == len(min_s) and m < min_s):
-                min_s = m
 
-        return min_s
+            return x + y[overlap:]
+        min_len = float('inf')
+        min_str = ""
+        res = [a,b,c]
+       
+        for perm in permutations(res):
+            l = combine(perm[0],combine(perm[1],perm[2]))
+            #print(l)
+            #print(r)
+            if len(l) < min_len:
+                min_len = len(l)
+                min_str = l
+            elif len(l) == min_len:
+                #print(l)
+                #print(min_str)
+                min_str = min(min_str,l)
+            
+
+        return min_str
