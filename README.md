@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/chieh-eric/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chieh-eric/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/chieh-eric/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/chieh-eric/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0418-sentence-screen-fitting](https://github.com/chieh-eric/LeetCode/tree/master/0418-sentence-screen-fitting) |
 | [0419-battleships-in-a-board](https://github.com/chieh-eric/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/chieh-eric/LeetCode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/chieh-eric/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/chieh-eric/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/chieh-eric/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0418-sentence-screen-fitting](https://github.com/chieh-eric/LeetCode/tree/master/0418-sentence-screen-fitting) |
 | [0552-student-attendance-record-ii](https://github.com/chieh-eric/LeetCode/tree/master/0552-student-attendance-record-ii) |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chieh-eric/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/chieh-eric/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0770-couples-holding-hands](https://github.com/chieh-eric/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chieh-eric/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -599,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/chieh-eric/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/chieh-eric/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/chieh-eric/LeetCode/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/chieh-eric/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/chieh-eric/LeetCode/tree/master/0729-my-calendar-i) |
 | [0788-minimize-max-distance-to-gas-station](https://github.com/chieh-eric/LeetCode/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0852-friends-of-appropriate-ages](https://github.com/chieh-eric/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
@@ -726,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/chieh-eric/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chieh-eric/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/chieh-eric/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1281-can-make-palindrome-from-substring](https://github.com/chieh-eric/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
