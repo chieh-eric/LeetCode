@@ -2,16 +2,23 @@ from collections import defaultdict
 class UnionFind():
     def __init__(self):
         self.parent = {}
-
-    def find(self, x):
+    
+    def find(self,x):
         if x not in self.parent:
             self.parent[x] = x
+            return x
 
-        if self.parent[x] != x:
-            self.parent[x] = self.find(self.parent[x])
+        if self.parent[x] == x:
+            return x
+        
+        self.parent[x] = self.find(self.parent[x])
         return self.parent[x]
-    def union(self, x, y):
-        self.parent[self.find(x)] = self.find(y)
+    
+    def union(self,x,y):
+        px = self.find(x)
+        py = self.find(y)
+
+        self.parent[px] = py
 
 class Solution(object):
     def generateSentences(self, synonyms, text):
@@ -20,39 +27,37 @@ class Solution(object):
         :type text: str
         :rtype: List[str]
         """
-        n = UnionFind()
-        for i, j in synonyms:
-            n.union(i,j)
-        
-        group = defaultdict(set)
-        for word in n.parent:
-            root = n.find(word)
-            group[root].add(word)
-        for key in group:
-            group[key] = sorted(group[key])
-        
-        res = []
+        u = UnionFind()
+        for a,b in synonyms:
+            u.union(a,b)
+
+        groups = defaultdict(list)
+        for word in u.parent:
+            root = u.find(word)
+            groups[root].append(word)
+        for key in groups:
+            groups[key] = sorted(groups[key])
+        #print(groups)
+
         words = text.split(" ")
+        #print(words)
         m = len(words)
-
-        def backtrack(cur,index):
-
+        res = []
+        def backtrack(index,cur):
             if index == m:
                 res.append(" ".join(cur))
                 return
             
             word = words[index]
+            choice = [word]
+            if word in u.parent:
+                choice = groups[u.find(word)]
             
-            choices = []
-            if word in n.parent:
-                choices = group[n.find(word)]
-            else:
-                choices = [word]
-
-            for choice in choices:
-                cur.append(choice)
-                backtrack(cur,index+1)
+            for option in choice:
+                cur.append(option)
+                backtrack(index+1, cur)
                 cur.pop()
-
-        backtrack([],0)
+        backtrack(0,[])
         return res
+            
+            
