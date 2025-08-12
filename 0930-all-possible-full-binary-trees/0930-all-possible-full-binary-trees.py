@@ -10,28 +10,28 @@ class Solution(object):
         :type n: int
         :rtype: List[Optional[TreeNode]]
         """
-        dp = {}
         res = []
-        if (n+1) % 2:
-            return []
+        memo = {}
+        def dfs(val):
+            if val in memo:
+                return memo[val]
 
-        def dfs(v):
-            if v == 1:
-                return [TreeNode()]
-            if v in dp:
-                return dp[v]
-            res = []
-            for i in range(1,v, 2):
-                right = v - i - 1
-                for left_sub in dfs(i):
-                    for right_sub in dfs(right):
+            if val % 2 == 0:
+                return []
+            
+            if val == 1:
+                return [TreeNode()]      
+            
+            cur = []
+
+            for i in range(1,val,2):
+                right_val = val - i - 1
+                for l in dfs(i):
+                    for r in dfs(right_val):
                         root = TreeNode()
-                        root.left = left_sub
-                        root.right = right_sub
-                        res.append(root)
-            dp[v] = res
-            return res
-
-       
+                        root.left = l
+                        root.right = r
+                        cur.append(root)
+            memo[val] = cur
+            return cur
         return dfs(n)
-                
