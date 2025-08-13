@@ -6,19 +6,18 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        n = len(nums)
-        # dp is a dictionary, key as the interger, value as ()
         dp = defaultdict(lambda: [0]*(k+1))
         best = [0]*(k+1)
 
-        for x in nums:
-            arr = dp[x]
+        for num in nums:
+            arr = dp[num]
             new = arr[:]
+            for i in range(k,-1,-1):
+                same = arr[i] + 1
+                change = best[i-1] + 1 if i > 0 else 0
+                new[i] = max(same,change)
+                best[i] = max(best[i], new[i])
 
-            for t in range(k, -1, -1):
-                same = arr[t] + 1
-                change = best[t-1] + 1 if t > 0 else 0
-                new[t] = max(arr[t],same,change)
-                best[t] = max(best[t],new[t])
-            dp[x] = new
+            dp[num] = new
         return max(best)
+                
