@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/chieh-eric/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/chieh-eric/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/chieh-eric/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/chieh-eric/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chieh-eric/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/chieh-eric/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -1023,6 +1024,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/chieh-eric/LeetCode/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/chieh-eric/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/chieh-eric/LeetCode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/chieh-eric/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
@@ -1147,6 +1149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/chieh-eric/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/chieh-eric/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chieh-eric/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/chieh-eric/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/chieh-eric/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/chieh-eric/LeetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/chieh-eric/LeetCode/tree/master/0343-integer-break) |
@@ -1285,6 +1288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/chieh-eric/LeetCode/tree/master/0204-count-primes) |
 | [0897-prime-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/0897-prime-palindrome) |
 | [1307-ugly-number-iii](https://github.com/chieh-eric/LeetCode/tree/master/1307-ugly-number-iii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/chieh-eric/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
