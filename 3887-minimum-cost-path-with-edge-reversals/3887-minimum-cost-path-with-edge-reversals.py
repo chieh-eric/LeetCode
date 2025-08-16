@@ -16,19 +16,18 @@ class Solution(object):
 
         heapq.heappush(heap,(0,0,0))
 
-        visited = set()
+        visited = [[False]*2 for _ in range(n)]
         while heap:
             cost, node, used = heapq.heappop(heap)
             if node == n - 1:
                 return cost
-            if ((node,used)) in visited:
+            if visited[node][used]:
                 continue
                 
-            visited.add((node,used))
+            visited[node][used] = True
             for nei, wei in graph[node]:
-                if nei not in visited:
-                    if wei < 0:
-                        heapq.heappush(heap,(2*(-wei)+cost,nei,1))
-                    else:
-                        heapq.heappush(heap,(wei+cost,nei,0))
+                if wei < 0:
+                    heapq.heappush(heap,(2*(-wei)+cost,nei,1))
+                else:
+                    heapq.heappush(heap,(wei+cost,nei,0))
         return -1
