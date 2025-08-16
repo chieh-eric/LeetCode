@@ -6,24 +6,29 @@ class Solution(object):
         :type y: int
         :rtype: int
         """
-        n = len(s)
-        def remove_pair(st, first, second, score):
+        def remove(st, first, second, score):
             stack = []
-            ret = 0
-            for ch in st:
-                if stack and stack[-1] == first and ch == second:
+            i = 0
+            m = len(st)
+            out = 0
+            # ab first
+            while i < m:
+                
+                if stack and stack[-1] == first and st[i] == second:
+                    out += score
                     stack.pop()
-                    ret += score
                 else:
-                    stack.append(ch)
-            return "".join(stack), ret
+                    stack.append(st[i])
+                i += 1
+            return ''.join(stack), out
 
-        
+        res = 0
+        val1 = val2 = 0
         if x > y:
-            st, p1 = remove_pair(s, "a", "b", x)
-            _, p2 = remove_pair(st, "b", "a", y)
+            s, val1 = remove(s, "a", "b", x)
+            _, val2 = remove(s, "b", "a", y)
         else:
-            st, p1 = remove_pair(s, "b", "a", y)
-            _, p2 = remove_pair(st, "a", "b", x)
+            s, val1 = remove(s, "b", "a", y)
+            _, val2 = remove(s, "a", "b", x)
 
-        return p1 + p2
+        return val1 + val2
