@@ -7,25 +7,31 @@ class Solution(object):
         :rtype: int
         """
         n = len(points)
-        visited = [False]*n
-        heap = [(0,0)]
-       
-        total_weight = 0
-        count = 0
-        while heap and count < n:
-            weight, node = heapq.heappop(heap)
-            if visited[node]:
-                continue
-                
-            total_weight += weight
-            count += 1
-            visited[node] = True
-            
-            x = points[node][0]
-            y = points[node][1]
-            for adj_node, (x1, y1) in enumerate(points):
-                if adj_node != node and not visited[adj_node]:
-                    adj_weight = abs(x1-x) + abs(y1 - y)
-                    heapq.heappush(heap,(adj_weight,adj_node))
-        return total_weight
 
+        def distance(a,b):
+            return abs(a[0]-b[0]) + abs(a[1]-b[1])
+
+        heap = []
+        heapq.heappush(heap,(0,0))
+        visited = set()
+        total = 0
+
+        while heap:
+            cost, node = heapq.heappop(heap)
+            if node in visited:
+                continue
+            
+            
+            total += cost
+            visited.add(node)
+            if len(visited) == n:
+                return total
+
+            px = points[node][0]
+            py = points[node][1]
+
+            for index, (x,y) in enumerate(points):
+                if node == index:
+                    continue
+                if index not in visited:
+                    heapq.heappush(heap,(distance((x,y),(px,py)), index))
