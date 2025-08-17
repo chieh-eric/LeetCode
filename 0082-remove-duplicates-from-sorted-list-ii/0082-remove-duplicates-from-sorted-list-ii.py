@@ -9,22 +9,30 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
+        dummy = ListNode(0,head)
+        prev = dummy
         cur = head
-        dic = {}
-        count = Counter()
-        arr = []
+        if not head or not head.next:
+            return head
+            
         while cur:
-            count[cur.val] += 1
-            arr.append(cur.val)
+
+            is_duplicate = False
+
+            while cur and cur.next and cur.next.val == cur.val:
+                cur = cur.next
+                is_duplicate = True
+            
+            if is_duplicate:
+                prev.next = cur.next
+            else:
+                prev = prev.next
             cur = cur.next
 
-        start = ListNode()
-        cur = start
-        for node in arr:
-            if count[node] == 1:
-                cur.next = ListNode(node)
-                cur = cur.next
-        return start.next
+        return dummy.next
+
+            
+
         
         
                 
