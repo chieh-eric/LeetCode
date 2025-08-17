@@ -19,6 +19,8 @@ class Solution(object):
                 if status[i] < self.min_val:
                     backtrack(index+1)
                 status[i] -= cookies[index]
+                if status[i] == 0:
+                    break
         backtrack(0)
         return self.min_val
       
