@@ -5,28 +5,20 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        children = [0]*k
         n = len(cookies)
-        self.min_unfair = float('inf')
+        self.min_val = float('inf')
+        status = [0]*k
 
-        def backtrack(i):
-            if i == n:
-                self.min_unfair = min(self.min_unfair,max(children))
+        def backtrack(index):
+            if index == n:
+                self.min_val = min(self.min_val, max(status))
                 return
-
-            for j in range(k):
-                children[j] += cookies[i]
-
-                if children[j] < self.min_unfair:
-                    backtrack(i+1)
-
-                children[j] -= cookies[i]
-                if children[j] == 0:
-                    break
+            
+            for i in range(k):
+                status[i] += cookies[index]
+                if status[i] < self.min_val:
+                    backtrack(index+1)
+                status[i] -= cookies[index]
         backtrack(0)
-        return self.min_unfair          
-                
-
-
-                
-        
+        return self.min_val
+      
