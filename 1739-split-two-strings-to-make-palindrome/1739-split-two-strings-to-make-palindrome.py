@@ -5,20 +5,18 @@ class Solution(object):
         :type b: str
         :rtype: bool
         """
-        def isPalindrome(s,l,r):
-            while l < r:
-                if s[l] != s[r]:
-                    return False
-                l += 1
-                r -= 1
-            return True
-
+        n = len(a)
+            
         def check(x,y):
-            l = 0
-            r = len(y) - 1
-            while l < r and x[l] == y[r]:
-                l += 1
-                r -= 1
-            return isPalindrome(x,l,r) or isPalindrome(y,l,r)
+            left = 0
+            right = n - 1
+            while left < n and right < n and x[left] == y[right]:
+                left += 1
+                right -= 1
+            
+            remaina = a[left:right+1]
+            remainb = b[left:right+1]
+            return remaina == remaina[::-1] or remainb == remainb[::-1]
+
 
         return check(a,b) or check(b,a)
