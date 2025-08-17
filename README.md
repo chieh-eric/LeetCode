@@ -672,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/chieh-eric/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chieh-eric/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0807-custom-sort-string](https://github.com/chieh-eric/LeetCode/tree/master/0807-custom-sort-string) |
 | [0843-binary-trees-with-factors](https://github.com/chieh-eric/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0852-friends-of-appropriate-ages](https://github.com/chieh-eric/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -795,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/chieh-eric/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0807-custom-sort-string](https://github.com/chieh-eric/LeetCode/tree/master/0807-custom-sort-string) |
 | [0862-find-and-replace-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0869-similar-string-groups](https://github.com/chieh-eric/LeetCode/tree/master/0869-similar-string-groups) |
 | [0873-guess-the-word](https://github.com/chieh-eric/LeetCode/tree/master/0873-guess-the-word) |
@@ -948,6 +950,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/chieh-eric/LeetCode/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/chieh-eric/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
+| [0807-custom-sort-string](https://github.com/chieh-eric/LeetCode/tree/master/0807-custom-sort-string) |
 | [0843-binary-trees-with-factors](https://github.com/chieh-eric/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0862-find-and-replace-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0869-similar-string-groups](https://github.com/chieh-eric/LeetCode/tree/master/0869-similar-string-groups) |
