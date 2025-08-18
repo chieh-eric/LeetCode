@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/chieh-eric/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/chieh-eric/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2078-maximum-compatibility-score-sum](https://github.com/chieh-eric/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/chieh-eric/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/chieh-eric/LeetCode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/chieh-eric/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/chieh-eric/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -839,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-palindrome-partitioning-iv](https://github.com/chieh-eric/LeetCode/tree/master/1871-palindrome-partitioning-iv) |
 | [1880-largest-merge-of-two-strings](https://github.com/chieh-eric/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/chieh-eric/LeetCode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/chieh-eric/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/chieh-eric/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chieh-eric/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -989,6 +991,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/chieh-eric/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/chieh-eric/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/chieh-eric/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2139-detect-squares](https://github.com/chieh-eric/LeetCode/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chieh-eric/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1032,6 +1035,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [1244-distinct-echo-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1244-distinct-echo-substrings) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/chieh-eric/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chieh-eric/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Rolling Hash
@@ -1046,6 +1050,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1244-distinct-echo-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1244-distinct-echo-substrings) |
 | [1697-strings-differ-by-one-character](https://github.com/chieh-eric/LeetCode/tree/master/1697-strings-differ-by-one-character) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/chieh-eric/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2275-find-substring-with-given-hash-value](https://github.com/chieh-eric/LeetCode/tree/master/2275-find-substring-with-given-hash-value) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 ## Enumeration
