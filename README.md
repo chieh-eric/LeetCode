@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/chieh-eric/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/chieh-eric/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0418-sentence-screen-fitting](https://github.com/chieh-eric/LeetCode/tree/master/0418-sentence-screen-fitting) |
+| [0516-longest-palindromic-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0552-student-attendance-record-ii](https://github.com/chieh-eric/LeetCode/tree/master/0552-student-attendance-record-ii) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -801,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/chieh-eric/LeetCode/tree/master/0394-decode-string) |
 | [0418-sentence-screen-fitting](https://github.com/chieh-eric/LeetCode/tree/master/0418-sentence-screen-fitting) |
 | [0459-repeated-substring-pattern](https://github.com/chieh-eric/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/chieh-eric/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
