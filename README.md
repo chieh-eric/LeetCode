@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-minimum-area-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/chieh-eric/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [1017-odd-even-jump](https://github.com/chieh-eric/LeetCode/tree/master/1017-odd-even-jump) |
+| [1019-squares-of-a-sorted-array](https://github.com/chieh-eric/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/chieh-eric/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/chieh-eric/LeetCode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chieh-eric/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -601,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0793-swap-adjacent-in-lr-string](https://github.com/chieh-eric/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/chieh-eric/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1019-squares-of-a-sorted-array](https://github.com/chieh-eric/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-shortest-way-to-form-string](https://github.com/chieh-eric/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1129-longest-string-chain](https://github.com/chieh-eric/LeetCode/tree/master/1129-longest-string-chain) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
@@ -681,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0935-orderly-queue](https://github.com/chieh-eric/LeetCode/tree/master/0935-orderly-queue) |
 | [0976-minimum-area-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1017-odd-even-jump](https://github.com/chieh-eric/LeetCode/tree/master/1017-odd-even-jump) |
+| [1019-squares-of-a-sorted-array](https://github.com/chieh-eric/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/chieh-eric/LeetCode/tree/master/1129-longest-string-chain) |
 | [1191-synonymous-sentences](https://github.com/chieh-eric/LeetCode/tree/master/1191-synonymous-sentences) |
 | [1308-smallest-string-with-swaps](https://github.com/chieh-eric/LeetCode/tree/master/1308-smallest-string-with-swaps) |
