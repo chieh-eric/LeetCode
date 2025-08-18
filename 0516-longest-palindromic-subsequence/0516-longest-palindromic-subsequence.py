@@ -7,8 +7,6 @@ class Solution(object):
         n = len(s)
         dp = [[0]*n for _ in range(n)] # dp means the maximum length between i, j
         
-        for i in range(n):
-            dp[i][i] = 1
         
         for length in range(1, n+1):
             for i in range(n-length + 1):
