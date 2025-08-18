@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/chieh-eric/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/chieh-eric/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1813-maximum-erasure-value](https://github.com/chieh-eric/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/chieh-eric/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/chieh-eric/LeetCode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/chieh-eric/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -986,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1697-strings-differ-by-one-character](https://github.com/chieh-eric/LeetCode/tree/master/1697-strings-differ-by-one-character) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1813-maximum-erasure-value](https://github.com/chieh-eric/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/chieh-eric/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2139-detect-squares](https://github.com/chieh-eric/LeetCode/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
@@ -1092,6 +1094,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1813-maximum-erasure-value](https://github.com/chieh-eric/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2275-find-substring-with-given-hash-value](https://github.com/chieh-eric/LeetCode/tree/master/2275-find-substring-with-given-hash-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chieh-eric/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
