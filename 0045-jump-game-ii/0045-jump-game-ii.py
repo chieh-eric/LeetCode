@@ -5,9 +5,12 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        dp = [float('inf')]*n
-        dp[0] = 0
-        for i in range(n):
-            for j in range(i+1, min(n, i+nums[i]+1)):
-                dp[j] = min(dp[i] + 1, dp[j])
-        return dp[-1]
+        farthest = currentEnd = 0
+        step = 0
+        for i in range(n-1):
+            
+            farthest = max(farthest, i + nums[i])
+            if i == currentEnd:
+                currentEnd = farthest
+                step += 1
+        return step
