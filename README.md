@@ -799,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/chieh-eric/LeetCode/tree/master/0068-text-justification) |
 | [0131-palindrome-partitioning](https://github.com/chieh-eric/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/chieh-eric/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/chieh-eric/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/chieh-eric/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/chieh-eric/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/0392-is-subsequence) |
@@ -1194,6 +1195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/chieh-eric/LeetCode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/chieh-eric/LeetCode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/chieh-eric/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/chieh-eric/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chieh-eric/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chieh-eric/LeetCode/tree/master/0204-count-primes) |
