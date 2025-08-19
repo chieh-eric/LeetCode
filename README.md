@@ -1141,6 +1141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/chieh-eric/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chieh-eric/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/chieh-eric/LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/chieh-eric/LeetCode/tree/master/0394-decode-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chieh-eric/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0916-decoded-string-at-index](https://github.com/chieh-eric/LeetCode/tree/master/0916-decoded-string-at-index) |
@@ -1287,6 +1288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/chieh-eric/LeetCode/tree/master/0155-min-stack) |
 | [0359-logger-rate-limiter](https://github.com/chieh-eric/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chieh-eric/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0715-range-module](https://github.com/chieh-eric/LeetCode/tree/master/0715-range-module) |
