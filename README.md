@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/chieh-eric/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/chieh-eric/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/chieh-eric/LeetCode/tree/master/1036-rotting-oranges) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/chieh-eric/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chieh-eric/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
 | [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0757-pyramid-transition-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/chieh-eric/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/chieh-eric/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
 | [1281-can-make-palindrome-from-substring](https://github.com/chieh-eric/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
@@ -772,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/chieh-eric/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/chieh-eric/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/chieh-eric/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/chieh-eric/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1281-can-make-palindrome-from-substring](https://github.com/chieh-eric/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chieh-eric/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1603-running-sum-of-1d-array](https://github.com/chieh-eric/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -1110,6 +1113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0480-sliding-window-median](https://github.com/chieh-eric/LeetCode/tree/master/0480-sliding-window-median) |
 | [0966-binary-subarrays-with-sum](https://github.com/chieh-eric/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/chieh-eric/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/chieh-eric/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/chieh-eric/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/chieh-eric/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -1188,6 +1192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/chieh-eric/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chieh-eric/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
