@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0418-sentence-screen-fitting](https://github.com/chieh-eric/LeetCode/tree/master/0418-sentence-screen-fitting) |
 | [0419-battleships-in-a-board](https://github.com/chieh-eric/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0480-sliding-window-median](https://github.com/chieh-eric/LeetCode/tree/master/0480-sliding-window-median) |
+| [0525-contiguous-array](https://github.com/chieh-eric/LeetCode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/chieh-eric/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/chieh-eric/LeetCode/tree/master/0561-array-partition) |
@@ -777,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/chieh-eric/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/chieh-eric/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chieh-eric/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/chieh-eric/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/chieh-eric/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -979,6 +981,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0359-logger-rate-limiter](https://github.com/chieh-eric/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chieh-eric/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0480-sliding-window-median](https://github.com/chieh-eric/LeetCode/tree/master/0480-sliding-window-median) |
+| [0525-contiguous-array](https://github.com/chieh-eric/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chieh-eric/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/chieh-eric/LeetCode/tree/master/0807-custom-sort-string) |
