@@ -651,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/chieh-eric/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chieh-eric/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/chieh-eric/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/chieh-eric/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chieh-eric/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/chieh-eric/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -1406,6 +1407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/chieh-eric/LeetCode/tree/master/0278-first-bad-version) |
 | [0865-robot-room-cleaner](https://github.com/chieh-eric/LeetCode/tree/master/0865-robot-room-cleaner) |
 | [0873-guess-the-word](https://github.com/chieh-eric/LeetCode/tree/master/0873-guess-the-word) |
 | [1233-number-of-ships-in-a-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/1233-number-of-ships-in-a-rectangle) |
