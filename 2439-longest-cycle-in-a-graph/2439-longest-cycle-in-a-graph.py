@@ -4,35 +4,25 @@ class Solution(object):
         :type edges: List[int]
         :rtype: int
         """
-        graph = {}
-        for i, to in enumerate(edges):
-            if to != -1:
-                graph[i] = to
         n = len(edges)
-        self.max_length = -1
+        visited = [0]*n
+        self.max_len = -1
 
-        stepMap = {}
-        def dfs(node,step):
-            if node in stepMap:
-                if start_node == stepMap[node][1]:
-                    self.max_length = max(self.max_length, step - stepMap[node][0])
+        def dfs(node, step):
+            if node == -1:
+                return 
+            if visited[node] == -1:
                 return
-            if node in visited:
-                return
-            visited.add(node)
-            stepMap[node] = (step, start_node) 
-            if node in graph:
-                dfs(graph[node],step+1)
 
-        visited = set()
+            if visited[node] != 0:
+                self.max_len = max(self.max_len, step - visited[node])
+                return
+            
+            visited[node] = step
+            dfs(edges[node], step + 1)
+            visited[node] = -1
+
         for i in range(n):
-            if i not in visited:
-                start_node = i
+            if visited[i] != -1:
                 dfs(i,0)
-        return self.max_length
-
-        #0 -> 1 -> 2 -> 0
-
-        #3 -> 4 ->5 -> 6 -> 3
-
-        #7 -> 8 -> 9 -> 7
+        return self.max_len
