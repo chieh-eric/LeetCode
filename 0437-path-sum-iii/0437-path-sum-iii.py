@@ -11,23 +11,23 @@ class Solution(object):
         :type targetSum: int
         :rtype: int
         """
-        def check(node, cur):
-            if not node:
-                return 0
-
-            valid = 0
-            cur = node.val + cur
-            if cur == targetSum:
-                valid  += 1
-            
-            valid += check(node.left,cur) + check(node.right, cur)
-            return valid
-        
-        def dfs(node):
+        states = Counter()
+        states[0] = True
+        def dfs(node,cur):
             if not node:
                 return 0
             
-            count = check(node,0) + dfs(node.left) + dfs(node.right)
+            count = 0
+            cur += node.val
+            
+            if cur - targetSum in states:
+                count += states[cur-targetSum]
+            states[cur] += 1
+            count += dfs(node.left, cur)
+            count += dfs(node.right, cur)
+            states[cur] -= 1
+            if states[cur] == 0:
+                del states[cur]
             
             return count
-        return dfs(root)
+        return dfs(root,0)
