@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/chieh-eric/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/chieh-eric/LeetCode/tree/master/0909-stone-game) |
 | [0912-random-pick-with-weight](https://github.com/chieh-eric/LeetCode/tree/master/0912-random-pick-with-weight) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0936-rle-iterator](https://github.com/chieh-eric/LeetCode/tree/master/0936-rle-iterator) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/chieh-eric/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0943-sum-of-subarray-minimums](https://github.com/chieh-eric/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-minimum-number-of-refueling-stops](https://github.com/chieh-eric/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0909-stone-game](https://github.com/chieh-eric/LeetCode/tree/master/0909-stone-game) |
 | [0930-all-possible-full-binary-trees](https://github.com/chieh-eric/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/chieh-eric/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0943-sum-of-subarray-minimums](https://github.com/chieh-eric/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -574,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0757-pyramid-transition-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/chieh-eric/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/chieh-eric/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
