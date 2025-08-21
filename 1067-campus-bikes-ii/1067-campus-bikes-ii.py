@@ -5,25 +5,34 @@ class Solution(object):
         :type bikes: List[List[int]]
         :rtype: int
         """
-        # Use top-down dp with memorization
-        def calculate((x1,y1),(x2,y2)):
-            return abs(x1-x2) + abs(y1-y2)
-        
-        n = len(bikes)
         m = len(workers)
-        dp = [[float('inf')]*(2**n) for _ in range(m)]
+        n = len(bikes)
+        distance = [[0]*m for _ in range(n)]
 
-        memo = {}
-        def dp(i, mask):
-            if i == m:
-                return 0
-            if (i,mask) in memo:
-                return memo[(i,mask)]
-            res = float('inf')
+        for i in range(n):
+            for j in range(m):
+                distance[i][j] = abs(bikes[i][0]-workers[j][0]) + abs(bikes[i][1]-workers[j][1])
+        #print(distance)
+
+        dp = [float('inf')]*(2**n)
+        dp[0] = 0
+
+        for mask in range(2**n):
+
+            i = bin(mask).count("1")
+            
+            if i >= m:
+                continue
+            
             for j in range(n):
-                if (mask&(1<<j)) == 0:
-                    dist = calculate(bikes[j],workers[i])
-                    res = min(res, dp(i+1,mask|(1<<j)) + dist) 
-            memo[(i,mask)] = res
-            return res
-        return dp(0,0)
+                if not ((mask >> j) & 1):
+                    new_mask = mask | (1 << j)
+                    dp[new_mask] = min(dp[new_mask], dp[mask] + distance[j][i])
+
+        min_val = float('inf')
+        for mask in range(2**n):
+            if bin(mask).count("1") == m:
+                min_val = min(min_val, dp[mask])
+        return min_val
+        #print(dp)
+
