@@ -1,4 +1,3 @@
-import bisect
 class Solution(object):
     def twoSum(self, numbers, target):
         """
@@ -7,8 +6,17 @@ class Solution(object):
         :rtype: List[int]
         """
         n = len(numbers)
-        for i in range(n):
-            cur = numbers[i]
-            idx = bisect.bisect_left(numbers,target-cur, i+1,n)
-            if idx < n and numbers[idx] + cur == target:
-                return [i+1, idx+1]
+        left = 0
+        right = n - 1
+
+        while left < right:
+            total = numbers[left] + numbers[right]
+
+            if total == target:
+                return [left+1,right+1]
+
+            elif total > target:
+                right -= 1
+            
+            else:
+                left += 1
