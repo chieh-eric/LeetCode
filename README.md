@@ -1247,6 +1247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/chieh-eric/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/chieh-eric/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/chieh-eric/LeetCode/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/chieh-eric/LeetCode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/chieh-eric/LeetCode/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chieh-eric/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -1317,6 +1318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/chieh-eric/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/chieh-eric/LeetCode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/chieh-eric/LeetCode/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/chieh-eric/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## Memoization
