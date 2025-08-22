@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
+| [0826-soup-servings](https://github.com/chieh-eric/LeetCode/tree/master/0826-soup-servings) |
 | [0836-race-car](https://github.com/chieh-eric/LeetCode/tree/master/0836-race-car) |
 | [0843-binary-trees-with-factors](https://github.com/chieh-eric/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/chieh-eric/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -1251,6 +1252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0796-reaching-points](https://github.com/chieh-eric/LeetCode/tree/master/0796-reaching-points) |
 | [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
+| [0826-soup-servings](https://github.com/chieh-eric/LeetCode/tree/master/0826-soup-servings) |
 | [0873-guess-the-word](https://github.com/chieh-eric/LeetCode/tree/master/0873-guess-the-word) |
 | [0897-prime-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/0897-prime-palindrome) |
 | [0909-stone-game](https://github.com/chieh-eric/LeetCode/tree/master/0909-stone-game) |
@@ -1467,4 +1469,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/chieh-eric/LeetCode/tree/master/0561-array-partition) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/chieh-eric/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
