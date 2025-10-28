@@ -562,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/chieh-eric/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0865-robot-room-cleaner](https://github.com/chieh-eric/LeetCode/tree/master/0865-robot-room-cleaner) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/chieh-eric/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
 | [1191-synonymous-sentences](https://github.com/chieh-eric/LeetCode/tree/master/1191-synonymous-sentences) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/chieh-eric/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
@@ -858,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-custom-sort-string](https://github.com/chieh-eric/LeetCode/tree/master/0807-custom-sort-string) |
 | [0862-find-and-replace-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0869-similar-string-groups](https://github.com/chieh-eric/LeetCode/tree/master/0869-similar-string-groups) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/chieh-eric/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0873-guess-the-word](https://github.com/chieh-eric/LeetCode/tree/master/0873-guess-the-word) |
 | [0916-decoded-string-at-index](https://github.com/chieh-eric/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [0935-orderly-queue](https://github.com/chieh-eric/LeetCode/tree/master/0935-orderly-queue) |
