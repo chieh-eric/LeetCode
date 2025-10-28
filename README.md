@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/chieh-eric/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chieh-eric/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
+| [1087-longest-arithmetic-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1121-partition-array-for-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1017-odd-even-jump](https://github.com/chieh-eric/LeetCode/tree/master/1017-odd-even-jump) |
 | [1025-minimum-cost-for-tickets](https://github.com/chieh-eric/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
+| [1087-longest-arithmetic-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/chieh-eric/LeetCode/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/chieh-eric/LeetCode/tree/master/1130-last-stone-weight-ii) |
@@ -676,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/chieh-eric/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1051-shortest-way-to-form-string](https://github.com/chieh-eric/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chieh-eric/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1087-longest-arithmetic-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/chieh-eric/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1192-divide-chocolate](https://github.com/chieh-eric/LeetCode/tree/master/1192-divide-chocolate) |
@@ -1033,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-minimum-area-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/chieh-eric/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/chieh-eric/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1087-longest-arithmetic-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/chieh-eric/LeetCode/tree/master/1129-longest-string-chain) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/chieh-eric/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1190-smallest-common-region](https://github.com/chieh-eric/LeetCode/tree/master/1190-smallest-common-region) |
