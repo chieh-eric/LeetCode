@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0869-similar-string-groups](https://github.com/chieh-eric/LeetCode/tree/master/0869-similar-string-groups) |
 | [0873-guess-the-word](https://github.com/chieh-eric/LeetCode/tree/master/0873-guess-the-word) |
+| [0881-loud-and-rich](https://github.com/chieh-eric/LeetCode/tree/master/0881-loud-and-rich) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/chieh-eric/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0906-walking-robot-simulation](https://github.com/chieh-eric/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/chieh-eric/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/chieh-eric/LeetCode/tree/master/0869-similar-string-groups) |
+| [0881-loud-and-rich](https://github.com/chieh-eric/LeetCode/tree/master/0881-loud-and-rich) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chieh-eric/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0964-minimize-malware-spread-ii](https://github.com/chieh-eric/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0770-couples-holding-hands](https://github.com/chieh-eric/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0820-find-eventual-safe-states](https://github.com/chieh-eric/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/chieh-eric/LeetCode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/chieh-eric/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/chieh-eric/LeetCode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1101-parallel-courses](https://github.com/chieh-eric/LeetCode/tree/master/1101-parallel-courses) |
@@ -552,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/chieh-eric/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/chieh-eric/LeetCode/tree/master/0881-loud-and-rich) |
 | [1101-parallel-courses](https://github.com/chieh-eric/LeetCode/tree/master/1101-parallel-courses) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chieh-eric/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chieh-eric/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
