@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2291-maximum-and-sum-of-array](https://github.com/chieh-eric/LeetCode/tree/master/2291-maximum-and-sum-of-array) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/chieh-eric/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/chieh-eric/LeetCode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2504-find-all-good-indices](https://github.com/chieh-eric/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2562-count-ways-to-build-good-strings](https://github.com/chieh-eric/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2648-number-of-ways-to-earn-points](https://github.com/chieh-eric/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
@@ -1301,6 +1302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/chieh-eric/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/chieh-eric/LeetCode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
 | [2383-add-two-integers](https://github.com/chieh-eric/LeetCode/tree/master/2383-add-two-integers) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/chieh-eric/LeetCode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/chieh-eric/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3212-count-the-number-of-good-partitions](https://github.com/chieh-eric/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
@@ -1423,6 +1425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/chieh-eric/LeetCode/tree/master/1307-ugly-number-iii) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/chieh-eric/LeetCode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/chieh-eric/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3212-count-the-number-of-good-partitions](https://github.com/chieh-eric/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chieh-eric/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
