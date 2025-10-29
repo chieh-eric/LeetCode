@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1299-k-concatenation-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/chieh-eric/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1308-smallest-string-with-swaps](https://github.com/chieh-eric/LeetCode/tree/master/1308-smallest-string-with-swaps) |
+| [1311-largest-magic-square](https://github.com/chieh-eric/LeetCode/tree/master/1311-largest-magic-square) |
 | [1319-unique-number-of-occurrences](https://github.com/chieh-eric/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chieh-eric/LeetCode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1325-path-with-maximum-probability](https://github.com/chieh-eric/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -822,6 +823,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/chieh-eric/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/chieh-eric/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1281-can-make-palindrome-from-substring](https://github.com/chieh-eric/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
+| [1311-largest-magic-square](https://github.com/chieh-eric/LeetCode/tree/master/1311-largest-magic-square) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chieh-eric/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1603-running-sum-of-1d-array](https://github.com/chieh-eric/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/chieh-eric/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -992,6 +994,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/chieh-eric/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1239-largest-1-bordered-square](https://github.com/chieh-eric/LeetCode/tree/master/1239-largest-1-bordered-square) |
+| [1311-largest-magic-square](https://github.com/chieh-eric/LeetCode/tree/master/1311-largest-magic-square) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chieh-eric/LeetCode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/chieh-eric/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
