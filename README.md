@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/chieh-eric/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3837-grid-teleportation-traversal](https://github.com/chieh-eric/LeetCode/tree/master/3837-grid-teleportation-traversal) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/chieh-eric/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -619,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/chieh-eric/LeetCode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/chieh-eric/LeetCode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/chieh-eric/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/chieh-eric/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 ## Bitmask
 |  |
 | ------- |
