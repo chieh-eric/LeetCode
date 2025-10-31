@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/chieh-eric/LeetCode/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chieh-eric/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/chieh-eric/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chieh-eric/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/chieh-eric/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1109,6 +1110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/chieh-eric/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/chieh-eric/LeetCode/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/chieh-eric/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chieh-eric/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/chieh-eric/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3646-sum-of-good-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/3646-sum-of-good-subsequences) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/chieh-eric/LeetCode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -1326,6 +1328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/chieh-eric/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chieh-eric/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chieh-eric/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chieh-eric/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/chieh-eric/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/chieh-eric/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/chieh-eric/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
