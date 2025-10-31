@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/chieh-eric/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/chieh-eric/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/chieh-eric/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3483-alternating-groups-ii](https://github.com/chieh-eric/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -1108,6 +1109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3317-maximum-palindromes-after-operations](https://github.com/chieh-eric/LeetCode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3363-most-frequent-ids](https://github.com/chieh-eric/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/chieh-eric/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/chieh-eric/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/chieh-eric/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/chieh-eric/LeetCode/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
