@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1311-largest-magic-square](https://github.com/chieh-eric/LeetCode/tree/master/1311-largest-magic-square) |
 | [1319-unique-number-of-occurrences](https://github.com/chieh-eric/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chieh-eric/LeetCode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
+| [1324-where-will-the-ball-fall](https://github.com/chieh-eric/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1325-path-with-maximum-probability](https://github.com/chieh-eric/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1343-dice-roll-simulation](https://github.com/chieh-eric/LeetCode/tree/master/1343-dice-roll-simulation) |
 | [1348-maximum-score-of-spliced-array](https://github.com/chieh-eric/LeetCode/tree/master/1348-maximum-score-of-spliced-array) |
@@ -1011,6 +1012,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-largest-1-bordered-square](https://github.com/chieh-eric/LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1311-largest-magic-square](https://github.com/chieh-eric/LeetCode/tree/master/1311-largest-magic-square) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chieh-eric/LeetCode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
+| [1324-where-will-the-ball-fall](https://github.com/chieh-eric/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/chieh-eric/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1254,6 +1256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/chieh-eric/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/chieh-eric/LeetCode/tree/master/0068-text-justification) |
 | [0906-walking-robot-simulation](https://github.com/chieh-eric/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1324-where-will-the-ball-fall](https://github.com/chieh-eric/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2178-walking-robot-simulation-ii](https://github.com/chieh-eric/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
 | [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
