@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1499-maximum-performance-of-a-team](https://github.com/chieh-eric/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1522-stone-game-iii](https://github.com/chieh-eric/LeetCode/tree/master/1522-stone-game-iii) |
+| [1539-diagonal-traverse-ii](https://github.com/chieh-eric/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 | [1559-cherry-pickup-ii](https://github.com/chieh-eric/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -754,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chieh-eric/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1488-sort-integers-by-the-power-value](https://github.com/chieh-eric/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1499-maximum-performance-of-a-team](https://github.com/chieh-eric/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [1539-diagonal-traverse-ii](https://github.com/chieh-eric/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/chieh-eric/LeetCode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/chieh-eric/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chieh-eric/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -794,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chieh-eric/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1499-maximum-performance-of-a-team](https://github.com/chieh-eric/LeetCode/tree/master/1499-maximum-performance-of-a-team) |
+| [1539-diagonal-traverse-ii](https://github.com/chieh-eric/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/chieh-eric/LeetCode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1762-furthest-building-you-can-reach](https://github.com/chieh-eric/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
