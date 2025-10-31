@@ -9,7 +9,6 @@ class Solution(object):
         dp = {}
         def dfs(i, j):
             if (i,j) in dp:
-                print("hi")
                 return dp[(i, j)]
 
             if i == rows:
@@ -19,20 +18,16 @@ class Solution(object):
                 if j + 1 >= cols or grid[i][j + 1] == -1:
                     return -1
                 ret = dfs(i + 1, j + 1)
-                if ret == -1:
-                    dp[(i, j)] = -1
-                else:
-                    dp[(i, j)] = ret
+                
+                dp[(i, j)] = ret
                 return dp[(i, j)]
                 
             if grid[i][j] == -1:
                 if j -1 < 0 or grid[i][j - 1] == 1:
                     return -1
                 ret = dfs(i + 1, j - 1)
-                if ret == -1:
-                    dp[(i, j)] = -1
-                else:
-                    dp[(i, j)] = ret
+                
+                dp[(i, j)] = ret
                 
                 return dp[(i, j)]
 
