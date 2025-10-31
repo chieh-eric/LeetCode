@@ -9,6 +9,7 @@ class Solution(object):
         dp = {}
         def dfs(i, j):
             if (i,j) in dp:
+                print("hi")
                 return dp[(i, j)]
 
             if i == rows:
