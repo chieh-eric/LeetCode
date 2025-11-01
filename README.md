@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/chieh-eric/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/chieh-eric/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/chieh-eric/LeetCode/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chieh-eric/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chieh-eric/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/chieh-eric/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chieh-eric/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1118,6 +1119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/chieh-eric/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/chieh-eric/LeetCode/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chieh-eric/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/chieh-eric/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chieh-eric/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/chieh-eric/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1523,6 +1525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chieh-eric/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting Sort
 |  |
 | ------- |
