@@ -925,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/chieh-eric/LeetCode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/chieh-eric/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/chieh-eric/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/chieh-eric/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chieh-eric/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chieh-eric/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1261,6 +1262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1324-where-will-the-ball-fall](https://github.com/chieh-eric/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2178-walking-robot-simulation-ii](https://github.com/chieh-eric/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/chieh-eric/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2846-robot-collisions](https://github.com/chieh-eric/LeetCode/tree/master/2846-robot-collisions) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/chieh-eric/LeetCode/tree/master/3350-distribute-elements-into-two-arrays-ii) |
