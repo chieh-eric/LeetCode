@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/chieh-eric/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2439-longest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/chieh-eric/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/chieh-eric/LeetCode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3386-find-edges-in-shortest-paths](https://github.com/chieh-eric/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/chieh-eric/LeetCode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/chieh-eric/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2793-count-the-number-of-complete-components](https://github.com/chieh-eric/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/chieh-eric/LeetCode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/chieh-eric/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/chieh-eric/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
@@ -1002,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2439-longest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2671-shortest-cycle-in-a-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/chieh-eric/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3386-find-edges-in-shortest-paths](https://github.com/chieh-eric/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3837-grid-teleportation-traversal](https://github.com/chieh-eric/LeetCode/tree/master/3837-grid-teleportation-traversal) |
@@ -1204,6 +1207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/chieh-eric/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/chieh-eric/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2505-number-of-good-paths](https://github.com/chieh-eric/LeetCode/tree/master/2505-number-of-good-paths) |
+| [2793-count-the-number-of-complete-components](https://github.com/chieh-eric/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chieh-eric/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sliding Window
 |  |
