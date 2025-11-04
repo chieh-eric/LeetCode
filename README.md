@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3576-find-subtree-sizes-after-changes](https://github.com/chieh-eric/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chieh-eric/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/chieh-eric/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chieh-eric/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3646-sum-of-good-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/3646-sum-of-good-subsequences) |
@@ -841,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3386-find-edges-in-shortest-paths](https://github.com/chieh-eric/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/chieh-eric/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chieh-eric/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Prefix Sum
@@ -1143,6 +1145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chieh-eric/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/chieh-eric/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chieh-eric/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chieh-eric/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/chieh-eric/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3646-sum-of-good-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/3646-sum-of-good-subsequences) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/chieh-eric/LeetCode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -1235,6 +1238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chieh-eric/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/chieh-eric/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3483-alternating-groups-ii](https://github.com/chieh-eric/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chieh-eric/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
 | ------- |
