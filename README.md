@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0964-minimize-malware-spread-ii](https://github.com/chieh-eric/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/chieh-eric/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0976-minimum-area-rectangle) |
+| [0985-bag-of-tokens](https://github.com/chieh-eric/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1003-minimum-area-rectangle-ii](https://github.com/chieh-eric/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [1017-odd-even-jump](https://github.com/chieh-eric/LeetCode/tree/master/1017-odd-even-jump) |
 | [1019-squares-of-a-sorted-array](https://github.com/chieh-eric/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/chieh-eric/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0985-bag-of-tokens](https://github.com/chieh-eric/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1051-shortest-way-to-form-string](https://github.com/chieh-eric/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/chieh-eric/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -677,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0793-swap-adjacent-in-lr-string](https://github.com/chieh-eric/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/chieh-eric/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0985-bag-of-tokens](https://github.com/chieh-eric/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/chieh-eric/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-shortest-way-to-form-string](https://github.com/chieh-eric/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1129-longest-string-chain](https://github.com/chieh-eric/LeetCode/tree/master/1129-longest-string-chain) |
@@ -766,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0935-orderly-queue](https://github.com/chieh-eric/LeetCode/tree/master/0935-orderly-queue) |
 | [0976-minimum-area-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0976-minimum-area-rectangle) |
+| [0985-bag-of-tokens](https://github.com/chieh-eric/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1017-odd-even-jump](https://github.com/chieh-eric/LeetCode/tree/master/1017-odd-even-jump) |
 | [1019-squares-of-a-sorted-array](https://github.com/chieh-eric/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/chieh-eric/LeetCode/tree/master/1129-longest-string-chain) |
