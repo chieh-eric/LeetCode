@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3837-grid-teleportation-traversal](https://github.com/chieh-eric/LeetCode/tree/master/3837-grid-teleportation-traversal) |
+| [3863-power-grid-maintenance](https://github.com/chieh-eric/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/chieh-eric/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3386-find-edges-in-shortest-paths](https://github.com/chieh-eric/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/chieh-eric/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3863-power-grid-maintenance](https://github.com/chieh-eric/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -577,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3386-find-edges-in-shortest-paths](https://github.com/chieh-eric/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3863-power-grid-maintenance](https://github.com/chieh-eric/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -851,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chieh-eric/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3863-power-grid-maintenance](https://github.com/chieh-eric/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1020,6 +1024,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3386-find-edges-in-shortest-paths](https://github.com/chieh-eric/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3837-grid-teleportation-traversal](https://github.com/chieh-eric/LeetCode/tree/master/3837-grid-teleportation-traversal) |
+| [3863-power-grid-maintenance](https://github.com/chieh-eric/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -1160,6 +1165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/chieh-eric/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3837-grid-teleportation-traversal](https://github.com/chieh-eric/LeetCode/tree/master/3837-grid-teleportation-traversal) |
+| [3863-power-grid-maintenance](https://github.com/chieh-eric/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -1223,6 +1229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2505-number-of-good-paths](https://github.com/chieh-eric/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2793-count-the-number-of-complete-components](https://github.com/chieh-eric/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chieh-eric/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3863-power-grid-maintenance](https://github.com/chieh-eric/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1463,6 +1470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3363-most-frequent-ids](https://github.com/chieh-eric/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/chieh-eric/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Stack
 |  |
 | ------- |
