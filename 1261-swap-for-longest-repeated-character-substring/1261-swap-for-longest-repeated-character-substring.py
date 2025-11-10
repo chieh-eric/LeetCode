@@ -11,8 +11,7 @@ class Solution(object):
         count = Counter(text)
         max_len = 0
 
-        for i in range(26):
-            ch = chr(ord('a') + i)
+        for ch in count:
             left = 0
             tolerant = 0
             max_count = count[ch]
