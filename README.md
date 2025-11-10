@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2353-maximum-score-of-a-node-sequence](https://github.com/chieh-eric/LeetCode/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/chieh-eric/LeetCode/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/chieh-eric/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/chieh-eric/LeetCode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2465-shifting-letters-ii](https://github.com/chieh-eric/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/chieh-eric/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2291-maximum-and-sum-of-array](https://github.com/chieh-eric/LeetCode/tree/master/2291-maximum-and-sum-of-array) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/chieh-eric/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/chieh-eric/LeetCode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/chieh-eric/LeetCode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2504-find-all-good-indices](https://github.com/chieh-eric/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2562-count-ways-to-build-good-strings](https://github.com/chieh-eric/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
