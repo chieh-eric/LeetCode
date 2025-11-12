@@ -1112,6 +1112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1191-synonymous-sentences](https://github.com/chieh-eric/LeetCode/tree/master/1191-synonymous-sentences) |
 | [1249-snapshot-array](https://github.com/chieh-eric/LeetCode/tree/master/1249-snapshot-array) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/chieh-eric/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1281-can-make-palindrome-from-substring](https://github.com/chieh-eric/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/chieh-eric/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1319-unique-number-of-occurrences](https://github.com/chieh-eric/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -1583,6 +1584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chieh-eric/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting Sort
 |  |
