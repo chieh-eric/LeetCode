@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/chieh-eric/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/chieh-eric/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/chieh-eric/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1628-count-submatrices-with-all-ones](https://github.com/chieh-eric/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/chieh-eric/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/chieh-eric/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -1126,6 +1127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chieh-eric/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chieh-eric/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/chieh-eric/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/chieh-eric/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chieh-eric/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1694-make-sum-divisible-by-p](https://github.com/chieh-eric/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1697-strings-differ-by-one-character](https://github.com/chieh-eric/LeetCode/tree/master/1697-strings-differ-by-one-character) |
@@ -1277,6 +1279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0936-rle-iterator](https://github.com/chieh-eric/LeetCode/tree/master/0936-rle-iterator) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/chieh-eric/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/chieh-eric/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chieh-eric/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2139-detect-squares](https://github.com/chieh-eric/LeetCode/tree/master/2139-detect-squares) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chieh-eric/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
