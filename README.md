@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/chieh-eric/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/chieh-eric/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/chieh-eric/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/chieh-eric/LeetCode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2810-collecting-chocolates](https://github.com/chieh-eric/LeetCode/tree/master/2810-collecting-chocolates) |
