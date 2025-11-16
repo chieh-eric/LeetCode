@@ -10,13 +10,20 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-        self.ans = []
-        def dfs(node):
-            if not node:
-                return None
-            dfs(node.left)
-            self.ans.append(node.val)
-            dfs(node.right)
-        dfs(root)
-        return self.ans
+        ans = []
+        stack = []
+        cur = root
+
+        while cur or stack:
+            
+            while cur:
+                stack.append(cur)
+                cur = cur.left
+            
+            cur = stack.pop()
+            ans.append(cur.val)
+            cur = cur.right
+        return ans
+            
+
         
