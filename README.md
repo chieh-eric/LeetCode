@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/chieh-eric/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/chieh-eric/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/chieh-eric/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/chieh-eric/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/chieh-eric/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/chieh-eric/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/chieh-eric/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/chieh-eric/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
