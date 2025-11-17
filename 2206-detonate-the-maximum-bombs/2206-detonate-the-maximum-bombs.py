@@ -8,25 +8,31 @@ class Solution(object):
         # Build graph -> x, y, r
         # dfs -> return number of bombs will exploded (Memorization)
 
-        # graph = defaultdict(list)
-        # for x, y, r in bombs:
-        #     graph
-    
-        #memo = {}
+        def calculation(i, j):
+            sx, sy, sr = bombs[i]
+            ex, ey, _ = bombs[j]
+            return abs(sx-ex)**2 + abs(sy-ey)**2 <= sr**2
+        
+        graph = defaultdict(list)
         n = len(bombs)
+        for i in range(n-1):
+            for j in range(i+1, n):
+                if calculation(i,j):
+                    graph[i].append(j)
+                if calculation(j,i):
+                    graph[j].append(i)   
+             
+    
+        memo = {}
         def dfs(index, path):
             #if index in memo:
-             #   return memo[index]
+                #return memo[index]
 
             path.add(index)
-            x, y, r = bombs[index]
             count = 1
-            for i in range(n):
-                if i == index:
-                    continue
-                nei_x, nei_y, _ = bombs[i]
-                if (nei_x - x)**2 + (nei_y - y)**2 <= r**2 and  i not in path:
-                    count = count + dfs(i, path)
+            for nei in graph[index]:
+                if nei not in path:
+                    count += dfs(nei, path)
             #memo[index] = count
             return count
         
