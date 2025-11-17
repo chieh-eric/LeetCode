@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chieh-eric/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/chieh-eric/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/chieh-eric/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/chieh-eric/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/chieh-eric/LeetCode/tree/master/0035-search-insert-position) |
@@ -916,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/chieh-eric/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/chieh-eric/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chieh-eric/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/chieh-eric/LeetCode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/chieh-eric/LeetCode/tree/master/0067-add-binary) |
@@ -1204,6 +1206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chieh-eric/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [1244-distinct-echo-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1244-distinct-echo-substrings) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
