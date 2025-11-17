@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chieh-eric/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/chieh-eric/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/chieh-eric/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chieh-eric/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/chieh-eric/LeetCode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1952-minimum-sideway-jumps](https://github.com/chieh-eric/LeetCode/tree/master/1952-minimum-sideway-jumps) |
@@ -891,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/chieh-eric/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/chieh-eric/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chieh-eric/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/chieh-eric/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2240-intervals-between-identical-elements](https://github.com/chieh-eric/LeetCode/tree/master/2240-intervals-between-identical-elements) |
@@ -973,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/chieh-eric/LeetCode/tree/master/1871-palindrome-partitioning-iv) |
 | [1880-largest-merge-of-two-strings](https://github.com/chieh-eric/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chieh-eric/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/chieh-eric/LeetCode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/chieh-eric/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/chieh-eric/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
