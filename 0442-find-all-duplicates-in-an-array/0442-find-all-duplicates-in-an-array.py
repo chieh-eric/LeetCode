@@ -8,12 +8,10 @@ class Solution(object):
         # AND
         # If 0 -> OR
         # Record in ans
-        bitMap = 0
-        
         for val in nums:
-            index = (1 << (val-1))
-            if (index & bitMap) == 0:
-                bitMap |= index
+            idx = abs(val) - 1
+            if nums[idx] < 0:
+                ans.append(abs(val))
             else:
-                ans.append(val)
+                nums[idx] = -nums[idx]
         return ans
