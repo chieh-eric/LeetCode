@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/chieh-eric/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/chieh-eric/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/chieh-eric/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/chieh-eric/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/chieh-eric/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/chieh-eric/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chieh-eric/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -780,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0018-4sum](https://github.com/chieh-eric/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/chieh-eric/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/chieh-eric/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chieh-eric/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/chieh-eric/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
