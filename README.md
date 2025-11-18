@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/chieh-eric/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/chieh-eric/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/chieh-eric/LeetCode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3212-count-the-number-of-good-partitions](https://github.com/chieh-eric/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chieh-eric/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/chieh-eric/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1264,6 +1265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2353-maximum-score-of-a-node-sequence](https://github.com/chieh-eric/LeetCode/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2810-collecting-chocolates](https://github.com/chieh-eric/LeetCode/tree/master/2810-collecting-chocolates) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/chieh-eric/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/chieh-eric/LeetCode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/chieh-eric/LeetCode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/chieh-eric/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chieh-eric/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
