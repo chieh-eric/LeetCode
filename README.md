@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/chieh-eric/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1017-odd-even-jump](https://github.com/chieh-eric/LeetCode/tree/master/1017-odd-even-jump) |
 | [1019-squares-of-a-sorted-array](https://github.com/chieh-eric/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1022-unique-paths-iii](https://github.com/chieh-eric/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/chieh-eric/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/chieh-eric/LeetCode/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/chieh-eric/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -625,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/chieh-eric/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0865-robot-room-cleaner](https://github.com/chieh-eric/LeetCode/tree/master/0865-robot-room-cleaner) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/chieh-eric/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [1022-unique-paths-iii](https://github.com/chieh-eric/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
 | [1191-synonymous-sentences](https://github.com/chieh-eric/LeetCode/tree/master/1191-synonymous-sentences) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/chieh-eric/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
@@ -649,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0823-split-array-with-same-average](https://github.com/chieh-eric/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1022-unique-paths-iii](https://github.com/chieh-eric/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/chieh-eric/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/chieh-eric/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1067-campus-bikes-ii](https://github.com/chieh-eric/LeetCode/tree/master/1067-campus-bikes-ii) |
@@ -1076,6 +1079,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
 | [0891-score-after-flipping-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0945-snakes-and-ladders](https://github.com/chieh-eric/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1022-unique-paths-iii](https://github.com/chieh-eric/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/chieh-eric/LeetCode/tree/master/1036-rotting-oranges) |
 | [1099-path-with-maximum-minimum-value](https://github.com/chieh-eric/LeetCode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/chieh-eric/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
