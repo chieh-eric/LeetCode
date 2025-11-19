@@ -614,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3863-power-grid-maintenance](https://github.com/chieh-eric/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/chieh-eric/LeetCode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -903,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3863-power-grid-maintenance](https://github.com/chieh-eric/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/chieh-eric/LeetCode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1506,6 +1508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/chieh-eric/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/chieh-eric/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/chieh-eric/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/chieh-eric/LeetCode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Recursion
 |  |
 | ------- |
