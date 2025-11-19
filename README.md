@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/chieh-eric/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/chieh-eric/LeetCode/tree/master/0561-array-partition) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
+| [0648-replace-words](https://github.com/chieh-eric/LeetCode/tree/master/0648-replace-words) |
 | [0729-my-calendar-i](https://github.com/chieh-eric/LeetCode/tree/master/0729-my-calendar-i) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0769-largest-plus-sign](https://github.com/chieh-eric/LeetCode/tree/master/0769-largest-plus-sign) |
@@ -962,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/chieh-eric/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0648-replace-words](https://github.com/chieh-eric/LeetCode/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/chieh-eric/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0727-minimum-window-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/0727-minimum-window-subsequence) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
@@ -1146,6 +1148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/chieh-eric/LeetCode/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/chieh-eric/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chieh-eric/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/chieh-eric/LeetCode/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/chieh-eric/LeetCode/tree/master/0807-custom-sort-string) |
 | [0843-binary-trees-with-factors](https://github.com/chieh-eric/LeetCode/tree/master/0843-binary-trees-with-factors) |
@@ -1239,6 +1242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chieh-eric/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/chieh-eric/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/chieh-eric/LeetCode/tree/master/0648-replace-words) |
 | [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [1244-distinct-echo-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1244-distinct-echo-substrings) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
