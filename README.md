@@ -504,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/chieh-eric/LeetCode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/chieh-eric/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/chieh-eric/LeetCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3386-find-edges-in-shortest-paths](https://github.com/chieh-eric/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/chieh-eric/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/chieh-eric/LeetCode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/chieh-eric/LeetCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3863-power-grid-maintenance](https://github.com/chieh-eric/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -1478,6 +1480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/chieh-eric/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/chieh-eric/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/chieh-eric/LeetCode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/chieh-eric/LeetCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Geometry
 |  |
 | ------- |
