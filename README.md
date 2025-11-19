@@ -1133,6 +1133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chieh-eric/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/chieh-eric/LeetCode/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/chieh-eric/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/chieh-eric/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/chieh-eric/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/chieh-eric/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -1516,6 +1517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/chieh-eric/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/chieh-eric/LeetCode/tree/master/0155-min-stack) |
 | [0359-logger-rate-limiter](https://github.com/chieh-eric/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chieh-eric/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1653,6 +1655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chieh-eric/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chieh-eric/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/chieh-eric/LeetCode/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -1665,4 +1668,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/chieh-eric/LeetCode/tree/master/0826-soup-servings) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/chieh-eric/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
