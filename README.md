@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/chieh-eric/LeetCode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/chieh-eric/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/chieh-eric/LeetCode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/chieh-eric/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/chieh-eric/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/chieh-eric/LeetCode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/chieh-eric/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/chieh-eric/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/chieh-eric/LeetCode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/chieh-eric/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/chieh-eric/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/chieh-eric/LeetCode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
@@ -1041,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/chieh-eric/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/chieh-eric/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/chieh-eric/LeetCode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/chieh-eric/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chieh-eric/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/chieh-eric/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
