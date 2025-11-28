@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/chieh-eric/LeetCode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/chieh-eric/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/chieh-eric/LeetCode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/chieh-eric/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/chieh-eric/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/chieh-eric/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -1048,6 +1049,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2877-shortest-string-that-contains-three-strings](https://github.com/chieh-eric/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/chieh-eric/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/chieh-eric/LeetCode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/chieh-eric/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/chieh-eric/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chieh-eric/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/chieh-eric/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -1236,6 +1238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2832-find-the-longest-equal-subarray](https://github.com/chieh-eric/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2838-sum-of-matrix-after-queries](https://github.com/chieh-eric/LeetCode/tree/master/2838-sum-of-matrix-after-queries) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/chieh-eric/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/chieh-eric/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/chieh-eric/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/chieh-eric/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -1278,6 +1281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2079-delete-duplicate-folders-in-system](https://github.com/chieh-eric/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chieh-eric/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/chieh-eric/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
