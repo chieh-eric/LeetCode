@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2810-collecting-chocolates](https://github.com/chieh-eric/LeetCode/tree/master/2810-collecting-chocolates) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2832-find-the-longest-equal-subarray](https://github.com/chieh-eric/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2838-sum-of-matrix-after-queries](https://github.com/chieh-eric/LeetCode/tree/master/2838-sum-of-matrix-after-queries) |
 | [2846-robot-collisions](https://github.com/chieh-eric/LeetCode/tree/master/2846-robot-collisions) |
@@ -804,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/chieh-eric/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/chieh-eric/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/chieh-eric/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2832-find-the-longest-equal-subarray](https://github.com/chieh-eric/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/chieh-eric/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -1598,6 +1600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2297-amount-of-new-area-painted-each-day](https://github.com/chieh-eric/LeetCode/tree/master/2297-amount-of-new-area-painted-each-day) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/chieh-eric/LeetCode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2868-continuous-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3363-most-frequent-ids](https://github.com/chieh-eric/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
