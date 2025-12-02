@@ -4,15 +4,21 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        stack = []
+        # stack [1]
+        # profit 0
+
         profit = 0
-        for p in prices:
-            
-            while stack and stack[-1] > p:
-                stack.pop()
-            
+        stack = []
+
+        for price in prices:
             if stack:
-                buy = stack.pop()
-                profit += p - buy
-            stack.append(p)
+                if stack[-1] > price:
+                    if len(stack) > 1:
+                        profit += (stack[-1] - stack[0])
+                    stack = []
+            stack.append(price)
+        
+        if len(stack) > 1:
+            profit += (stack[-1] - stack[0])
+
         return profit
