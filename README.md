@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/chieh-eric/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/chieh-eric/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chieh-eric/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chieh-eric/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/chieh-eric/LeetCode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/chieh-eric/LeetCode/tree/master/0137-single-number-ii) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/chieh-eric/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/chieh-eric/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chieh-eric/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chieh-eric/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/chieh-eric/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/chieh-eric/LeetCode/tree/master/0264-ugly-number-ii) |
