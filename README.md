@@ -527,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/chieh-eric/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/chieh-eric/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0366-find-leaves-of-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/chieh-eric/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/chieh-eric/LeetCode/tree/master/0437-path-sum-iii) |
@@ -596,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/chieh-eric/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0770-couples-holding-hands](https://github.com/chieh-eric/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0820-find-eventual-safe-states](https://github.com/chieh-eric/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/chieh-eric/LeetCode/tree/master/0881-loud-and-rich) |
@@ -1729,4 +1731,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/chieh-eric/LeetCode/tree/master/0146-lru-cache) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/chieh-eric/LeetCode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
