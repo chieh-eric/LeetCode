@@ -1,30 +1,26 @@
-import heapq
 class Solution(object):
     def nthUglyNumber(self, n):
         """
         :type n: int
         :rtype: int
         """
-        heap = []
-        heap = [1]
-        count = 0
-        cur = 0
-        used = set()
-        while count < n:
-            count += 1
-            #print(heap)
-            cur = heapq.heappop(heap)
-            #print(cur)
-            if cur*2 not in used:
-                heapq.heappush(heap, cur*2)
-                used.add(cur*2)
-            if cur*3 not in used:
-                used.add(cur*3)
-                heapq.heappush(heap, cur*3)
-            if cur*5 not in used:
-                used.add(cur*5)
-                heapq.heappush(heap, cur*5)
-        return cur
+        index = [1, 1, 1]
+        next_val = [2, 3, 5]
+        prime = [2, 3, 5]
+        arr = [1]
+
+        for _ in range(1,n):
+            min_val = min(next_val)
+            arr.append(min_val)
+
+            for i in range(3):
+                if next_val[i] == min_val:
+                    next_val[i] = arr[index[i]] * prime[i]
+                    index[i] += 1
+
+        return arr[-1]
+
+        
 
         
 
