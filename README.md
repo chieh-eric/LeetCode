@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/chieh-eric/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chieh-eric/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/chieh-eric/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0264-ugly-number-ii](https://github.com/chieh-eric/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/chieh-eric/LeetCode/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/chieh-eric/LeetCode/tree/master/0343-integer-break) |
@@ -884,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/chieh-eric/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/chieh-eric/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/chieh-eric/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0264-ugly-number-ii](https://github.com/chieh-eric/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0480-sliding-window-median](https://github.com/chieh-eric/LeetCode/tree/master/0480-sliding-window-median) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/chieh-eric/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/chieh-eric/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -1170,6 +1172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/chieh-eric/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/chieh-eric/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/chieh-eric/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0264-ugly-number-ii](https://github.com/chieh-eric/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/chieh-eric/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0349-intersection-of-two-arrays](https://github.com/chieh-eric/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0359-logger-rate-limiter](https://github.com/chieh-eric/LeetCode/tree/master/0359-logger-rate-limiter) |
@@ -1471,6 +1474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/chieh-eric/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chieh-eric/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/chieh-eric/LeetCode/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/chieh-eric/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/chieh-eric/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/chieh-eric/LeetCode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/chieh-eric/LeetCode/tree/master/0343-integer-break) |
