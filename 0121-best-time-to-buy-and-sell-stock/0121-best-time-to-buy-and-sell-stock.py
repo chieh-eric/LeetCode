@@ -1,10 +1,18 @@
-class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
-        buy = 10001
-        profit = 0
-        for i in range(len(prices)):
-            if(buy > prices[i]):
-                buy = prices[i]
-            if(profit < prices[i] - buy):
-                profit = prices[i] - buy
-        return profit
+class Solution(object):
+    def maxProfit(self, prices):
+        """
+        :type prices: List[int]
+        :rtype: int
+        """
+        max_profix = 0
+        stack = []
+        for price in prices:
+            while stack and stack[-1] > price:
+                stack.pop()
+            if stack:
+                max_profix = max(max_profix, price - stack[0])
+            stack.append(price)
+        return max_profix
+
+
+        
