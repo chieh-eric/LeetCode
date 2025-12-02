@@ -4,14 +4,14 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
+        min_val = float('inf')
         max_profix = 0
-        stack = []
+
         for price in prices:
-            while stack and stack[-1] > price:
-                stack.pop()
-            if stack:
-                max_profix = max(max_profix, price - stack[0])
-            stack.append(price)
+            if price < min_val:
+                min_val = price
+            else:
+                max_profix = max(max_profix, price - min_val)
         return max_profix
 
 
