@@ -8,17 +8,10 @@ class Solution(object):
         # profit 0
 
         profit = 0
-        stack = []
+        cur_val = prices[0]
 
         for price in prices:
-            if stack:
-                if stack[-1] > price:
-                    if len(stack) > 1:
-                        profit += (stack[-1] - stack[0])
-                    stack = []
-            stack.append(price)
-        
-        if len(stack) > 1:
-            profit += (stack[-1] - stack[0])
-
+            if price > cur_val:
+                profit += (price - cur_val)
+            cur_val = price
         return profit
