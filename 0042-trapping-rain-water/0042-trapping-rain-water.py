@@ -4,17 +4,17 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        # Stack -> (height, index)
-        # Stack = [(2,3), (1,4), (0,5)]
-        # water -> (height - stack[-1][0])*(index-stack[-1][1]) (if stack exist)
         stack = []
+        # [(1,0),(0,1),]
+        # trap = (prevHeight - popOutHeight)*(index - prevIndex - 1)
         trap = 0
-        for i, h in enumerate(height):
-            while stack and stack[-1][0] < h:
-                pop_hight = stack[-1][0]
+        for i, val in enumerate(height):
+            while stack and stack[-1][0] < val:
+                popOutHeight = stack[-1][0]
                 stack.pop()
                 if stack:
-                    trap += (min(h,stack[-1][0]) - pop_hight)*(i-stack[-1][1]-1)
+                    trap += (min(stack[-1][0],val) - popOutHeight)*(i - stack[-1][1] - 1)
                 #print(trap)
-            stack.append((h, i))
+            #print(trap)
+            stack.append((val, i))
         return trap
