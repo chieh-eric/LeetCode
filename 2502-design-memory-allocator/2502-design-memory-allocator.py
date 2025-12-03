@@ -41,7 +41,7 @@ class Allocator(object):
             self.free.pop(pos-1)
             pos -= 1
         
-        while pos < len(self.free) and self.free[pos][0] <= r + 1:
+        if pos < len(self.free) and self.free[pos][0] <= r + 1:
             l = min(l, self.free[pos][0])
             r = max(r, self.free[pos][1])
             self.free.pop(pos)
