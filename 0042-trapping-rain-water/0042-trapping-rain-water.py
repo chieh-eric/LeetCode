@@ -4,21 +4,17 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        n = len(height)
-        left = [0]*n
-        right = [0]*n
-
-        max_left = max_right = 0
-        for i in range(n):
-            max_left = max(max_left,height[i])
-            left[i] = max_left
-        
-        for i in range(n-1,-1,-1):
-            max_right = max(max_right,height[i])
-            right[i] = max_right
-        #print(left)
-        #print(right)
-        total = 0
-        for i in range(n):
-            total += min(left[i],right[i]) - height[i]
-        return total
+        # Stack -> (height, index)
+        # Stack = [(2,3), (1,4), (0,5)]
+        # water -> (height - stack[-1][0])*(index-stack[-1][1]) (if stack exist)
+        stack = []
+        trap = 0
+        for i, h in enumerate(height):
+            while stack and stack[-1][0] < h:
+                pop_hight = stack[-1][0]
+                stack.pop()
+                if stack:
+                    trap += (min(h,stack[-1][0]) - pop_hight)*(i-stack[-1][1]-1)
+                #print(trap)
+            stack.append((h, i))
+        return trap
