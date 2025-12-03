@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2893-visit-array-positions-to-maximize-score](https://github.com/chieh-eric/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/chieh-eric/LeetCode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/chieh-eric/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/chieh-eric/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/chieh-eric/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -1171,6 +1172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/chieh-eric/LeetCode/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2472-build-a-matrix-with-conditions](https://github.com/chieh-eric/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/chieh-eric/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3272-find-the-grid-of-region-average](https://github.com/chieh-eric/LeetCode/tree/master/3272-find-the-grid-of-region-average) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/3391-maximum-difference-score-in-a-grid) |
@@ -1263,6 +1265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/chieh-eric/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/chieh-eric/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/chieh-eric/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/chieh-eric/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/chieh-eric/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -1402,6 +1405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2139-detect-squares](https://github.com/chieh-eric/LeetCode/tree/master/2139-detect-squares) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chieh-eric/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/chieh-eric/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/chieh-eric/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/chieh-eric/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
