@@ -1,10 +1,13 @@
+import bisect
+from collections import defaultdict
 class Allocator(object):
 
     def __init__(self, n):
         """
         :type n: int
         """
-        self.arr = [0]*n
+        self.free = [[0, n-1]]
+        self.allocated = defaultdict(list)
         
 
     def allocate(self, size, mID):
@@ -13,38 +16,52 @@ class Allocator(object):
         :type mID: int
         :rtype: int
         """
-        idx = self.findFit(size)
-        if idx == -1:
-            return -1
-        for i in range(idx, idx+size):
-            self.arr[i] = mID
-        #print(self.arr)
-        return idx
-    
-    def findFit(self, size):
-        index = 0
-        while index < len(self.arr):
-            count = 0
-            start = index
-            while count < size and index < len(self.arr) and self.arr[index] == 0:
-                count += 1
-                index += 1
-            if count == size:
-                return start
-            index += 1
+        for index, (i,j) in enumerate(self.free):
+            available = j - i + 1
+            if available < size:
+                continue
+            
+            start = i
+            end = i + size
+            if size == available:
+                self.free.pop(index)
+            else:
+                self.free[index][0] = end
+
+            self.allocated[mID].append([start, end - 1])
+            return start
         return -1
+    
+    def _insert_free_block(self, l, r):
+        pos = bisect.bisect_left(self.free,[l,r])
+
+        if pos > 0 and self.free[pos-1][1] + 1 >= l:
+            l = min(l, self.free[pos-1][0])
+            r = max(r, self.free[pos-1][1])
+            self.free.pop(pos-1)
+            pos -= 1
         
+        while pos < len(self.free) and self.free[pos][0] <= r + 1:
+            l = min(l, self.free[pos][0])
+            r = max(r, self.free[pos][1])
+            self.free.pop(pos)
+
+        self.free.insert(pos, [l,r])
+
     def freeMemory(self, mID):
         """
         :type mID: int
         :rtype: int
         """
+        if mID not in self.allocated:
+            return 0
         count = 0
-        for i, val in enumerate(self.arr):
-            if val == mID:
-                self.arr[i] = 0
-                count += 1
+        for l, r in self.allocated[mID]:
+            count += (r-l+1)
+            self._insert_free_block(l,r)
+        del self.allocated[mID]
         return count
+
 
         
 
