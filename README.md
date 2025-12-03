@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/chieh-eric/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2139-detect-squares](https://github.com/chieh-eric/LeetCode/tree/master/2139-detect-squares) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/chieh-eric/LeetCode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/chieh-eric/LeetCode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chieh-eric/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chieh-eric/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -866,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/chieh-eric/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/chieh-eric/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/chieh-eric/LeetCode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chieh-eric/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/chieh-eric/LeetCode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
@@ -918,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2012-process-tasks-using-servers](https://github.com/chieh-eric/LeetCode/tree/master/2012-process-tasks-using-servers) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/chieh-eric/LeetCode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2164-two-best-non-overlapping-events](https://github.com/chieh-eric/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/chieh-eric/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -1117,6 +1120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/chieh-eric/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/chieh-eric/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/chieh-eric/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/chieh-eric/LeetCode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2183-minimum-operations-to-convert-number](https://github.com/chieh-eric/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/chieh-eric/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2439-longest-cycle-in-a-graph](https://github.com/chieh-eric/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -1167,6 +1171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/chieh-eric/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/chieh-eric/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/chieh-eric/LeetCode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/chieh-eric/LeetCode/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/chieh-eric/LeetCode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/chieh-eric/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/chieh-eric/LeetCode/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
