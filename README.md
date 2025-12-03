@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chieh-eric/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chieh-eric/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2499-minimum-money-required-before-transactions](https://github.com/chieh-eric/LeetCode/tree/master/2499-minimum-money-required-before-transactions) |
+| [2502-design-memory-allocator](https://github.com/chieh-eric/LeetCode/tree/master/2502-design-memory-allocator) |
 | [2504-find-all-good-indices](https://github.com/chieh-eric/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2505-number-of-good-paths](https://github.com/chieh-eric/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chieh-eric/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -1248,6 +1249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2406-decode-the-message](https://github.com/chieh-eric/LeetCode/tree/master/2406-decode-the-message) |
 | [2444-longest-ideal-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/2444-longest-ideal-subsequence) |
 | [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2502-design-memory-allocator](https://github.com/chieh-eric/LeetCode/tree/master/2502-design-memory-allocator) |
 | [2505-number-of-good-paths](https://github.com/chieh-eric/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/chieh-eric/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2548-destroy-sequential-targets](https://github.com/chieh-eric/LeetCode/tree/master/2548-destroy-sequential-targets) |
@@ -1450,6 +1452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2197-decode-the-slanted-ciphertext](https://github.com/chieh-eric/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/chieh-eric/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/chieh-eric/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2502-design-memory-allocator](https://github.com/chieh-eric/LeetCode/tree/master/2502-design-memory-allocator) |
 | [2846-robot-collisions](https://github.com/chieh-eric/LeetCode/tree/master/2846-robot-collisions) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/chieh-eric/LeetCode/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/chieh-eric/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1603,6 +1606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2139-detect-squares](https://github.com/chieh-eric/LeetCode/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2178-walking-robot-simulation-ii](https://github.com/chieh-eric/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
+| [2502-design-memory-allocator](https://github.com/chieh-eric/LeetCode/tree/master/2502-design-memory-allocator) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/chieh-eric/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/chieh-eric/LeetCode/tree/master/3678-design-task-manager) |
 ## Data Stream
