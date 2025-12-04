@@ -10,31 +10,21 @@ class Solution(object):
         prev = [0]*(n)
         back = [0]*(n)
 
-        stack_prev = []
         max_prift_prev = 0
+        left_min = float('inf')
         for i, price in enumerate(prices):
-            while stack_prev and stack_prev[-1] > price:
-                stack_prev.pop()
-            stack_prev.append(price)
-            if len(stack_prev) > 1:
-                max_prift_prev = max(max_prift_prev, stack_prev[-1] - stack_prev[0])
+            left_min = min(left_min, price)
+            max_prift_prev = max(max_prift_prev, price - left_min)
             prev[i] = max_prift_prev
-        max_prift_prev = max(max_prift_prev, stack_prev[-1] - stack_prev[0])
-        #prev[-1] = max_prift_prev
-        #print(prev)
 
 
-        stack_back = []
         max_prift_back = 0
+        right_max = 0
         for i in range(n-1,-1,-1):
             price = prices[i]
-            while stack_back and stack_back[-1] < price:
-                stack_back.pop()
-            stack_back.append(price)
-            if len(stack_back) > 1:
-                max_prift_back = max(max_prift_back, stack_back[0] - stack_back[-1])
+            right_max = max(price, right_max)
+            max_prift_back = max(max_prift_back, right_max - price )
             back[i] = max_prift_back
-        max_prift_back = max(max_prift_back, stack_back[0] - stack_prev[-1])
         #back[0] = max_prift_back
         #print(back)
         ans = 0
