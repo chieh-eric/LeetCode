@@ -1,24 +1,25 @@
-class Solution:
-    def threeSum(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        nums.sort()
-        for i in range(len(nums)):
-            if i > 0 and nums[i] == nums[i-1]:
-                continue
-            l,r = i+1,len(nums)-1
-            target = (-1)*nums[i]
-            while(l<r):
-                if target == nums[l] + nums[r]:
-                    res.append([nums[i],nums[l],nums[r]])
-                    l+=1
-                    while(nums[l] == nums[l-1]) and l < r:
-                        l+=1
-                    r-=1
-                    while(nums[r] == nums[r+1]) and l < r:
-                        r-=1
-                    
-                if nums[l] + nums[r] > target:
-                    r -=1
-                elif nums[l] + nums[r] < target:
-                    l +=1
-        return res
+class Solution(object):
+    def threeSum(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+        dic = {}
+        n = len(nums)
+        res = set()
+        for i in range(n):
+            target = -nums[i]
+            dic = {}
+            for j in range(i+1,n):
+                val = nums[j]
+                if val in dic:
+                    temp = [nums[i], target-val, val]
+                    #print(i,j)
+                    res.add(tuple(sorted(temp)))
+                    continue
+                dic[target - val] = j
+        #print(res)
+        #ans = []
+            
+        return list(res)
+        
