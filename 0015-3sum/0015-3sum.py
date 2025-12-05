@@ -7,6 +7,7 @@ class Solution(object):
         dic = {}
         n = len(nums)
         res = set()
+        nums.sort()
         for i in range(n):
             target = -nums[i]
             dic = {}
@@ -15,7 +16,7 @@ class Solution(object):
                 if val in dic:
                     temp = [nums[i], target-val, val]
                     #print(i,j)
-                    res.add(tuple(sorted(temp)))
+                    res.add(tuple(temp))
                     continue
                 dic[target - val] = j
         #print(res)
