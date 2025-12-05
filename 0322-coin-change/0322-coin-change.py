@@ -9,8 +9,9 @@ class Solution(object):
         dp[0] = 0
 
         for i in range(1, amount+1):
+          
             for val in coins:
-                print(i,val)
+                #print(i,val)
                 if i - val >= 0:
                     dp[i] = min(dp[i] , dp[i-val] + 1)
         #print(dp)
