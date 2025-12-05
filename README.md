@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/chieh-eric/LeetCode/tree/master/0648-replace-words) |
 | [0729-my-calendar-i](https://github.com/chieh-eric/LeetCode/tree/master/0729-my-calendar-i) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
+| [0755-pour-water](https://github.com/chieh-eric/LeetCode/tree/master/0755-pour-water) |
 | [0769-largest-plus-sign](https://github.com/chieh-eric/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/chieh-eric/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chieh-eric/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1472,6 +1473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/chieh-eric/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/chieh-eric/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/chieh-eric/LeetCode/tree/master/0068-text-justification) |
+| [0755-pour-water](https://github.com/chieh-eric/LeetCode/tree/master/0755-pour-water) |
 | [0906-walking-robot-simulation](https://github.com/chieh-eric/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1324-where-will-the-ball-fall](https://github.com/chieh-eric/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
