@@ -10,12 +10,14 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
-        dic = {}
-        cur = head
-        while cur:
-            if cur in dic:
+        slow = head
+        fast = head
+
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+            if slow == fast:
                 return True
-            dic[cur] = True
-            cur = cur.next
         return False
+
     
