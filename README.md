@@ -764,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/chieh-eric/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/chieh-eric/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0844-backspace-string-compare](https://github.com/chieh-eric/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0852-friends-of-appropriate-ages](https://github.com/chieh-eric/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/chieh-eric/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0985-bag-of-tokens](https://github.com/chieh-eric/LeetCode/tree/master/0985-bag-of-tokens) |
@@ -1036,6 +1037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/chieh-eric/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0807-custom-sort-string](https://github.com/chieh-eric/LeetCode/tree/master/0807-custom-sort-string) |
+| [0844-backspace-string-compare](https://github.com/chieh-eric/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0862-find-and-replace-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0869-similar-string-groups](https://github.com/chieh-eric/LeetCode/tree/master/0869-similar-string-groups) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/chieh-eric/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
@@ -1469,6 +1471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/chieh-eric/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/chieh-eric/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chieh-eric/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0844-backspace-string-compare](https://github.com/chieh-eric/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0916-decoded-string-at-index](https://github.com/chieh-eric/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [0931-maximum-frequency-stack](https://github.com/chieh-eric/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0943-sum-of-subarray-minimums](https://github.com/chieh-eric/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -1493,6 +1496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/chieh-eric/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/chieh-eric/LeetCode/tree/master/0068-text-justification) |
 | [0755-pour-water](https://github.com/chieh-eric/LeetCode/tree/master/0755-pour-water) |
+| [0844-backspace-string-compare](https://github.com/chieh-eric/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/chieh-eric/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1324-where-will-the-ball-fall](https://github.com/chieh-eric/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/chieh-eric/LeetCode/tree/master/1928-number-of-orders-in-the-backlog) |
