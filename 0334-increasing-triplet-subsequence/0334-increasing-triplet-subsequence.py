@@ -1,21 +1,20 @@
-import bisect
 class Solution(object):
     def increasingTriplet(self, nums):
         """
         :type nums: List[int]
         :rtype: bool
         """
-        arr = []
+        first_min = float("inf")
+        second_min = float('inf')
         for val in nums:
-            idx = bisect.bisect_left(arr, val)
-            if idx == len(arr):
-                arr.append(val)
+            if first_min >= val:
+                first_min = val
+            elif second_min >= val:
+                second_min = val
             else:
-                arr[idx] = val
-
-            if len(arr) >= 3:
                 return True
 
         return False
+       
 
             
