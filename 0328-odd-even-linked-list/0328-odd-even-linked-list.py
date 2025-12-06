@@ -10,25 +10,16 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
         if not head:
-            return head
-        odd_start = head
-        even_start = head.next
-
-        prev_odd = None
-        cur_odd = odd_start
-        cur_even = even_start
-        while (cur_odd and cur_odd.next) or (cur_even and cur_even.next):
-            if cur_odd and cur_odd.next:
-                cur_odd.next = cur_odd.next.next
-                prev_odd = cur_odd
-                cur_odd = cur_odd.next
-            
-            if cur_even and cur_even.next:
-                cur_even.next = cur_even.next.next
-                cur_even = cur_even.next
+            return None
         
-        if cur_odd:
-            cur_odd.next = even_start
-        else:
-            prev_odd.next = even_start
+        odd, even = head, head.next
+        cur_even = even
+
+        while cur_even and cur_even.next:
+            odd.next = cur_even.next
+            odd = odd.next
+            cur_even.next = cur_even.next.next
+            cur_even = cur_even.next
+        
+        odd.next = even
         return head
