@@ -9,35 +9,26 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        odd = head
         if not head:
-            return None
-        start_even = even = head.next
-
-        while not even:
             return head
+        odd_start = head
+        even_start = head.next
+
+        prev_odd = None
+        cur_odd = odd_start
+        cur_even = even_start
+        while (cur_odd and cur_odd.next) or (cur_even and cur_even.next):
+            if cur_odd and cur_odd.next:
+                cur_odd.next = cur_odd.next.next
+                prev_odd = cur_odd
+                cur_odd = cur_odd.next
+            
+            if cur_even and cur_even.next:
+                cur_even.next = cur_even.next.next
+                cur_even = cur_even.next
         
-        while (odd and odd.next) or (even and even.next):
-            if odd.next:
-                if not odd.next.next:
-                    odd.next = None
-                else:
-                    odd.next = odd.next.next
-                    odd = odd.next
-
-            if even.next:
-                if not even.next.next:
-                    even.next = None
-                else:
-                    even.next = even.next.next
-                even = even.next
-
-        #print(head)
-        #print(start_even)
-        odd.next = start_even
+        if cur_odd:
+            cur_odd.next = even_start
+        else:
+            prev_odd.next = even_start
         return head
-        
-
-        
-
-        
