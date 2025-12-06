@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/chieh-eric/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/chieh-eric/LeetCode/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/chieh-eric/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/chieh-eric/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/chieh-eric/LeetCode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/chieh-eric/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -1463,6 +1464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/chieh-eric/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/chieh-eric/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/chieh-eric/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/chieh-eric/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/chieh-eric/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chieh-eric/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0916-decoded-string-at-index](https://github.com/chieh-eric/LeetCode/tree/master/0916-decoded-string-at-index) |
@@ -1686,6 +1688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/chieh-eric/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/chieh-eric/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/chieh-eric/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/chieh-eric/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/chieh-eric/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chieh-eric/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/chieh-eric/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
