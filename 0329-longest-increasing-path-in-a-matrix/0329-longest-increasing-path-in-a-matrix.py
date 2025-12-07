@@ -4,30 +4,29 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: int
         """
-        m = len(matrix)
-        n = len(matrix[0])
-        max_len = 0
-        direction = [(0,1),(1,0),(0,-1),(-1,0)]
-        dp = [[0]*n for _ in range(m)]
-        def dfs(i,j):
-            if dp[i][j] != 0:
-                return dp[i][j]
+        n = len(matrix)
+        m = len(matrix[0])
 
-            lenght = 1
+        direction = [(0,1), (1,0), (-1,0), (0,-1)]
+        memo = {}
+        def dfs(i, j):
+            if (i,j) in memo:
+                return memo[(i,j)]
+            max_val = 1
+            logest_val = 0
             for dx, dy in direction:
-                nx = dx + i
-                ny = dy + j
-                if 0 <= nx < m and 0 <= ny < n and matrix[nx][ny] > matrix[i][j]:
-                    lenght = max(lenght,1 + dfs(nx,ny))
+                nx = i + dx
+                ny = j + dy
+                if 0 <= nx < n and 0 <= ny < m and matrix[nx][ny] > matrix[i][j]:
+                    logest_val = max(logest_val, dfs(nx, ny))
+            max_val += logest_val
+            memo[(i,j)] = max_val
+            return max_val
 
-            dp[i][j] = lenght
-            return lenght
-                
-        for i in range(m):
-            for j in range(n):
-                longest = dfs(i,j)
-                
-                if longest > max_len:
-                    max_len = longest
-                    
-        return max_len
+        path = 0
+        for i in range(n):
+            for j in range(m):
+                path = max(path, dfs(i,j))
+                #print(i, j, path)
+        return path
+        
