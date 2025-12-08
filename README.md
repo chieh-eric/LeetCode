@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chieh-eric/LeetCode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1324-where-will-the-ball-fall](https://github.com/chieh-eric/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1325-path-with-maximum-probability](https://github.com/chieh-eric/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/chieh-eric/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1343-dice-roll-simulation](https://github.com/chieh-eric/LeetCode/tree/master/1343-dice-roll-simulation) |
 | [1348-maximum-score-of-spliced-array](https://github.com/chieh-eric/LeetCode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chieh-eric/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-largest-1-bordered-square](https://github.com/chieh-eric/LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/chieh-eric/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1299-k-concatenation-maximum-sum](https://github.com/chieh-eric/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/chieh-eric/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1343-dice-roll-simulation](https://github.com/chieh-eric/LeetCode/tree/master/1343-dice-roll-simulation) |
 | [1348-maximum-score-of-spliced-array](https://github.com/chieh-eric/LeetCode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chieh-eric/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-minimum-number-of-refueling-stops](https://github.com/chieh-eric/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0985-bag-of-tokens](https://github.com/chieh-eric/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1051-shortest-way-to-form-string](https://github.com/chieh-eric/LeetCode/tree/master/1051-shortest-way-to-form-string) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/chieh-eric/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/chieh-eric/LeetCode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/chieh-eric/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/chieh-eric/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
