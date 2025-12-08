@@ -4,14 +4,14 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        # stack [1]
-        # profit 0
-
         profit = 0
-        cur_val = prices[0]
-
-        for price in prices:
-            if price > cur_val:
-                profit += (price - cur_val)
-            cur_val = price
+        smallest = prices[0]
+        
+        n = len(prices)
+        for i in range(1, n):
+            if prices[i] > smallest:
+                profit += (prices[i] - smallest)
+                smallest = prices[i]
+            else:
+                smallest = prices[i]
         return profit
