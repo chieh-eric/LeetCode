@@ -7,7 +7,7 @@ class Solution(object):
         heights.append(0)
         n = len(heights)
    
-        stack = []
+        stack = [-1]
         max_val = 0
         #print(heights)
         for i in range(n):
@@ -16,9 +16,7 @@ class Solution(object):
             #print(stack)
             while stack and heights[stack[-1]] > heights[i]:
                 index = stack.pop()
-                width = i
-                if stack:
-                    width = i - stack[-1] - 1
+                width = i - stack[-1] - 1
                 
                 max_val = max(max_val, width*heights[index])
                 #print(max_val)
