@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2227-sum-of-subarray-ranges](https://github.com/chieh-eric/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/chieh-eric/LeetCode/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2240-intervals-between-identical-elements](https://github.com/chieh-eric/LeetCode/tree/master/2240-intervals-between-identical-elements) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/chieh-eric/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/chieh-eric/LeetCode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2262-solving-questions-with-brainpower](https://github.com/chieh-eric/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/chieh-eric/LeetCode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
@@ -1324,6 +1325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-stock-price-fluctuation](https://github.com/chieh-eric/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chieh-eric/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2240-intervals-between-identical-elements](https://github.com/chieh-eric/LeetCode/tree/master/2240-intervals-between-identical-elements) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/chieh-eric/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/chieh-eric/LeetCode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chieh-eric/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/chieh-eric/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
@@ -1412,6 +1414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/chieh-eric/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/chieh-eric/LeetCode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chieh-eric/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/chieh-eric/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/chieh-eric/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/chieh-eric/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2339-k-divisible-elements-subarrays](https://github.com/chieh-eric/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
@@ -1626,6 +1629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/chieh-eric/LeetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chieh-eric/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/chieh-eric/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/chieh-eric/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/chieh-eric/LeetCode/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/chieh-eric/LeetCode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
 | [2383-add-two-integers](https://github.com/chieh-eric/LeetCode/tree/master/2383-add-two-integers) |
@@ -1651,6 +1655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1003-minimum-area-rectangle-ii](https://github.com/chieh-eric/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/chieh-eric/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/chieh-eric/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/chieh-eric/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chieh-eric/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/chieh-eric/LeetCode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Minimum Spanning Tree
