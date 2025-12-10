@@ -1,7 +1,8 @@
+import random
 class RandomizedSet(object):
 
     def __init__(self):
-        self.arr = []
+        self.store = []
         self.pos = {}
 
     def insert(self, val):
@@ -11,10 +12,10 @@ class RandomizedSet(object):
         """
         if val in self.pos:
             return False
-        self.pos[val] = len(self.arr)
-        self.arr.append(val)
-        return True
-        
+        self.pos[val] = len(self.store)
+        self.store.append(val)
+   
+
 
     def remove(self, val):
         """
@@ -23,21 +24,22 @@ class RandomizedSet(object):
         """
         if val not in self.pos:
             return False
-        idx = self.pos[val]
-        last = self.pos[self.arr[-1]]
-        self.pos[self.arr[-1]] = idx
-
-        self.arr[idx], self.arr[last] = self.arr[last], self.arr[idx]
-        self.arr.pop()
+        lastValue = self.store[-1]
+        popIndex = self.pos[val]
+        self.store[popIndex], self.store[-1] = self.store[-1], self.store[popIndex]
+        self.pos[lastValue] = popIndex
+        self.store.pop()
         del self.pos[val]
-        return True
 
+        return True
+      
     def getRandom(self):
         """
         :rtype: int
         """
-        return random.choice(self.arr)
-
+        target = random.randint(0, len(self.store) - 1)
+        return self.store[target]
+        #print(target)
 
 # Your RandomizedSet object will be instantiated and called as such:
 # obj = RandomizedSet()
