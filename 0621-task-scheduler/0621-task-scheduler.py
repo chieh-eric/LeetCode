@@ -1,5 +1,4 @@
 import heapq
-from collections import defaultdict
 class Solution(object):
     def leastInterval(self, tasks, n):
         """
@@ -7,27 +6,30 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        count = Counter(tasks)
-        # heap -> (-remain, task)
-        pq = []
-        for task, num in count.items():
-            heapq.heappush(pq, (-num, task))
-        
+        # Largest freq first
         time = 0
-        while pq:
-            interval = n + 1
-            tmp = []
+        count = Counter(tasks)
+        task_list = []
+        for key, value in count.items():
+            heapq.heappush(task_list, (-value, key))
+        
+        while task_list:
+            neg_freq, ty = heapq.heappop(task_list)
 
-            while interval > 0 and pq:
-                neg_remain, task = heapq.heappop(pq)
-                time += 1
-                if neg_remain + 1 < 0:
-                    tmp.append((neg_remain + 1, task))
-                interval -= 1
+            more = 0
+            temp = []
+            if neg_freq + 1 < 0:
+                temp.append((neg_freq + 1, ty))
+            while task_list and more < n:
+                nxt_freq, ty = heapq.heappop(task_list)
+                if nxt_freq + 1 < 0:
+                    temp.append((nxt_freq+1, ty))
+                more += 1
+            if temp:
+                time += (1+n)
+            else:
+                time += (more+1)
 
-            for remain, task in tmp:
-                heapq.heappush(pq,(remain, task))
-            
-            if pq:
-                time += interval
+            for freq, ty in temp:
+                heapq.heappush(task_list, (freq, ty))
         return time
