@@ -564,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/chieh-eric/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/chieh-eric/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0676-implement-magic-dictionary](https://github.com/chieh-eric/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0687-longest-univalue-path](https://github.com/chieh-eric/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/chieh-eric/LeetCode/tree/master/0721-accounts-merge) |
 | [0757-pyramid-transition-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0757-pyramid-transition-matrix) |
@@ -1051,6 +1052,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/chieh-eric/LeetCode/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/chieh-eric/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/chieh-eric/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/chieh-eric/LeetCode/tree/master/0721-accounts-merge) |
 | [0727-minimum-window-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/0727-minimum-window-subsequence) |
@@ -1262,6 +1264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/chieh-eric/LeetCode/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/chieh-eric/LeetCode/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/chieh-eric/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0721-accounts-merge](https://github.com/chieh-eric/LeetCode/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/chieh-eric/LeetCode/tree/master/0807-custom-sort-string) |
@@ -1366,6 +1369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/chieh-eric/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/chieh-eric/LeetCode/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/chieh-eric/LeetCode/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/chieh-eric/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
 | [1244-distinct-echo-substrings](https://github.com/chieh-eric/LeetCode/tree/master/1244-distinct-echo-substrings) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/chieh-eric/LeetCode/tree/master/1433-encrypt-and-decrypt-strings) |
@@ -1680,6 +1684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/chieh-eric/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/chieh-eric/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chieh-eric/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0676-implement-magic-dictionary](https://github.com/chieh-eric/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0715-range-module](https://github.com/chieh-eric/LeetCode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/chieh-eric/LeetCode/tree/master/0729-my-calendar-i) |
 | [0931-maximum-frequency-stack](https://github.com/chieh-eric/LeetCode/tree/master/0931-maximum-frequency-stack) |
