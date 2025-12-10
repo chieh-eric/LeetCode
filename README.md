@@ -555,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chieh-eric/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chieh-eric/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/chieh-eric/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/chieh-eric/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1036,6 +1037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/chieh-eric/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/chieh-eric/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/chieh-eric/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/chieh-eric/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/chieh-eric/LeetCode/tree/master/0212-word-search-ii) |
 | [0316-remove-duplicate-letters](https://github.com/chieh-eric/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/chieh-eric/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -1361,6 +1363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chieh-eric/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/chieh-eric/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/chieh-eric/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/chieh-eric/LeetCode/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/chieh-eric/LeetCode/tree/master/0648-replace-words) |
 | [1097-stream-of-characters](https://github.com/chieh-eric/LeetCode/tree/master/1097-stream-of-characters) |
@@ -1673,6 +1676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/chieh-eric/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/chieh-eric/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/chieh-eric/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/chieh-eric/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/chieh-eric/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/chieh-eric/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chieh-eric/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
