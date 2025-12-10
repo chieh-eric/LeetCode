@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0621-task-scheduler](https://github.com/chieh-eric/LeetCode/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/chieh-eric/LeetCode/tree/master/0648-replace-words) |
+| [0721-accounts-merge](https://github.com/chieh-eric/LeetCode/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/chieh-eric/LeetCode/tree/master/0729-my-calendar-i) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0755-pour-water](https://github.com/chieh-eric/LeetCode/tree/master/0755-pour-water) |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/chieh-eric/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/chieh-eric/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/chieh-eric/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0721-accounts-merge](https://github.com/chieh-eric/LeetCode/tree/master/0721-accounts-merge) |
 | [0757-pyramid-transition-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0770-couples-holding-hands](https://github.com/chieh-eric/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0820-find-eventual-safe-states](https://github.com/chieh-eric/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -870,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/chieh-eric/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/chieh-eric/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/chieh-eric/LeetCode/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/chieh-eric/LeetCode/tree/master/0721-accounts-merge) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/chieh-eric/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chieh-eric/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0807-custom-sort-string](https://github.com/chieh-eric/LeetCode/tree/master/0807-custom-sort-string) |
@@ -1047,6 +1050,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/chieh-eric/LeetCode/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/chieh-eric/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/chieh-eric/LeetCode/tree/master/0721-accounts-merge) |
 | [0727-minimum-window-subsequence](https://github.com/chieh-eric/LeetCode/tree/master/0727-minimum-window-subsequence) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/chieh-eric/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -1132,6 +1136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/chieh-eric/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/chieh-eric/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0721-accounts-merge](https://github.com/chieh-eric/LeetCode/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0757-pyramid-transition-matrix](https://github.com/chieh-eric/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0770-couples-holding-hands](https://github.com/chieh-eric/LeetCode/tree/master/0770-couples-holding-hands) |
@@ -1255,6 +1260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/chieh-eric/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/chieh-eric/LeetCode/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/chieh-eric/LeetCode/tree/master/0648-replace-words) |
+| [0721-accounts-merge](https://github.com/chieh-eric/LeetCode/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/chieh-eric/LeetCode/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/chieh-eric/LeetCode/tree/master/0807-custom-sort-string) |
 | [0843-binary-trees-with-factors](https://github.com/chieh-eric/LeetCode/tree/master/0843-binary-trees-with-factors) |
@@ -1404,6 +1410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/chieh-eric/LeetCode/tree/master/0721-accounts-merge) |
 | [0770-couples-holding-hands](https://github.com/chieh-eric/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0854-making-a-large-island](https://github.com/chieh-eric/LeetCode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/chieh-eric/LeetCode/tree/master/0869-similar-string-groups) |
